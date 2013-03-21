@@ -3,7 +3,7 @@ bhq_translation
 
 ## text translation
 
-To start translating text, go to our [text database](https://tra:vame4uFS@tra.cloudant.com/rfm_loc/_design/rfm_loc/index.html#) and select your locale.
+To start translating text, go to our [text database](https://tra:vame4uFA@tra.cloudant.com/rfm_loc/_design/rfm_loc/index.html#) and select your locale.
 
 Text is arranged in bins by content area. Once you've edited and saved some text you can view it live on our test server:
 
