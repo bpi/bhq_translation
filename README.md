@@ -101,7 +101,7 @@ text translation only
 
 ### aud_chatter (In the Know)
 
-[stimulus planning and generation required]()
+[stimulus planning and generation required](chatter.md)
 
 ### emotion_match (Face to Face)
 
