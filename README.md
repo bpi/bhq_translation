@@ -65,19 +65,19 @@ text translation only
 
 ### aud_sound_discrimination (Fine Tuning)
 
-[stimulus planning and generation required]()
+[stimulus planning and generation required](tua.md)
 
 ### aud_instr_seq (To-Do List Training)
 
-[stimulus planning and generation required]()
+[stimulus planning and generation required](lad.md)
 
 ### aud_spatial_match (Memory Grid)
 
-[stimulus planning and generation required]()
+[stimulus planning and generation required](misrp.md)
 
 ### syl_ordering (Syllable Stacks)
 
-[stimulus planning and generation required]()
+[stimulus planning and generation required](misrp.md)
 
 ### visual_scan (name-visual_scan)
 
