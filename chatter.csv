@@ -1,490 +1,490 @@
-"typeID","text","filename","speaker","textagain","baseType","topic","info","confirms",,"requires_gender","requires_news",,"provides_gender","provides_news"
-,,,,,,,,,,,,,,
-0,"What is up with Neil lately?","1_0_001",1,"What is up with Neil lately?","introduce_topic","Neil",,,,,,,"male",
-0,"You know, I haven't heard from Elektra in a long time.","1_0_002",1,"You know, I haven't heard from Elektra in a long time.","introduce_topic","Elektra",,,,,,,"female",
-0,"How has Joaquin been?","1_0_003",1,"How has Joaquin been?","introduce_topic","Joaquin",,,,,,,"male",
-0,"I haven't heard much from Demetrius.","1_0_004",1,"I haven't heard much from Demetrius.","introduce_topic","Demetrius",,,,,,,"male",
-0,"Has Jesus been around much?","1_0_005",1,"Has Jesus been around much?","introduce_topic","Jesus",,,,,,,"male",
-0,"What's the word on Carlos?","1_0_006",1,"What's the word on Carlos?","introduce_topic","Carlos",,,,,,,"male",
-0,"Have you checked in with Abdul recently?","1_0_007",1,"Have you checked in with Abdul recently?","introduce_topic","Abdul",,,,,,,"male",
-0,"What's up with William?","1_0_008",1,"What's up with William?","introduce_topic","William",,,,,,,"male",
-0,"Say, do you remember Maria from that trip?","1_0_009",1,"Say, do you remember Maria from that trip?","introduce_topic","Maria",,,,,,,"female",
-0,"What's up with Inez?","1_0_010",1,"What's up with Inez?","introduce_topic","Inez",,,,,,,"female",
-0,"I'm trying to remember the last time I saw Raven.","1_0_011",1,"I'm trying to remember the last time I saw Raven.","introduce_topic","Raven",,,,,,,"female",
-0,"Is Destinee somewhere around?","1_0_012",1,"Is Destinee somewhere around?","introduce_topic","Destinee",,,,,,,"female",
-0,"What's going on with Jennifer lately?","1_0_013",1,"What's going on with Jennifer lately?","introduce_topic","Jennifer",,,,,,,"female",
-0,"Did you hear the news about Kenji?","1_0_014",1,"Did you hear the news about Kenji?","introduce_topic","Kenji",,,,,,,"female",
-0,"Has Akiko shown up yet?","1_0_015",1,"Has Akiko shown up yet?","introduce_topic","Akiko",,,,,,,"female",
-0,"I ran into Lok recently.","1_0_016",1,"I ran to Lok recently.","introduce_topic","Lok",,,,,,,"female",
-0,"Is it true that Max is up for re-election this year?","1_0_017",1,"Is it true that Max is up for re-election this year?","request_bool","Max","Is up for re-election",,,,,,"male",
-0,"Is it true that Achim is building his own aquarium?","1_0_018",1,"Is it true that Achim is building his own aquarium?","request_bool","Achim","is building an aquarium",,,,,,"male",
-0,"Does Helen still have that portrait of the Buddha?","1_0_019",1,"Does Helen still have that portrait of the Buddha?","request_bool","Helen","has a portrait of the Buddha",,,,,,"female",
-0,"Hey, did they just put Gerhardt's face on a postage stamp?","1_0_020",1,"Hey, did they just put Gerhardt's face on a postage stamp?","request_bool","Gerhardt","put face on stamp",,,,,,"male",
-0,"Say, do you know if Yukiko got hair extensions?","1_0_021",1,"Say, do you know if Yukiko got hair extensions?","request_bool","Yukiko","got hair extensions",,,,,,"female",
-0,"Is it true that Finnegan is afraid of monkeys?","1_0_022",1,"Is it true that Finnegan is afraid of monkeys?","request_bool","Finnegan","is afraid of monkeys",,,,,,"male",
-0,"Did Janet just trade her wedding ring for a turtle?","1_0_023",1,"Did Janet just trade her wedding ring for a turtle?","request_bool","Janet","has a turtle",,,,,,"female",
-0,"Is it true that Joyti got A's in all of her classes?","1_0_024",1,"Is it true that Joyti got A's in all of her classes?","request_bool","Joyti","got A's",,,,,,"female",
-0,"Did you guys hear that Lynette finally finished her PhD?","1_0_025",1,"  Did you guys hear that Lynette finally finished her PhD?","specific_info","Lynette","finally finished her PhD",,,,,,"female","positive"
-0,"So I just saw Albert getting a speeding ticket on the way over here","1_0_026",1,"   So I just saw Albert getting a speeding ticket on the way over here","specific_info","Albert","got a speeding ticket",,,,,,"male","negative"
-0,"Have you guys heard from Frida Rossi recently?","1_0_027",1,"Have you guys heard from Frida rossi recently?","introduce_topic","Frida rossi",,,,,,,"female",
-0,"So, I ran into Fred Goh the other day.","1_0_028",1,"So, I ran into Fred goh the other day.","introduce_topic","Fred goh",,,,,,,"male",
-0,"Has anyone seen Ferdinand O'Neill lately?","1_0_029",1,"Has anyone seen Ferdinand o'neill lately?","introduce_topic","Ferdinand o'neill",,,,,,,"male",
-0,"It's been a while since I had Deshawn Sabra over.","1_0_030",1,"It's been a while since I had Deshawn sabra over.","introduce_topic","Deshawn sabra",,,,,,,"male",
-0,"What's the deal with Jamal moser?","1_0_031",1,"What's the deal with Jamal moser?","introduce_topic","Jamal moser",,,,,,,"male",
-0,"Has Joaquin Clark been showing up these days?","1_0_032",1,"Has Joaquin clark been showing up these days?","introduce_topic","Joaquin clark",,,,,,,"male",
-0,"Have you heard about Diego Barker?","1_0_033",1,"Have you heard about Diego barker?","introduce_topic","Diego barker",,,,,,,"male",
-0,"Have you seen Karim Thomas around?","1_0_034",1,"Have you seen Karim thomas around?","introduce_topic","Karim thomas",,,,,,,"male",
-0,"Any sense of where Paul Russo is?","1_0_035",1,"Any sense of where Paul russo is?","introduce_topic","Paul russo",,,,,,,"male",
-0,"Hey, do you remember Francesca Thomas?","1_0_036",1,"Hey, do you remember Francesca thomas?","introduce_topic","Francesca thomas",,,,,,,"female",
-0,"What's the deal with Pilar O'Brien lately?","1_0_037",1,"What's the deal with Pilar o'brien lately?","introduce_topic","Pilar o'brien",,,,,,,"female",
-0,"It's strange about Kesha O'Connor.","1_0_038",1,"It's strange about Kesha o'connor.","introduce_topic","Kesha o'connor",,,,,,,"female",
-0,"What's up with Judy Rizzo?","1_0_039",1,"What's up with Judy rizzo?","introduce_topic","Judy rizzo",,,,,,,"female",
-0,"Have you heard the what Tiffany Ricci has been doing?","1_0_040",1,"Have you heard the what Tiffany ricci has been doing?","introduce_topic","Tiffany ricci",,,,,,,"female",
-0,"Have we seen Ming Norris lately?","1_0_041",1,"Have we seen Ming norris lately?","introduce_topic","Ming norris",,,,,,,"female",
-0,"I heard from Cho Goh the other day.","1_0_042",1,"I heard from Cho goh the other day.","introduce_topic","Cho goh",,,,,,,"female",
-0,"What did Kwan Miller say the other day?","1_0_043",1,"What did Kwan miller say the other day?","introduce_topic","Kwan miller",,,,,,,"female",
-0,"Do you guys know if Gina Mueller is going to be at work tomorrow?","1_0_044",1," Do you guys know if Gina mueller is going to be at work tomorrow?","request_bool","Gina mueller","Is going to be at work tomorrow",,,,,,"female",
-0,"Say, do you guys know if Elmer Russo ever became a ninja?","1_0_045",1,"Say, do you guys know if Elmer russo ever became a ninja?","request_bool","Elmer russo","became a ninja",,,,,,"male",
-0,"Is Lucinda Steiner still stuck in that yoga pose?","1_0_046",1,"Is Lucinda steiner still stuck in that yoga pose?","request_bool","Lucinda steiner","stuck in yoga pose",,,,,,"female",
-0,"Has Stevie O'Brien stopped shaving his eyebrows yet?","1_0_047",1,"Has Stevie o'brien stopped shaving his eyebrows yet?","request_bool","Stevie o'brien","shaved his eyebrows",,,,,,"male",
-0,"Does Jeremiah O'Connor really think he's a bullfrog?","1_0_048",1,"Does Jeremiah o'connor really think he's a bullfrog?","request_bool","Jeremiah o'connor","thinks he's a frog",,,,,,"male",
-0,"Say, do you know if Jack Howards appeared on that game show?","1_0_049",1,"Say, do you know if Jack howards appeared on that game show?","request_bool","Jack howards","appeared on a game show",,,,,,"male",
-0,"Does Hiram Yamaguchi still have that recipe for chocolate macaroons?","1_0_050",1,"Does Hiram yamaguchi still have that recipe for chocolate macaroons?","request_bool","Hiram yamaguchi","has a recipe",,,,,,"male",
-0,"Did Missy Sabra give her pet rock collection to her new girlfriend?","1_0_051",1,"Did Missy sabra give her pet rock collection to her new girlfriend?","request_bool","Missy sabra","gave collection away",,,,,,"female",
-0,"Did you guys hear that Lynette Thomson finally finished her PhD?","1_0_052",1,"  Did you guys hear that Lynette thomson finally finished her PhD?","specific_info","Lynette thomson","finally finished her PhD",,,,,,"female","positive"
-0,"So I just saw Albert Ricci getting a speeding ticket on the way over here.","1_0_053",1,"   So I just saw Albert ricci getting a speeding ticket on the way over here","specific_info","Albert ricci","got a speeding ticket",,,,,,"male","negative"
-1,"Say, do you know if he is planning on joining our little conference call tomorrow?","1_1_001",1," Say, do you know if he is planning on joining our little conference call tomorrow?","request_bool",,"Is planning on joining a conference",,,"male",,,,
-1,"Is he still under investigation for that incident with the vending machines?","1_1_002",1,"Is he still under investigation for that incident with the vending machines?","request_bool",,"is under investigation",,,"male",,,,
-1,"Oh, say, did she end up buying that old warehouse on 3rd street?","1_1_003",1,"Oh, say, did she end up buying that old warehouse on 3rd street?","request_bool",,"bought a warehouse",,,"female",,,,
-1,"Is it true that he eats four buckets of chicken for dinner?","1_1_004",1,"Is it true that he eats four buckets of chicken for dinner?","request_bool",,"eats four buckets of chicken",,,"male",,,,
-1,"Is it true that her Mom was yelling at her outside the caf√©?","1_1_005",1,"Is it true that her Mom was yelling at her outside the café?","request_bool",,"was yelled at",,,"female",,,,
-1,"Is it true that he wears a snow suit in August?","1_1_006",1,"Is it true that he wears a snow suit in August?","request_bool",,"wears a snow suit",,,"male",,,,
-1,"Is it true that he break dances before going to sleep?","1_1_007",1,"Is it true that he break dances before going to sleep?","request_bool",,"is a break dancer",,,"male",,,,
-1,"Did his new cat really attack the postman?","1_1_008",1,"Did his new cat really attack the postman?","request_bool",,"has a new cat",,,"male",,,,
-1,"Do you know if he is planning to dye his hair purple?","1_1_009",1,"Do you know if he is planning to dye his hair purple?","request_bool",,"is planning on dyeing his hair",,,"male",,,,
-1,"Is it true that he only talks to his pet hamster?","1_1_010",1,"Is it true that he only talks to his pet hamster?","request_bool",,"talks to his pet hamster",,,"male",,,,
-1,"Is it true that she prefers pants four sizes too small?","1_1_011",1,"Is it true that she prefers pants four sizes too small?","request_bool",,"prefers small pants",,,"female",,,,
-1,"Did she really join a motorcycle gang?","1_1_012",1,"Did she really join a motorcycle gang?","request_bool",,"joined a motorcycle gang",,,"female",,,,
-1,"Was that her new puppy waiting by the fence?","1_1_013",1,"Was that her new puppy waiting by the fence?","request_bool",,"has a new puppy",,,"female",,,,
-1,"Say, did her husband buy her power tools for her birthday?","1_1_014",1,"Say, did her husband buy her power tools for her birthday?","request_bool",,"has new power tools",,,"female",,,,
-1,"Is he still being accused of cheating on his taxes?","1_1_015",1,"Is he still being accused of cheating on his taxes?","request_bool",,"is being accused",,,"male",,,,
-1,"Does he really collect custom-blown glass figurines?","1_1_016",1,"Does he really collect custom-blown glass figurines?","request_bool",,"collects figurines",,,"male",,,,
-1,"Is it true that he has finally learned to sing on-key?","1_1_017",1,"Is it true that he has finally learned to sing on-key?","request_bool",,"sings on-key",,,"male",,,,
-1,"Did he really just have a tiki party?","1_1_018",1,"Did he really just have a tiki party?","request_bool",,"had party",,,"male",,,,
-1,"Is it true that she yodels when she's happy?","1_1_019",1,"Is it true that she yodels when she's happy?","request_bool",,"yodels when she's happy",,,"female",,,,
-1,"Is it true that she got probation?","1_1_020",1,"Is it true that she got probation?","request_bool",,"got probation",,,"female",,,,
-1,"Does she really like to feed live snakes?","1_1_021",1,"Does she really like to feed live snakes?","request_bool",,"feed live snakes",,,"female",,,,
-1,"Is it true that she used to be a commodities trader?","1_1_022",1,"Is it true that she used to be a commodities trader?","request_bool",,"used to be a commodities trader",,,"female",,,,
-1,"Have you heard she won employee of the month?","1_1_023",1,"Have you heard she won employee of the month?","request_bool",,"won employee of the month",,,"female",,,,
-1,"Is it true that she can drive a race car?","1_1_024",1,"Is it true that she can drive a race car?","request_bool",,"can drive a race car",,,"female",,,,
-1,"Was it really him on the front page of the newspaper?","1_1_025",1,"Was it really him on the front page of the newspaper?","request_bool",,"on the front page of the newspaper",,,"male",,,,
-1,"Did he actually build his own computer?","1_1_026",1,"Did he actually build his own computer?","request_bool",,"build his own computer",,,"male",,,,
-1,"Did you know that he lost his job?","1_1_027",1,"Did you know that he lost his job.","request_bool",,"lost his job",,,"male",,,,
-1,"Wasn't he fined for dissing the judge?","1_1_028",1,"Wasn't he fined for dissing the judge?","request_bool",,"fined for dissing the judge",,,"male",,,,
-1,"Wasn't he late for court?","1_1_029",1,"Wasn't he late for court?","request_bool",,"late for court",,,"male",,,,
-1,"His homepage says he just had a baby girl..","1_1_030",1,"His homepage says he just had a baby girl,","specific_info",,"just had a baby girl",,,"male",,,,"positive"
-1,"I heard she just bought a small island.","1_1_031",1," I heard she just bought a small island.","specific_info",,"bought a small island",,,"female",,,,"positive"
-1,"I hear he's getting a divorce","1_1_032",1," I hear he's getting a divorce","specific_info",,"is getting a divorce",,,"male",,,,"negative"
-1,"Can you believe he actually won the lottery?","1_1_033",1,"Can you believe he actually won the lottery?","specific_info",,"won the lottery",,,"male",,,,"positive"
-1,"I heard she had her library card suspended for like a year.","1_1_034",1,"I heard she had her library card suspended for like a year.","specific_info",,"had her library card suspended",,,"female",,,,"negative"
-1,"I heard he broke his arm playing poker.","1_1_035",1,"I heard he broke his arm playing poker.","specific_info",,"broke his arm",,,"male",,,,"negative"
-1,"Did you know he started working at the gas station?","1_1_036",1,"Did you know he started working at the gas station?","specific_info",,"started working in gas station",,,"female",,,,"positive"
-1,"I hear he finally got out of the hospital.","1_1_037",1,"I hear he finally got out of the hospital.","specific_info",,"just got out of the hospital",,,"male",,,,"positive"
-1,"She dressed in army fatigues for ten days straight.","1_1_038",1,"She dressed in army fatigues for ten days straight.","specific_info",,"dressed in army fatigues",,,"female",,,,"positive"
-1,"Did you hear she tried to buy a unicorn on eBay?","1_1_039",1,"Did you hear she tried to buy a unicorn on eBay?","specific_info",,"tried to buy a unicorn",,,"female",,,,"positive"
-1,"Did you know she had all her mail forwarded to The White House?","1_1_040",1,"Did you know she had all her mail forwarded to The White House?","specific_info",,"had her mail forwarded",,,"female",,,,"positive"
-1,"Can you believe he may be related to the Queen of England?","1_1_041",1,"Can you believe he may be related to the Queen of England?","specific_info",,"related to the Queen",,,"male",,,,"positive"
-1,"Can you believe he only wears Super Hero underwear?","1_1_042",1,"Can you believe he only wears Super Hero underwear?","specific_info",,"only wears super hero underwear",,,"male",,,,"positive"
-1,"Yeah, well let's just say she wears too much eyeliner..","1_1_043",1,"Yeah, well let's just say she wears too much eyeliner..","specific_info",,"wears too much eye liner",,,"female",,,,"negative"
-1,"Can you believe that he got stuck to the toilet?","1_1_044",1,"Can you believe that he got stuck to the toilet?","specific_info",,"got stuck to toilet",,,"male",,,,"negative"
-1,"I hear he was attacked by a rabid pigeon.","1_1_045",1,"I hear he was attacked by a rabid pigeon.","specific_info",,"attacked by bird",,,"male",,,,"negative"
-1,"I hear he left his sink running for two weeks.","1_1_046",1,"I hear he left his sink running for two weeks.","specific_info",,"left sink running",,,"male",,,,"negative"
-1,"Did her cell phone really fall in the toilet?","1_1_047",1,"Did her cell phone really fall in the toilet?","specific_info",,"cell phone fell",,,"female",,,,"negative"
-1,"Did you hear that she only eats jelly donuts?","1_1_048",1,"Did you hear that she only eats jelly donuts?","specific_info",,"eats donuts",,,"female",,,,"negative"
-1,"Did you know that he owned a pet store?","1_1_049",1,"Did you know that he owned a pet store?","specific_info",,"owns a pet store",,,"male",,,,"positive"
-1,"Everyone thinks he's obnoxious.","1_1_050",1,"Everyone thinks he's obnoxious.","specific_info",,"is obnoxious",,,"male",,,,"negative"
-1,"I am sure that she fixed all those mistakes.","1_1_051",1,"I am sure that she fixed all those mistakes.","specific_info",,"fixed all those mistakes",,,"female",,,,"positive"
-1,"Some people say that she's the nicest person around.","1_1_052",1,"Some people say that she's the nicest person around.","specific_info",,"is the nicest person around",,,"female",,,,"positive"
-1,"I heard that she lost her kitten.","1_1_053",1,"I heard that she lost her kitten.","specific_info",,"lost her kitten",,,"female",,,,"negative"
-1,"She was asked to help at the pet shop.","1_1_054",1,"She was asked to help at the pet shop.","specific_info",,"was asked to help at a pet shop",,,"female",,,,"positive"
-1,"I heard he was first in line for those concert tickets.","1_1_055",1,"I heard he was first in line for those concert tickets.","specific_info",,"was first in line for tickets",,,"male",,,,"positive"
-1,"I heard she was evicted from that messy apartment.","1_1_056",1,"I heard she was evicted from that messy apartment.","specific_info",,"was evicted",,,"female",,,,"negative"
-1,"I hear that she always writes nice notes to friends.","1_1_057",1,"I hear that she always writes nice notes to friends.","specific_info",,"writes nice notes",,,"female",,,,"positive"
-1,"I heard that he has a really expensive camera.","1_1_058",1,"I heard that  he has a really expensive camera.","specific_info",,"has an expensive camera",,,"male",,,,"positive"
-1,"I heard that she got a cool new phone.","1_1_059",1,"I heard that she got a cool new phone.","specific_info",,"got a cool new phone",,,"female",,,,"positive"
-1,"I heard that she is always nice to talk to.","1_1_060",1,"I heard that she is always nice to talk to.","specific_info",,"is nice to talk to",,,"female",,,,"positive"
-2," Hmph. Well I guess she'll be bragging about that for the next year.","1_2_001",1," Hmph. Well I guess she'll be bragging about that for the next year.","reaction",,,,,"female","positive",,,
-2," That is so unfair. I hate him!","1_2_002",1," That is so unfair. I hate him!","reaction",,,,,"male","positive",,,
-2,"Well, that's good. Finally she's catching a break.","1_2_003",1,"Well, that's good. Finally she's catching a break.","reaction",,,,,"female","positive",,,
-2,"That's great - it makes me giggle.","1_2_004",1,"That's great - it makes me giggle.","reaction",,,,,,"positive",,,
-2,"I'm happy to know things are working out for him.","1_2_005",1,"I'm happy to know things are working out for him.","reaction",,,,,"male","positive",,,
-2,"I should toast to his good fortune.","1_2_006",1,"I should toast to his good fortune.","reaction",,,,,"male","positive",,,
-2,"She deserves three cheers!","1_2_007",1,"She deserves three cheers!","reaction",,,,,"female","positive",,,
-2,"There'll be no living with him now.","1_2_008",1,"They'll be no living with him now.","reaction",,,,,"male","positive",,,
-2,"I've gotta shake her hand for that.","1_2_009",1,"I've gotta shake her hand for that.","reaction",,,,,"female","positive",,,
-2,"That's simply amazing!","1_2_010",1,"That's simply amazing!","reaction",,,,,,"positive",,,
-2,"Oh, that is really just too bad.","1_2_011",1,"     	Oh, that is really just too bad.","reaction",,,,,,"negative",,,
-2,"That is hilarious -- I wish I could have seen her expression!","1_2_012",1,"       	That is hilarious -- I wish I could have seen her expression!","reaction",,,,,"female","negative",,,
-2,"Huh. Well, serves him right, I guess.","1_2_013",1,"       	Huh. Well, serves him right, I guess.","reaction",,,,,"male","negative",,,
-2,"Ha! well, I certainly don't feel sorry for her!","1_2_014",1,"Ha! well, I certainly don't feel sorry for her!","reaction",,,,,"female","negative",,,
-2,"Really?  How horrible.","1_2_015",1,"Really?  How horrible.","reaction",,,,,,"negative",,,
-2,"I hope he gets over his bad luck soon.","1_2_016",1,"I hope he gets over his bad luck soon.","reaction",,,,,"male","negative",,,
-2,"Well, that's what you get for bragging so much.","1_2_017",1,"Well, that's what you get for bragging so much.","reaction",,,,,,"negative",,,
-2,"It's almost too much to bear.","1_2_018",1,"It's almost too much to bear.","reaction",,,,,,"negative",,,
-2,"I hope that he doesn't whine about it.","1_2_019",1,"I hope that he doesn't whine about it.","reaction",,,,,,"negative",,,
-3,"Not according to her text messages.","1_3_001",1,"  Not according to her text messages.","provide_bool",,,"negative",,"female",,,,
-3,"No, I think that's just a rumor.","1_3_002",1," No, I think that's just a rumor.","provide_bool",,,"negative",,,,,,
-3,"No, although she'd like you to think so!","1_3_003",1,"No, although she'd like you to think so!","provide_bool",,,"negative",,"female",,,,
-3,"No, I don't think so.","1_3_004",1,"No, I don't think so.","provide_bool",,,"negative",,,,,,
-3,"Yes, someone recorded it on their cell phone.","1_3_005",1,"Yes, someone recorded it on their cell phone.","provide_bool",,,"positive",,,,,,
-3,"Yes, and please don't say anything when you see her!","1_3_006",1,"Yes, and please don't say anything when you see her!","provide_bool",,,"positive",,"female",,,,
-3,"No, his mother completely denies it.","1_3_007",1,"No, his mother completely denies it.","provide_bool",,,"negative",,"male",,,,
-3,"No, she wouldn't know the truth if it bit her.","1_3_008",1,"No, she wouldn't know the truth if it bit her.","provide_bool",,,"negative",,"female",,,,
-3,"No, he probably won't talk about it.","1_3_009",1,"No, he probably won't talk about it.","provide_bool",,,"negative",,"male",,,,
-3,"You know, there is no proof that is true.","1_3_010",1,"You know, there is no proof that is true.","provide_bool",,,"negative",,,,,,
-3,"Yes, we googled that.","1_3_011",1,"Yes, we googled that.","provide_bool",,,"positive",,,,,,
-3,"No, his wife says that is impossible.","1_3_012",1,"No, his wife says that is impossible.","provide_bool",,,"negative",,"male",,,,
-3,"No, and don't bring it up around him.","1_3_013",1,"No, and don't bring it up around him.","provide_bool",,,"negative",,"male",,,,
-3,"If it's true, it's not in her diary.","1_3_014",1,"If it's true, it's not on her diary.","provide_bool",,,"negative",,"female",,,,
-4,"I really miss seeing her around.","1_4_001",1," I really miss seeing her around.","standalone_comment",,,,,"female",,,,
-4,"I was just thinking about him the other day.","1_4_002",1," I was just thinking about him the other day.","standalone_comment",,,,,"male",,,,
-4,"What a terrible human being!","1_4_003",1,"What a terrible human being!","standalone_comment",,,,,,,,,
-4,"I have not seen him in so long!","1_4_004",1,"I have not seen him in so long!","standalone_comment",,,,,"male",,,,
-4,"He is so good natured.","1_4_005",1,"He is so good natured.","standalone_comment",,,,,"male",,,,
-4,"That guy complains too much.","1_4_006",1,"That guy complains too much.","standalone_comment",,,,,"male",,,,
-4,"She is so sweet that she annoys me.","1_4_007",1,"She is so sweet that she annoys me.","standalone_comment",,,,,"female",,,,
-4,"He sure can make me laugh.","1_4_008",1,"He sure can make me laugh.","standalone_comment",,,,,"male",,,,
-4,"He can be so mean to other people!","1_4_009",1,"He can be so mean to other people!","standalone_comment",,,,,"male",,,,
-4,"She laughs like a hyena.","1_4_010",1,"She laughs like a hyena.","standalone_comment",,,,,"female",,,,
-4,"Her name hasn't crossed my lips in a month.","1_4_011",1,"Her name hasn't crossed my lips in a month.","standalone_comment",,,,,"female",,,,
-4,"She's just the coolest person ever.","1_4_012",1,"She's just the coolest person ever.","standalone_comment",,,,,"female",,,,
-4,"He's totally out of it.","1_4_013",1,"He's totally out of it.","standalone_comment",,,,,"male",,,,
-4,"She is totally uplifting.","1_4_014",1,"She is totally uplifting.","standalone_comment",,,,,"female",,,,
-4,"His opinion is worthless.","1_4_015",1,"His opinion is worthless.","standalone_comment",,,,,"male",,,,
-4,"It takes one to know one.","1_4_016",1,"It takes one to know one.","standalone_comment",,,,,,,,,
-0,"How is Berna doing these days?","2_0_001",2," How is Berna doing these days?","introduce_topic","Berna",,,,,,,"female",
-0,"Hey, whatever happened to Geertrui?","2_0_002",2,"Hey, whatever happened to Geertrui?","introduce_topic","Geertrui",,,,,,,"female",
-0,"So is Roy still around?","2_0_003",2,"So is Roy still around?","introduce_topic","Roy",,,,,,,"male",
-0,"I bumped into Tyrone the other day.","2_0_004",2,"I bumped into Tyrone the other day.","introduce_topic","Tryone",,,,,,,"male",
-0,"Is there any news about Ernesto?","2_0_005",2,"Is there any news about Ernesto?","introduce_topic","Ernesto",,,,,,,"male",
-0,"Have you heard from Alejandro?","2_0_006",2,"Have you heard from Alejandro?","introduce_topic","Alejandro",,,,,,,"male",
-0,"Anyone know how Hassan is doing?","2_0_007",2,"Anyone know how Hassan is doing?","introduce_topic","Hassan",,,,,,,"male",
-0,"Any news on Meer?","2_0_008",2,"Any news on Meer?","introduce_topic","Meer",,,,,,,"male",
-0,"What's up with Tom these days?","2_0_009",2,"What's up with Tom these days?","introduce_topic","Tom",,,,,,,"male",
-0,"Has anyone heard from Bella?","2_0_010",2,"Has anyone heard from Bella?","introduce_topic","Bella",,,,,,,"female",
-0,"Has anyone seen Jada around?","2_0_011",2,"Has anyone seen Jada around?","introduce_topic","Jada",,,,,,,"female",
-0,"I was trying to remember something about Jasmine.","2_0_012",2,"I was trying to remember something about Jasmin.","introduce_topic","Jasmin",,,,,,,"female",
-0,"Where's Paula been keeping herself?","2_0_013",2,"Where's Paula been keeping herself?","introduce_topic","Paula",,,,,,,"female",
-0,"I forget what Emma told us the other day.","2_0_014",2,"I forget what Emma told us the other day.","introduce_topic","Emma",,,,,,,"female",
-0,"What has Twee been up to?","2_0_015",2,"What has Twee been up to?","introduce_topic","Twee",,,,,,,"female",
-0,"Has anyone seen Chang?","2_0_016",2,"Has anyone seen Chang?","introduce_topic","Chang",,,,,,,"female",
-0,"Is Guillermo supposed to be here today?","2_0_017",2,"Is Guillermo supposed to be here today?","request_bool","Guillermo","Is supposed to be here",,,,,,"male",
-0," Did Carmelita really just get a new puppy?","2_0_018",2," Did Carmelita really just get a new puppy?","request_bool","Carmelita","just got a new puppy",,,,,,"female",
-0,"So did Yoshimi ever finish those robots?","2_0_019",2,"So did Yoshimi ever finish those robots?","request_bool","Yoshimi","finished the robots",,,,,,"female",
-0,"Is it true that Amber has four boyfriends?","2_0_020",2,"Is it true that Amber has four boyfriends?","request_bool","Amber","has four boyfriends",,,,,,"female",
-0,"Is it true that Tanesha took belly dancing classes?","2_0_021",2,"Is it true that Tanesha took belly dancing classes?","request_bool","Tanesha","took dance classes",,,,,,"female",
-0,"Did Zachary join the French Foreign Legion?","2_0_022",2,"Did Zachary join the French Foreign Legion?","request_bool","Zachary","joined a legion",,,,,,"male",
-0,"Is Rose still refusing to climb down from that tree?","2_0_023",2,"Is Rose still refusing to climb down from that tree?","request_bool","Rose","refuses to climb down",,,,,,"female",
-0,"Does David still pretend to be President of the United States?","2_0_024",2,"Does David still pretend to be President of the United States?","request_bool","David","pretends to be president",,,,,,"male",
-0,"So how about Horatio taking over as VP of toaster ovens!","2_0_025",2,"   So how about Horatio taking over as VP of toaster ovens!","specific_info","Horatio","is taking over as VP of toaster ovens",,,,,,"male","positive"
-0,"I guess you guys heard Roger's doctor won't let him play badminton any more..","2_0_026",2,"  I guess you guys heard Roger's doctor won't let him play badminton any more..","specific_info","Roger","can't play badminton",,,,,,"male","negative"
-0,"Can you believe Cheryl didn't get accepted to Dartmouth?","2_0_027",2,"   Can you believe Cheryl didn't get accepted to Dartmouth?","specific_info","Cheryl","didn't get accepted to Dartmouth",,,,,,"female","negative"
-0,"What is up with Neil Thomson lately?","2_0_028",2,"What is up with Neil thomson lately?","introduce_topic","Neil thomson",,,,,,,"male",
-0,"You know, I haven't heard from Elektra Ricci in a long time.","2_0_029",2,"You know, I haven't heard from Elektra ricci in a long time.","introduce_topic","Elektra ricci",,,,,,,"female",
-0,"How has Joaquin O'Neill been?","2_0_030",2,"How has Joaquin o'neill been?","introduce_topic","Joaquin o'neill",,,,,,,"male",
-0,"I haven't heard much from Demetrius Howard.","2_0_031",2,"I haven't heard much from Demetrius howard.","introduce_topic","Demetrius howard",,,,,,,"male",
-0,"Has Jesus Thomson been around much?","2_0_032",2,"Has Jesus thomson been around much?","introduce_topic","Jesus thomson",,,,,,,"male",
-0,"What's the word on Carlos Morris?","2_0_033",2,"What's the word on Carlos morris?","introduce_topic","Carlos morris",,,,,,,"male",
-0,"Have you checked in with Abdul Norris recently?","2_0_034",2,"Have you checked in with Abdul norris recently?","introduce_topic","Abdul norris",,,,,,,"male",
-0,"What's up with William Miller?","2_0_035",2,"What's up with William miller?","introduce_topic","William miller",,,,,,,"male",
-0,"Say, do you remember Maria Parker from that trip?","2_0_036",2,"Say, do you remember Maria parker from that trip?","introduce_topic","Maria parker",,,,,,,"female",
-0,"What's up with Inez Thomas?","2_0_037",2,"What's up with Inez thomas?","introduce_topic","Inez thomas",,,,,,,"female",
-0,"I'm trying to remember the last time I saw Raven Leitner.","2_0_038",2,"I'm trying to remember the last time I saw Raven leitner.","introduce_topic","Raven leitner",,,,,,,"female",
-0,"Is Destinee Yamamoto somewhere around?","2_0_039",2,"Is Destinee yamamoto somewhere around?","introduce_topic","Destinee yamamoto",,,,,,,"female",
-0,"What's going on with Jennifer Nishimura lately?","2_0_040",2,"What's going on with Jennifer nishimura lately?","introduce_topic","Jennifer nishimura",,,,,,,"female",
-0,"Did you hear the news about Kenji Howards?","2_0_041",2,"Did you hear the news about Kenji howards?","introduce_topic","Kenji howards",,,,,,,"female",
-0,"Has Akiko Thomson shown up yet?","2_0_042",2,"Has Akiko thomson shown up yet?","introduce_topic","Akiko thomson",,,,,,,"female",
-0,"I ran into Lok Imanaka recently.","2_0_043",2,"I ran to Lok imanaka recently.","introduce_topic","Lok imanaka",,,,,,,"female",
-0,"Is it true that Max Moser is up for re-election this year?","2_0_044",2,"Is it true that Max moser is up for re-election this year?","request_bool","Max moser","Is up for re-election",,,,,,"male",
-0,"Is it true that Achim Yamamoto is building his own aquarium?","2_0_045",2,"Is it true that Achim yamamoto is building his own aquarium?","request_bool","Achim yamamoto","is building an aquarium",,,,,,"male",
-0,"Does Helen Nishimura still have that portrait of the Buddha?","2_0_046",2,"Does Helen nishimura still have that portrait of the Buddha?","request_bool","Helen nishimura","has a portrait of the Buddha",,,,,,"female",
-0,"Hey, did they just put Gerhardt Koh's face on a postage stamp?","2_0_047",2,"Hey, did they just put Gerhardt koh's face on a postage stamp?","request_bool","Gerhardt koh","put face on stamp",,,,,,"male",
-0,"Say, do you know if Yukiko Nakamura got hair extensions?","2_0_048",2,"Say, do you know if Yukiko nakamura got hair extensions?","request_bool","Yukiko nakamura","got hair extensions",,,,,,"female",
-0,"Is it true that Finnegan Wright is afraid of monkeys?","2_0_049",2,"Is it true that Finnegan wright is afraid of monkeys?","request_bool","Finnegan wright","is afraid of monkeys",,,,,,"male",
-0,"Did Janet Nakamura just trade her wedding ring for a turtle?","2_0_050",2,"Did Janet nakamura just trade her wedding ring for a turtle?","request_bool","Janet nakamura","has a turtle",,,,,,"female",
-0,"Is it true that Joyti Morris got A's in all of her classes?","2_0_051",2,"Is it true that Joyti morris got A's in all of her classes?","request_bool","Joyti morris","got A's",,,,,,"female",
-0,"So how about Horatio Xu taking over as VP of toaster ovens!","2_0_052",2,"   So how about Horatio xu taking over as VP of toaster ovens!","specific_info","Horatio xu","is taking over as VP of toaster ovens",,,,,,"male","positive"
-0,"I guess you guys heard Roger Saba's doctor won't let him play badminton any more..","2_0_053",2,"  I guess you guys heard Roger saba's doctor won't let him play badminton any more..","specific_info","Roger saba","can't play badminton",,,,,,"male","negative"
-0,"Can you believe Cheryl Yamada didn't get accepted to Dartmouth?","2_0_054",2,"   Can you believe Cheryl yamada didn't get accepted to Dartmouth?","specific_info","Cheryl yamada","didn't get accepted to Dartmouth",,,,,,"female","negative"
-1,"Is he really a Scientologist now?","2_1_001",2,"Is he really a Scientologist now?","request_bool",,"Is a Scientologist",,,"male",,,,
-1,"Was that her new electric car I saw parked outside?","2_1_002",2,"    Was that her new electric car I saw parked outside?","request_bool",,"has a new electric car",,,"female",,,,
-1,"Wasn't she just offered a position at a dot-com?","2_1_003",2,"Wasn't she just offered a position at a dot-com?","request_bool",,"was offered a position at a dot-com",,,"female",,,,
-1,"Is he really working in a pet store?","2_1_004",2,"Is he really working in a pet store?","request_bool",,"is working in pet store",,,"male",,,,
-1,"Didn't he just avoid getting arrested?","2_1_005",2,"Didn't he just avoid getting arrested?","request_bool",,"avoided getting arrested",,,"male",,,,
-1,"Say, was she really dressed like a bunny rabbit?","2_1_006",2,"Say, was she really just dressed like a bunny rabbit?","request_bool",,"dressed like bunny rabbit",,,"female",,,,
-1,"Hey, is she really forming a rock band?","2_1_007",2,"Hey, is she really forming a rock band?","request_bool",,"is forming a band",,,"female",,,,
-1,"Was that the new tutu I saw her wearing?","2_1_008",2,"Was that the new tutu I saw her wearing?","request_bool",,"has a new tutu",,,"female",,,,
-1,"Is he really a pool shark now?","2_1_009",2,"Is he really a pool shark now?","request_bool",,"Is a pool shark",,,"male",,,,
-1,"Say, did she really learn to use a computer?","2_1_010",2,"Say, did she really learn to use a computer?","request_bool",,"learned to use a computer",,,"female",,,,
-1,"Didn't the dentist tell him he had too many teeth?","2_1_011",2,"Didn't the dentist tell him he had too many teeth?","request_bool",,"has too many teeth",,,"male",,,,
-1,"Was that a goat he was herding on Main Street?","2_1_012",2,"Was that a goat he was herding on Main Street?","request_bool",,"is a goat herder",,,"male",,,,
-1,"Is it true that she swims in the fountain outside of the courthouse?","2_1_013",2,"Is it true that she swims in the fountain outside of the courthouse?","request_bool",,"swims in the fountain",,,"female",,,,
-1,"Did his wife tell him he could only wear green?","2_1_014",2,"Did his wife tell him he could only wear green?","request_bool",,"wears green",,,"female",,,,
-1,"Is it true that she is a professional ham sandwich maker?","2_1_015",2,"Is it true that she is a professional ham sandwich maker?","request_bool",,"is sandwich maker",,,"female",,,,
-1,"Say, did she buy the toilet paper with pink flamingos?","2_1_016",2,"Say, did she buy the toilet paper with pink flamingos?","request_bool",,"bought toilet paper",,,"female",,,,
-1,"Say, did she build a tree fort outside the convenience store?","2_1_017",2,"Say, did she build a tree fort outside the convenience store?","request_bool",,"built a fort",,,"female",,,,
-1,"Does she really wear a cowboy hat in the shower?","2_1_018",2,"Does she really wear cowboy hat in the shower?","request_bool",,"wears hat",,,"female",,,,
-1,"Do his sneakers always smell that way?","2_1_019",2,"Do his sneakers always smell that way?","request_bool",,"has smelly sneakers",,,"male",,,,
-1,"Was she really caught stealing?","2_1_020",2,"Was she really caught stealing?","request_bool",,"caught stealing",,,"female",,,,
-1,"Is she wearing a wig?","2_1_021",2,"Is she wearing a wig?","request_bool",,"wearing a wig",,,"female",,,,
-1,"Did she win a million dollars?","2_1_022",2,"Did she win a million dollars?","request_bool",,"win a million dollars",,,"female",,,,
-1,"Say, did she get fired from the pet store?","2_1_023",2,"Say, did she get fired from the pet store?","request_bool",,"get fired from the pet store",,,"female",,,,
-1,"Was she in line for that promotion?","2_1_024",2,"Was she in line for that promotion?","request_bool",,"in line for that promotion",,,"female",,,,
-1,"Was that her in the police lineup?","2_1_025",2,"Was that her in the police lineup?","request_bool",,"in the police lineup",,,"female",,,,
-1,"Is he really trying out for the play?","2_1_026",2,"Is he really trying out for the play?","request_bool",,"trying out for the play",,,"male",,,,
-1,"Is it true that he fell down the stairs?","2_1_027",2,"Is it true that he fell down the stairs?","request_bool",,"fell down the stairs",,,"male",,,,
-1,"Didn't he just get off the bus?","2_1_028",2,"Didn't he just get off the bus?","request_bool",,"just get off the bus",,,"male",,,,
-1,"Didn't he finally leave his apartment?","2_1_029",2,"Didn't he finally leave his apartment?","request_bool",,"finally leave his apartment",,,"male",,,,
-1,"Did you hear she was just appointed ambassador to South Korea?","2_1_030",2," Did you hear she was just appointed ambassador to South Korea?","specific_info",,"was just appointed ambassador to South Korea",,,"female",,,,"positive"
-1,"I heard she was attacked by a giant ostrich on the way to work last week.","2_1_031",2," I heard she was attacked by a giant ostrich on the way to work last week.","specific_info",,"was attacked by an ostrich",,,"female",,,,"negative"
-1,"Did you know he finally managed to quit smoking?","2_1_032",2,"Did you know he finally managed to quit smoking?","specific_info",,"quit smoking",,,"male",,,,"positive"
-1,"So what's this about them naming a town in Iowa after her?","2_1_033",2,"So what's this about them naming a town in Iowa after her?","specific_info",,"had a town named after her",,,"female",,,,"positive"
-1,"So his wife is officially leaving him for their gardener this month.","2_1_034",2,"So his wife is officially leaving him for their gardener this month.","specific_info",,"wife is leaving him",,,"male",,,,"negative"
-1,"Rumor has it she pierced her cheeks.","2_1_035",2,"Rumor has it she pierced her cheeks.","specific_info",,"pierced her cheeks",,,"female",,,,"positive"
-1,"He was just fired for singing show tunes on the job.","2_1_036",2,"He was just fired for singing show tunes on the job.","specific_info",,"fired for singing show tunes",,,"male",,,,"negative"
-1,"Well, some people think he's the next Jimmy Hendrix.","2_1_037",2,"Well, some people think he's the next Jimmy Hendrix.","specific_info",,"is the next Jimmy Hendrix",,,"male",,,,"positive"
-1,"I heard his wife was furious with him.","2_1_038",2,"I heard his wife was furious with him.","specific_info",,"wife is furious",,,"male",,,,"negative"
-1,"Can you believe he taught his parrot to sing, ""Funky Town""?","2_1_039",2,"Can you believe he taught his parrot to sing, ""Funky Town""?","specific_info",,"taught his parrot to sing",,,"male",,,,"positive"
-1,"I heard she had 5 packs of gum stuck in her hair.","2_1_040",2,"I heard she had 5 packs of gum stuck in her hair.","specific_info",,"had gum stuck in hair",,,"female",,,,"negative"
-1,"Rumor has it that he gave a great nose flute concert.","2_1_041",2,"Rumor has it that he gave a great nose flute concert.","specific_info",,"gave a great concert",,,"male",,,,"positive"
-1,"Did you hear that his pants caught on fire?","2_1_042",2,"Did you hear that his pants caught on fire?","specific_info",,"pants caught on fire",,,"male",,,,"negative"
-1,"Did you know that he swims in a kiddie pool?","2_1_043",2,"Did you know that he swims in a kiddie pool?","specific_info",,"swims in kiddie pool",,,"male",,,,"negative"
-1,"I heard she wrote her name in a public restroom.","2_1_044",2,"I heard she wrote her name in a public restroom.","specific_info",,"wrote her name",,,"female",,,,"positive"
-1,"Did you know that he prefers redheads?","2_1_045",2,"Did you know that he prefers redheads?","specific_info",,"prefers redheads",,,"male",,,,"positive"
-1,"Is it true that he declawed his cat?","2_1_046",2,"Is it true that he declawed his cat?","specific_info",,"declawed cat",,,"male",,,,"positive"
-1,"He was asked to leave for talking too loudly.","2_1_047",2,"He was asked to leave for talking too loudly.","specific_info",,"asked to leave",,,"male",,,,"negative"
-1,"Did you know that he assisted a magician?","2_1_048",2,"Did you know that he assisted a magician?","specific_info",,"assisted a magician",,,"male",,,,"positive"
-1,"Everyone thinks she's a loudmouth.","2_1_049",2,"Everyone thinks she's a loudmouth.","specific_info",,"is a loudmouth",,,"female",,,,"negative"
-1,"Is it true that her boyfriend gave her a diamond ring?","2_1_050",2,"Is it true that her boyfriend gave her a diamond ring?","specific_info",,"got a diamond ring",,,"female",,,,"positive"
-1,"Some people say that he is really talented.","2_1_051",2,"Some people say that he is really talented.","specific_info",,"is really talented",,,"male",,,,"positive"
-1,"He used to have a dog with fleas.","2_1_052",2,"He used to have a dog with fleas.","specific_info",,"had a dog with fleas",,,"male",,,,"negative"
-1,"I heard that her parakeet is really sick.","2_1_053",2,"I heard that her parakeet is really sick.","specific_info",,"has a sick parakeet",,,"female",,,,"negative"
-1,"She got roses when she sang at the theater.","2_1_054",2,"She got roses when she sang at the theater.","specific_info",,"sang and got roses",,,"female",,,,"positive"
-1,"I heard that she lost her apartment.","2_1_055",2,"I heard that she lost her apartment.","specific_info",,"lost her apartment",,,"female",,,,"negative"
-1,"It's been said that she is the smartest person around.","2_1_056",2,"It's been said that she is the smartest person around.","specific_info",,"is the smartest person around",,,"female",,,,"positive"
-1,"Is it true that he has his own blog now?","2_1_057",2,"Is it true that he has his own blog now?","specific_info",,"has a blog",,,"male",,,,"positive"
-1,"Is it true that he invented a new kind of computer?","2_1_058",2,"Is it true that he invented a new kind of computer?","specific_info",,"invented a new computer",,,"male",,,,"positive"
-1,"Rumor has it that her roommate stole her jewelry.","2_1_059",2,"Rumor has it that her roommate stole her jewelry.","specific_info",,"had her jewelry stolen",,,"female",,,,"negative"
-2,"That's great -- I really like her!","2_2_001",2," That's great -- I really like her!","reaction",,,,,"female","positive",,,
-2,"That's nice to hear. He really deserves that.","2_2_002",2," That's nice to hear. He really deserves that.","reaction",,,,,"male","positive",,,
-2,"Wow, that is really excellent news.","2_2_003",2," Wow, that is really excellent news.","reaction",,,,,,"positive",,,
-2,"Wow, well, that is a surprise.","2_2_004",2,"Wow, well, that is a surprise.","reaction",,,,,,"positive",,,
-2,"She's great at making things happen!","2_2_005",2,"She's great at making things happen!","reaction",,,,,"female","positive",,,
-2,"I wish everyone had that kind of luck!","2_2_006",2,"I wish everyone had that kind of luck!","reaction",,,,,,"positive",,,
-2,"That's swell!","2_2_007",2,"That's swell!","reaction",,,,,,"positive",,,
-2,"People shouldn't be rewarded for being rude.","2_2_008",2,"People shouldn't be rewarded for being rude.","reaction",,,,,,"positive",,,
-2,"I feel like shouting my joy off the rooftops!","2_2_009",2,"I feel like shouting my joy off the rooftops!","reaction",,,,,,"positive",,,
-2,"Good things come to good people.","2_2_010",2,"Good things come to good people.","reaction",,,,,,"positive",,,
-2,"That's awful. Really sad to hear.","2_2_011",2,"That's awful. Really sad to hear.","reaction",,,,,,"negative",,,
-2,"That's sad -- I really like her!","2_2_012",2,"That's sad -- I really like her!","reaction",,,,,"female","negative",,,
-2,"That's too bad. He is really nice.","2_2_013",2,"      	 That's too bad. He is really nice.","reaction",,,,,"male","negative",,,
-2,"Oh, no, not again!","2_2_014",2,"Oh, no, not again!","reaction",,,,,,"negative",,,
-2,"That's just dreadful.","2_2_015",2,"That's just dreadful.","reaction",,,,,,"negative",,,
-2,"Gee, I hope she can get over it.","2_2_016",2,"Gee, I hope she can get over it.","reaction",,,,,"female","negative",,,
-2,"Maybe he won't be so egotistical now.","2_2_017",2,"Maybe he won't be so egotistical now.","reaction",,,,,"male","negative",,,
-2,"That makes me feel like crying.","2_2_018",2,"That makes me feel like crying.","reaction",,,,,,"negative",,,
-2,"No use crying over spilt milk.","2_2_019",2,"No use crying over spilt milk.","reaction",,,,,,"negative",,,
-3,"Yes -- I actually just confirmed it with her publicist","2_3_001",2,"Yes -- I actually just confirmed it with her publicist","provide_bool",,,"positive",,"female",,,,
-3,"Yes -- I just spoke with his therapist. Apparently he's very excited about it.","2_3_002",2," Yes -- I just spoke with his therapist. Apparently he's very excited about it.","provide_bool",,,"positive",,"male",,,,
-3,"Yes, she said so herself not an hour ago!","2_3_003",2,"Yes, she said so herself not an hour ago!","provide_bool",,,"positive",,"female",,,,
-3,"Yes, but try not to mention it when he's around.","2_3_004",2,"Yes, but try not to mention it when he's around.","provide_bool",,,"positive",,"male",,,,
-3,"Yes, and I have pictures to prove it!","2_3_005",2,"Yes, and I have pictures to prove it!","provide_bool",,,"positive",,,,,,
-3,"No, never believe what the internet says.","2_3_006",2,"No, never believe what the internet says.","provide_bool",,,"negative",,"male",,,,
-3,"Yes, I'm pretty sure that's the full story!","2_3_007",2,"Yes, I'm pretty sure that's the full story!","provide_bool",,,"positive",,,,,,
-3,"Yes, I don't think it's possible to make that up.","2_3_008",2,"Yes, I don't think it's possible to make that up.","provide_bool",,,"positive",,,,,,
-3,"Yes, she called and told me all about it.","2_3_009",2,"Yes, she called and told me all about it.","provide_bool",,,"positive",,"female",,,,
-3,"Yes, for real ‚ how can you even make something like that up?","2_3_010",2,"Yes, for real – can you even make something like that up?","provide_bool",,,"positive",,,,,,
-3,"Yes, I saw that on Wikipedia.","2_3_011",2,"Yes, we saw that on Wikipedia.","provide_bool",,,"positive",,,,,,
-3,"Yes, someone uploaded a photo of that.","2_3_012",2,"Yes, someone uploaded a photo of that.","provide_bool",,,"positive",,,,,,
-3,"Her sister thinks that's right and she should know.","2_3_013",2,"Her sister thinks that's right and she should know.","provide_bool",,,"positive",,"female",,,,
-3,"Her boss says that's impossible.","2_3_014",2,"Her boss says that it's true.","provide_bool",,,"positive",,"female",,,,
-3,"That doesn't seem like it holds water.","2_3_015",2,"That doesn't seem like it holds water.","provide_bool",,,"negative",,,,,,
-4," She is such a sweet person.","2_4_001",2," She is such a sweet person.","standalone_comment",,,,,"female",,,,
-4," I cannot stand that guy.","2_4_002",2," I cannot stand that guy.","standalone_comment",,,,,"male",,,,
-4,"What a nice person!","2_4_003",2,"What a nice person!","standalone_comment",,,,,,,,,
-4,"She's not the sharpest tack in the box.","2_4_004",2,"She's not the sharpest tack in the box.","standalone_comment",,,,,"female",,,,
-4,"She really gets on my nerves.","2_4_005",2,"She really gets on my nerves.","standalone_comment",,,,,"female",,,,
-4,"I wish more people were like him.","2_4_006",2,"I wish more people were like him.","standalone_comment",,,,,"male",,,,
-4,"She always makes me smile.","2_4_007",2,"She always makes me smile.","standalone_comment",,,,,"female",,,,
-4,"I find him a bit clingy to be around.","2_4_008",2,"I find him a bit clingy to be around.","standalone_comment",,,,,"male",,,,
-4,"He's a good egg.","2_4_009",2,"He's a good egg.","standalone_comment",,,,,"male",,,,
-4,"Some people can't be trusted.","2_4_010",2,"Some people can't be trusted.","standalone_comment",,,,,,,,,
-4,"She is lazier than my 15 year-old cat.","2_4_011",2,"She is lazier than my 15 year-old cat.","standalone_comment",,,,,"female",,,,
-4,"He's a pretty cool dude.","2_4_012",2,"He's a pretty cool dude.","standalone_comment",,,,,"male",,,,
-4,"She makes my hair stand on end.","2_4_013",2,"She makes my hair stand on end.","standalone_comment",,,,,"female",,,,
-4,"Her take on things is always interesting.","2_4_014",2,"Her take on things is always interesting.","standalone_comment",,,,,"female",,,,
-4,"She is unreal.","2_4_015",2,"She is unreal.","standalone_comment",,,,,"female",,,,
-4,"He's just the sweetest guy ever.","2_4_016",2,"He's just the sweetest guy ever.","standalone_comment",,,,,"male",,,,
-0,"Have you guys heard from Frida recently?","3_0_001",3,"Have you guys heard from Frida recently?","introduce_topic","Frida",,,,,,,"female",
-0,"So, I ran into Fred the other day.","3_0_002",3,"So, I ran into Fred the other day.","introduce_topic","Fred",,,,,,,"male",
-0,"Has anyone seen Ferdinand lately?","3_0_003",3,"Has anyone seen Ferdinand lately?","introduce_topic","Ferdinand",,,,,,,"male",
-0,"It's been a while since I had Deshawn over.","3_0_004",3,"It's been a while since I had Deshawn over.","introduce_topic","Deshawn",,,,,,,"male",
-0,"What's the deal with Jamal?","3_0_005",3,"What's the deal with Jamal?","introduce_topic","Jamal",,,,,,,"male",
-0,"Has Joaquin been showing up these days?","3_0_006",3,"Has Joaquin been showing up these days?","introduce_topic","Joaquin",,,,,,,"male",
-0,"Have you heard about Diego?","3_0_007",3,"Have you heard about Diego?","introduce_topic","Diego",,,,,,,"male",
-0,"Have you seen Karim around?","3_0_008",3,"Have you seen Karim around?","introduce_topic","Karim",,,,,,,"male",
-0,"Any sense of where Paul is?","3_0_009",3,"Any sense of where Paul is?","introduce_topic","Paul",,,,,,,"male",
-0,"Hey, do you remember Francesca?","3_0_010",3,"Hey, do you remember Francesca?","introduce_topic","Francesca",,,,,,,"female",
-0,"What's the deal with Pilar lately?","3_0_011",3,"What's the deal with Pilar lately?","introduce_topic","Pilar",,,,,,,"female",
-0,"It's strange about Kesha.","3_0_012",3,"It's strange about Kesha.","introduce_topic","Kesha",,,,,,,"female",
-0,"What's up with Judy?","3_0_013",3,"What's up with Judy?","introduce_topic","Judy",,,,,,,"female",
-0,"Have you heard what Tiffany has been doing?","3_0_014",3,"Have you heard the what Tiffany has been doing?","introduce_topic","Tiffany",,,,,,,"female",
-0,"Have we seen Ming lately?","3_0_015",3,"Have we seen Ming lately?","introduce_topic","Ming",,,,,,,"female",
-0,"I heard from Cho the other day.","3_0_016",3,"I heard from Cho the other day.","introduce_topic","Cho",,,,,,,"female",
-0,"What did Kwan say the other day?","3_0_017",3,"What did Kwan say the other day?","introduce_topic","Kwan",,,,,,,"female",
-0,"Do you guys know if Gina is going to be at work tomorrow?","3_0_018",3," Do you guys know if Gina is going to be at work tomorrow?","request_bool","Gina","Is going to be at work tomorrow",,,,,,"female",
-0,"Say, do you guys know if Elmer ever became a Ninja?","3_0_019",3,"Say, do you guys know if Elmer ever became a ninja?","request_bool","Elmer","became a ninja",,,,,,"male",
-0,"Is Lucinda still stuck in that yoga pose?","3_0_020",3,"Is Lucinda still stuck in that yoga pose?","request_bool","Lucinda","stuck in yoga pose",,,,,,"female",
-0,"Has Stevie stopped shaving his eyebrows yet?","3_0_021",3,"Has Stevie stopped shaving his eyebrows yet?","request_bool","Stevie","shaved his eyebrows",,,,,,"male",
-0,"Does Jeremiah really think he's a bullfrog?","3_0_022",3,"Does Jeremiah really think he's a bullfrog?","request_bool","Jeremiah","thinks he's a frog",,,,,,"male",
-0,"Say, do you know if Jack appeared on that game show?","3_0_023",3,"Say, do you know if Jack appeared on that game show?","request_bool","Jack","appeared on a game show",,,,,,"male",
-0,"Does Hiram still have that recipe for chocolate macaroons?","3_0_024",3,"Does Hiram still have that recipe for chocolate macaroons?","request_bool","Hiram","has a recipe",,,,,,"male",
-0,"Did Missy give her pet rock collection to her new girlfriend?","3_0_025",3,"Did Missy give her pet rock collection to her new girlfriend?","request_bool","Missy","gave collection away",,,,,,"female",
-0,"Guess what? Sherman just got engaged to that model he was with last week.","3_0_026",3,"Guess what? Sherman just got engaged to that model he was with last week","specific_info","Sherman","just got engaged to a model",,,,,,"male","positive"
-0,"So I just read that Phyllis is moving to Tanzania next week.","3_0_027",3," 	So I just read that Phyllis is moving to Tanzania next week.","specific_info","Phyllis","is moving to Tanzania",,,,,,"female","positive"
-0,"Have you guys seen Debbie? Her nose job turned out horribly!","3_0_028",3,"  Have you guys seen Debbie? Her nose job turned out horribly!","specific_info","Debbie","got a bad nosejob",,,,,,"female","negative"
-0,"How is Berna Xu doing these days?","3_0_029",3," How is Berna xu doing these days?","introduce_topic","Berna xu",,,,,,,"female",
-0,"Hey, whatever happened to Geertrui Saba?","3_0_030",3,"Hey, whatever happened to Geertrui saba?","introduce_topic","Geertrui saba",,,,,,,"female",
-0,"So is Roy Lark still around?","3_0_031",3,"So is Roy lark still around?","introduce_topic","Roy lark",,,,,,,"male",
-0,"I bumped into Tyrone White the other day.","3_0_032",3,"I bumped into Tryone white the other day.","introduce_topic","Tryone white",,,,,,,"male",
-0,"Is there any news about Ernesto Lark?","3_0_033",3,"Is there any news about Ernesto lark?","introduce_topic","Ernesto lark",,,,,,,"male",
-0,"Have you heard from Alejandro Wright?","3_0_034",3,"Have you heard from Alejandro wright?","introduce_topic","Alejandro wright",,,,,,,"male",
-0,"Anyone know how Hassan Howard is doing?","3_0_035",3,"Anyone know how Hassan howard is doing?","introduce_topic","Hassan howard",,,,,,,"male",
-0,"Any news on Meer Clark?","3_0_036",3,"Any news on Meer clark?","introduce_topic","Meer clark",,,,,,,"male",
-0,"What's up with Tom O' Reilly these days?","3_0_037",3,"What's up with Tom o'reilly these days?","introduce_topic","Tom o'reilly",,,,,,,"male",
-0,"Has anyone heard from Bella Rizzo?","3_0_038",3,"Has anyone heard from Bella rizzo?","introduce_topic","Bella rizzo",,,,,,,"female",
-0,"Has anyone seen Jada Imanaka around?","3_0_039",3,"Has anyone seen Jada imanaka around?","introduce_topic","Jada imanaka",,,,,,,"female",
-0,"I was trying to remember something about Jasmine Rossi.","3_0_040",3,"I was trying to remember something about Jasmin rossi.","introduce_topic","Jasmin rossi",,,,,,,"female",
-0,"Where's Paula Koh been keeping herself?","3_0_041",3,"Where's Paula koh been keeping herself?","introduce_topic","Paula koh",,,,,,,"female",
-0,"I forget what Emma White told us the other day.","3_0_042",3,"I forget what Emma white told us the other day.","introduce_topic","Emma white",,,,,,,"female",
-0,"What has Twee Yamada been up to?","3_0_043",3,"What has Twee yamada been up to?","introduce_topic","Twee yamada",,,,,,,"female",
-0,"Has anyone seen Chang O'Reilly?","3_0_044",3,"Has anyone seen Chang o'reilly?","introduce_topic","Chang o'reilly",,,,,,,"female",
-0,"Is Guillermo Yamaguchi supposed to be here today?","3_0_045",3,"Is Guillermo yamaguchi supposed to be here today?","request_bool","Guillermo yamaguchi","Is supposed to be here",,,,,,"male",
-0,"Did Carmelita Wu really just get a new puppy?","3_0_046",3," Did Carmelita wu really just get a new puppy?","request_bool","Carmelita wu","just got a new puppy",,,,,,"female",
-0,"So did Yoshimi Mueller ever finish those robots?","3_0_047",3,"So did Yoshimi mueller ever finish those robots?","request_bool","Yoshimi mueller","finished the robots",,,,,,"female",
-0,"Is it true that Amber Steiner has four boyfriends?","3_0_048",3,"Is it true that Amber steiner has four boyfriends?","request_bool","Amber steiner","has four boyfriends",,,,,,"female",
-0,"Is it true that Tanesha Yamada took belly dancing classes?","3_0_049",3,"Is it true that Tanesha yamada took belly dancing classes?","request_bool","Tanesha yamada","took dance classes",,,,,,"female",
-0,"Did Zachary Parker join the French Foreign Legion?","3_0_050",3,"Did Zachary parker join the French Foreign Legion?","request_bool","Zachary parker","joined a legion",,,,,,"male",
-0,"Is Rose Wu still refusing to climb down from that tree?","3_0_051",3,"Is Rose wu still refusing to climb down from that tree?","request_bool","Rose wu","refuses to climb down",,,,,,"female",
-0,"Does David Barker still pretend to be President of the United States?","3_0_052",3,"Does David barker still pretend to be President of the United States?","request_bool","David barker","pretends to be president",,,,,,"male",
-0,"Guess what? Sherman Rossi just got engaged to that model he was with last week.","3_0_053",3,"Guess what? Sherman rossi just got engaged to that model he was with last week","specific_info","Sherman rossi","just got engaged to a model",,,,,,"male","positive"
-0,"So I just read that Phyllis Goh is moving to Tanzania next week.","3_0_054",3," 	So I just read that Phyllis goh is moving to Tanzania next week.","specific_info","Phyllis goh","is moving to Tanzania",,,,,,"female","positive"
-0,"Have you guys seen Debbie O'Neill? Her nose job turned out horribly!","3_0_055",3,"  Have you guys seen Debbie o'neill? Her nose job turned out horribly!","specific_info","Debbie o'neill","got a bad nosejob",,,,,,"female","negative"
-1,"Is it true that she is working for the KGB?","3_1_001",3," Is it true that she is working for the KGB?","request_bool",,"works for the KGB",,,"female",,,,
-1,"Isn't he going on reality TV next week?","3_1_002",3,"Isn't he going on reality TV next week?","request_bool",,"is going on reality tv",,,"male",,,,
-1,"Is it true that she is decorating her new apartment?","3_1_003",3,"Is it true that she is decorating her new apartment?","request_bool",,"is decorating new apt",,,"female",,,,
-1,"Was that his dog eating all his new clothes?","3_1_004",3,"Was that his dog eating all his new clothes?","request_bool",,"has new clothes",,,"male",,,,
-1,"Is it true that his television was stolen?","3_1_005",3,"Is it true that his television was stolen?","request_bool",,"had television stolen",,,"male",,,,
-1,"Isn't he hanging out at the convenience store this week?","3_1_006",3,"Isn't he hanging out at the convenience store this week?","request_bool",,"is hanging out at convenience store",,,"male",,,,
-1,"Does he really carry a stuffed duck around with him?","3_1_007",3,"Does he really carry a stuffed duck around with him?","request_bool",,"carries a stuffed duck",,,"male",,,,
-1,"It is true that she got her driver's license?","3_1_008",3,"It is true that she got her driver's license?","request_bool",,"got a driver's license",,,"female",,,,
-1,"Is it true that she only eats breakfast cereal?","3_1_009",3,"Is it true that she only eats breakfast cereal?","request_bool",,"eats breakfast cereal",,,"female",,,,
-1,"Does he really spend his days in a cheese factory?","3_1_010",3,"Does he really spend his days in a cheese factory?","request_bool",,"spends day in a cheese factor",,,"male",,,,
-1,"Hey, is she really expecting quadruplets?","3_1_011",3,"Hey, is she really expecting quadruplets?","request_bool",,"is expecting quadruplets",,,"female",,,,
-1,"Did he just return from safari in Africa?","3_1_012",3,"Did he just return from safari in Africa?","request_bool",,"returned from safari",,,"male",,,,
-1,"Say, are his shoes really made from recycled action figures?","3_1_013",3,"Say, are his  shoes really made from recycled action figures?","request_bool",,"has new shoes",,,"male",,,,
-1,"Is it true he was voted Sexiest Guy by the tabloids?","3_1_014",3,"Is it true he was voted Sexiest Guy by the tabloids?","request_bool",,"was sexiest man alive",,,"male",,,,
-1,"Hey, will he join in our Row, Row, Row Your Boat sing-along?","3_1_015",3,"Hey, will he join on our Row, Row, Row Your Boat sing-along?","request_bool",,"will join a sing-along",,,"male",,,,
-1,"Is it true that he uses steak sauce on apples?","3_1_016",3,"Is it true that he uses steak sauce on apples?","request_bool",,"uses steak sauce",,,"male",,,,
-1,"Does he really blow his nose into a sock?","3_1_017",3,"Does he really blow his nose into a sock?","request_bool",,"blows his nose",,,"male",,,,
-1,"Say, is it true that she looks like her basset hound?","3_1_018",3,"Say, is it true that she looks like her basset hound?","request_bool",,"looks like her dog",,,"female",,,,
-1,"Did she really quit that job?","3_1_019",3,"Did she really quit that job?","request_bool",,"quit that job",,,"female",,,,
-1,"Does her hair curl naturally?","3_1_020",3,"Does her hair curl naturally?","request_bool",,"hair curl naturally",,,"female",,,,
-1,"Do you know if she's really a beauty queen?","3_1_021",3,"Do you know if she's really a beauty queen?","request_bool",,"is a beauty queen",,,"female",,,,
-1,"Does she actually think that she'll win the lottery?","3_1_022",3,"Does she actually think that she'll win the lottery?","request_bool",,"win the lottery",,,"female",,,,
-1,"Did she get the special parking place?","3_1_023",3,"Did she get the special parking place?","request_bool",,"special parking place",,,"female",,,,
-1,"Does she really date a famous movie star?","3_1_024",3,"Does she really date a famous movie star?","request_bool",,"date a famous movie star",,,"female",,,,
-1,"Is it true that his eyes aren't the same color?","3_1_025",3,"Is it true that his eyes aren't the same color?","request_bool",,"eyes aren't the same color",,,"male",,,,
-1,"Isn't he a well-known director?","3_1_026",3,"Isn't he a well-known director?","request_bool",,"a well-known director",,,"male",,,,
-1,"Is that his race car parked in the ""no parking"" zone?","3_1_027",3,"Is that his race car parked in the ""no parking"" zone?","request_bool",,"race car parked in the no parking zone",,,"male",,,,
-1,"Isn't he the one who got mad?","3_1_028",3,"Isn't he the one who got mad?","request_bool",,"the one who got mad?",,,"male",,,,
-1,"He was just promoted to head clerk.","3_1_029",3," He was just promoted to head clerk.","specific_info",,"was just promoted to head clerk",,,"male",,,,"positive"
-1,"Yeah.. well, let's just say she'll be in a Guatemalan prison until at least 2046.","3_1_030",3," Yeah.. well, let's just say she'll be in a Guatemalan prison until at least 2046.","specific_info",,"is in guatemalan prison",,,"female",,,,"negative"
-1,"Did you know he was transformed into a pumpkin?","3_1_031",3," Did you know he was transformed into a pumpkin?","specific_info",,"was transformed into a pumpkin",,,"male",,,,"negative"
-1,"I just talked to her cousin and apparently she just inherited a bunch of vintage halloween costumes!","3_1_032",3,"I just talked to her cousin and apparently she just inherited a bunch of vintage halloween costumes!","specific_info",,"just inherited some cards",,,"female",,,,"positive"
-1,"Did you hear her car was stolen last week?","3_1_033",3,"Did you hear her car was stolen last week?","specific_info",,"had her car stolen",,,"female",,,,"negative"
-1,"The newspaper said he was arrested for singing badly.","3_1_034",3,"The newspaper said he was arrested for singing badly.","specific_info",,"arrested for singing badly",,,"male",,,,"negative"
-1,"Can you believe she won a butter making contest?","3_1_035",3,"Can you believe she won a butter making contest?","specific_info",,"won butter making content",,,"female",,,,"positive"
-1,"I heard she named her new dance The Backhanded Cakewalk?","3_1_036",3,"I heard she named her new dance The Backhanded Cakewalk?","specific_info",,"named her new dance",,,"female",,,,"positive"
-1,"So he can open up a soda can with his nose.","3_1_037",3,"So he can open up a soda can with his nose.","specific_info",,"could open a soda can",,,"male",,,,"positive"
-1,"Yeah, well, let's just say he suffers from male pattern baldness.","3_1_038",3,"Yeah, well, let's just say he suffers from male pattern baldness.","specific_info",,"suffers from baldness",,,"male",,,,"negative"
-1,"She gained 50 pounds eating cheese puffs.","3_1_039",3,"She gained 50 pounds eating cheese puffs.","specific_info",,"gained 50 pounds",,,"female",,,,"negative"
-1,"I heard she sneaked into a video game conference.","3_1_040",3,"I heard she sneaked into a video game conference.","specific_info",,"sneaked into conference",,,"female",,,,"positive"
-1,"Did you see that her eyeglasses are all scratched up?","3_1_041",3,"Did you see that her eyeglasses are all scratched up?","specific_info",,"wears thick eyeglasses",,,"female",,,,"negative"
-1,"He was suspended from work for forgetting to wear pants.","3_1_042",3,"He was suspended from work for forgetting to wear pants.","specific_info",,"suspended from work",,,"male",,,,"negative"
-1,"Did you hear she is riding in the front of the parade?","3_1_043",3,"Did you hear she is riding in the front of the parade?","specific_info",,"riding in parade",,,"female",,,,"positive"
-1,"Um, let's just say he needs a good haircut.","3_1_044",3,"Um, let's just say he needs a good haircut.","specific_info",,"needs a haircut",,,"male",,,,"negative"
-1,"Did you hear that she fainted at the rock concert?","3_1_045",3,"Did you hear that she fainted at the rock concert?","specific_info",,"fainted at concert",,,"female",,,,"negative"
-1,"Rumor has it that he gets pedicures on Wednesdays.","3_1_046",3,"Rumor has it that he gets pedicures on Wednesdays.","specific_info",,"gets pedicures",,,"male",,,,"positive"
-1,"Do you know that they refused to give her a job at the circus?","3_1_047",3,"Do you now they refused to give her a job at the circus?","specific_info",,"couldn't get a job at the circus",,,"female",,,,"negative"
-1,"Have you heard that he fell down a flight of steps?","3_1_048",3,"Have you heard that he fell down a flight of steps?","specific_info",,"fell down the stairs",,,"male",,,,"negative"
-1,"Is it true that he had a hundred dollars in his wallet?","3_1_049",3,"Is it true that he had a hundred dollars in his wallet?","specific_info",,"had a hundred dollars in his wallet",,,"male",,,,"positive"
-1,"I heard that everything turned out great for her.","3_1_050",3,"I heard that everything turned out great for her.","specific_info",,"had things turn out well",,,"female",,,,"positive"
-1,"I heard his friend did him a big favor.","3_1_051",3,"I heard his friend did him a big favor.","specific_info",,"received a favor from a friend",,,"male",,,,"positive"
-1,"Some people think he is as ugly as his dog.","3_1_052",3,"Some people think he is as ugly as his dog.","specific_info",,"is as ugly as his dog",,,"male",,,,"negative"
-1,"He was invited to be in the management program.","3_1_053",3,"He was invited to be in the management program.","specific_info",,"was invited to be in the management program",,,"male",,,,"positive"
-1,"I heard she found a lucky penny.","3_1_054",3,"I heard she found a lucky penny.","specific_info",,"found a lucky penny",,,"female",,,,"positive"
-1,"Wasn't he arrested for driving drunk?","3_1_055",3,"Wasn't he arrested for driving drunk?","specific_info",,"was arrested for drunk driving",,,"male",,,,"negative"
-1,"Didn't she get get a ticket for texting in her car?","3_1_056",3,"Didn't she get get a ticket for texting in her car?","specific_info",,"got a ticket for texting",,,"female",,,,"negative"
-1,"So what's this about naming a star after her?","3_1_057",3,"So what's this about naming a star after her?","specific_info",,"has a star named after her",,,"female",,,,"positive"
-1,"I thought that she was mugged by somebody on the bus.","3_1_058",3,"I thought that she was mugged by somebody on the bus.","specific_info",,"was mugged on the bus",,,"female",,,,"negative"
-2,"Really? Good for her!","3_2_001",3," Really? Good for her!","reaction",,,,,"female","positive",,,
-2,"Wow, that's good for him!","3_2_002",3," Wow, that's good for him!","reaction",,,,,"male","positive",,,
-2,"That's fantastic. Really good to hear.","3_2_003",3," That's fantastic. Really good to hear.","reaction",,,,,,"positive",,,
-2,"Well, I'm sure his mother will be happy to hear that!","3_2_004",3,"Well, I'm sure his mother will be happy to hear that!","reaction",,,,,"male","positive",,,
-2,"He deserves to be successful.","3_2_005",3,"He deserves to be successful","reaction",,,,,"male","positive",,,
-2,"That's just super to hear!","3_2_006",3,"That's just super to hear!","reaction",,,,,,"positive",,,
-2,"I hope her friends will throw her a party!","3_2_007",3,"I hope her friends will throw her a party!","reaction",,,,,"female","positive",,,
-2,"It's nice to hear him come out on top.","3_2_008",3,"It's nice to hear him come out on top.","reaction",,,,,"male","positive",,,
-2,"I hope he doesn't think he's too good to be my friend now.","3_2_009",3,"I hope he doesn't think he's too good to be my friend now.","reaction",,,,,"male","positive",,,
-2,"Someone should write a song about him.","3_2_010",3,"Someone should write a song about him.","reaction",,,,,"male","positive",,,
-2,"No one deserves that more.","3_2_011",3,"No one deserves that more.","reaction",,,,,,"positive",,,
-2,"Really? I feel bad for her!","3_2_012",3," Really? I feel bad for her!","reaction",,,,,"female","negative",,,
-2,"Wow, that's terrible for him!","3_2_013",3," Wow, that's terrible for him!","reaction",,,,,"male","negative",,,
-2,"Oh, I'm sorry to hear that.","3_2_014",3,"Oh, I'm sorry to hear that.","reaction",,,,,,"negative",,,
-2,"Well, that's not good!","3_2_015",3,"Well, that's not good!","reaction",,,,,,"negative",,,
-2,"I can hardly believe it.","3_2_016",3,"I can hardly believe it.","reaction",,,,,,"negative",,,
-2,"It's sad when things like that happen.","3_2_017",3,"It's sad when things like that happen.","reaction",,,,,,"negative",,,
-2,"How devastating!","3_2_018",3,"How devastating!","reaction",,,,,,"negative",,,
-2,"I hope he learns his lesson.","3_2_019",3,"I hope he learns his lesson.","reaction",,,,,"male","negative",,,
-2,"I wish it hadn't of worked out that way.","3_2_020",3,"I wish it hadn't of worked out that way.","reaction",,,,,,"negative",,,
-3,"Not according to his wife, and she would definitely know!","3_3_001",3," Not according to his wife, and she would definitely know!","provide_bool",,,"negative",,"male",,,,
-3,"Yes, I'm afraid it's true.","3_3_002",3," Yes, I'm afraid it's true.","provide_bool",,,"positive",,,,,,
-3,"No, although I'm sure he's told you otherwise..","3_3_003",3,"No, although I'm sure he's told you you otherwise..","provide_bool",,,"negative",,"male",,,,
-3,"All signs point to YES.","3_3_004",3,"All signs point to YES.","provide_bool",,,"positive",,,,,,
-3,"Yes, his boss said it was true.","3_3_005",3,"Yes, his boss said it was true.","provide_bool",,,"positive",,"male",,,,
-3,"No, I think that's only half the truth.","3_3_006",3,"No, I think that's only half the truth.","provide_bool",,,"negative",,,,,,
-3,"I'm guessing that it's true.","3_3_007",3,"I'm guessing that it's true.","provide_bool",,,"positive",,,,,,
-3,"No, you can't believe everything you hear.","3_3_008",3,"No, he probably won't talk about it.","provide_bool",,,"negative",,"male",,,,
-3,"No, that's unlikely to be true.","3_3_009",3,"You know, there is no proof that is true.","provide_bool",,,"negative",,,,,,
-3,"No, don't believe what you read in the paper.","3_3_010",3,"No, don't believe what you read in the paper.","provide_bool",,,"negative",,,,,,
-3,"That appears to be true, but we're sure it isn't.","3_3_011",3,"That appears to be true, but we're sure it isn't.","provide_bool",,,"negative",,,,,,
-3,"No, her friend said that isn't true.","3_3_012",3,"No, her friend said that isn't true.","provide_bool",,,"negative",,"female",,,,
-3,"Her boss says that it's true.","3_3_013",3,"Yes, his boss said it was true.","provide_bool",,,"positive",,"male",,,,
-3,"That feels like it's probably true.","3_3_014",3,"That feels like it's probably true.","provide_bool",,,"positive",,,,,,
-4,"She is an utter snob.","3_4_001",3," She is an utter snob.","standalone_comment",,,,,"female",,,,
-4,"He is a really nice guy.","3_4_002",3," He is a really nice guy.","standalone_comment",,,,,"male",,,,
-4,"Now that is one strange bird.","3_4_003",3,"Now that is one strange bird.","standalone_comment",,,,,,,,,
-4,"She is so weird!","3_4_004",3,"She is so weird!","standalone_comment",,,,,"female",,,,
-4,"It's hard to believe people like that have friends.","3_4_005",3,"It's hard to believe that people like that have friends.","standalone_comment",,,,,,,,,
-4,"She is as cute as they come.","3_4_006",3,"She is as cute as they come.","standalone_comment",,,,,"female",,,,
-4,"Hanging out with him is no fun at all.","3_4_007",3,"Hanging out with him is no fun at all.","standalone_comment",,,,,"male",,,,
-4,"I should really send her an email.","3_4_008",3,"I should really send her an email.","standalone_comment",,,,,"female",,,,
-4,"She's one of a kind.","3_4_009",3,"She's one of a kind.","standalone_comment",,,,,"female",,,,
-4,"I really miss talking to him.","3_4_010",3,"I really miss talking to him.","standalone_comment",,,,,"male",,,,
-4,"He borders on scary.","3_4_011",3,"He borders on scary.","standalone_comment",,,,,"male",,,,
-4,"She's a total disaster.","3_4_012",3,"She's a total disaster.","standalone_comment",,,,,"female",,,,
-4,"He makes me want to cry.","3_4_013",3,"He makes me want to cry.","standalone_comment",,,,,"male",,,,
-4,"He's incredibly rude.","3_4_014",3,"He's incredibly rude.","standalone_comment",,,,,"male",,,,
-4,"That person is one for the books.","3_4_015",3,"That person is one for the books.","standalone_comment",,,,,,,,,
-4,"She's just an awesome friend.","3_4_016",3,"She's just an awesome friend.","standalone_comment",,,,,"female",,,,
+typeID,text,filename,speaker,textagain,baseType,topic,info,confirms,infogender,requires_gender,requires_news,,provides_gender,provides_news,complexity
+,,,,,,,,,,,,,,,
+0,What is up with Neil lately?,1_0_001,1,What is up with Neil lately?,introduce_topic,Neil,,,,,,,male,,1
+0,"You know, I haven't heard from Elektra in a long time.",1_0_002,1,"You know, I haven't heard from Elektra in a long time.",introduce_topic,Elektra,,,,,,,female,,1
+0,How has Joaquin been?,1_0_003,1,How has Joaquin been?,introduce_topic,Joaquin,,,,,,,male,,1
+0,I haven't heard much from Demetrius.,1_0_004,1,I haven't heard much from Demetrius.,introduce_topic,Demetrius,,,,,,,male,,1
+0,Has Jesus been around much?,1_0_005,1,Has Jesus been around much?,introduce_topic,Jesus,,,,,,,male,,1
+0,What's the word on Carlos?,1_0_006,1,What's the word on Carlos?,introduce_topic,Carlos,,,,,,,male,,1
+0,Have you checked in with Abdul recently?,1_0_007,1,Have you checked in with Abdul recently?,introduce_topic,Abdul,,,,,,,male,,1
+0,What's up with William?,1_0_008,1,What's up with William?,introduce_topic,William,,,,,,,male,,1
+0,"Say, do you remember Maria from that trip?",1_0_009,1,"Say, do you remember Maria from that trip?",introduce_topic,Maria,,,,,,,female,,1
+0,What's up with Inez?,1_0_010,1,What's up with Inez?,introduce_topic,Inez,,,,,,,female,,1
+0,I'm trying to remember the last time I saw Raven.,1_0_011,1,I'm trying to remember the last time I saw Raven.,introduce_topic,Raven,,,,,,,female,,1
+0,Is Destinee somewhere around?,1_0_012,1,Is Destinee somewhere around?,introduce_topic,Destinee,,,,,,,female,,1
+0,What's going on with Jennifer lately?,1_0_013,1,What's going on with Jennifer lately?,introduce_topic,Jennifer,,,,,,,female,,1
+0,Did you hear the news about Kenji?,1_0_014,1,Did you hear the news about Kenji?,introduce_topic,Kenji,,,,,,,male,,1
+0,Has Akiko shown up yet?,1_0_015,1,Has Akiko shown up yet?,introduce_topic,Akiko,,,,,,,female,,1
+0,I ran into Lok recently.,1_0_016,1,I ran to Lok recently.,introduce_topic,Lok,,,,,,,male,,1
+0,Is it true that Max is up for re-election this year?,1_0_017,1,Is it true that Max is up for re-election this year?,request_bool,Max,is up for re-election ,,,,,,male,,1
+0,Is it true that Achim is building his own aquarium?,1_0_018,1,Is it true that Achim is building his own aquarium?,request_bool,Achim,is building an aquarium,,,,,,male,,1
+0,Does Helen still have that portrait of the Buddha?,1_0_019,1,Does Helen still have that portrait of the Buddha?,request_bool,Helen,has a portrait of the Buddha,,,,,,female,,1
+0,"Hey, did they just put Gerhardt's face on a postage stamp?",1_0_020,1,"Hey, did they just put Gerhardt's face on a postage stamp?",request_bool,Gerhardt,has their face on a stamp,,,,,,male,,1
+0,"Say, do you know if Yukiko got hair extensions?",1_0_021,1,"Say, do you know if Yukiko got hair extensions?",request_bool,Yukiko,got hair extensions,,,,,,female,,1
+0,Is it true that Finnegan is afraid of monkeys?,1_0_022,1,Is it true that Finnegan is afraid of monkeys?,request_bool,Finnegan,is afraid of monkeys,,,,,,male,,1
+0,Did Janet just trade her wedding ring for a turtle?,1_0_023,1,Did Janet just trade her wedding ring for a turtle?,request_bool,Janet,has a turtle,,,,,,female,,1
+0,Is it true that Joyti got A's in all of her classes?,1_0_024,1,Is it true that Joyti got A's in all of her classes?,request_bool,Joyti,earned A's in all their classes,,,,,,female,,1
+0,Did you guys hear that Lynette finally finished her PhD?,1_0_025,1,  Did you guys hear that Lynette finally finished her PhD?,specific_info,Lynette,finally finished their Ph.D.,,,,,,female,positive,1
+0,So I just saw Albert getting a speeding ticket on the way over here,1_0_026,1,   So I just saw Albert getting a speeding ticket on the way over here,specific_info,Albert,got a speeding ticket,,,,,,male,negative,1
+0,Have you guys heard from Frida Rossi recently?,1_0_027,1,Have you guys heard from Frida rossi recently?,introduce_topic,Frida Rossi,,,,,,,female,,2
+0,"So, I ran into Fred Goh the other day.",1_0_028,1,"So, I ran into Fred goh the other day.",introduce_topic,Fred Goh,,,,,,,male,,2
+0,Has anyone seen Ferdinand O'Neill lately?,1_0_029,1,Has anyone seen Ferdinand o'neill lately?,introduce_topic,Ferdinand O'Neill,,,,,,,male,,2
+0,It's been a while since I had Deshawn Sabra over.,1_0_030,1,It's been a while since I had Deshawn sabra over.,introduce_topic,Deshawn Sabra,,,,,,,male,,2
+0,What's the deal with Jamal Moser?,1_0_031,1,What's the deal with Jamal moser?,introduce_topic,Jamal Moser,,,,,,,male,,2
+0,Has Joaquin Clark been showing up these days?,1_0_032,1,Has Joaquin clark been showing up these days?,introduce_topic,Joaquin Clark,,,,,,,male,,2
+0,Have you heard about Diego Barker?,1_0_033,1,Have you heard about Diego barker?,introduce_topic,Diego Barker,,,,,,,male,,2
+0,Have you seen Karim Thomas around?,1_0_034,1,Have you seen Karim thomas around?,introduce_topic,Karim Thomas,,,,,,,male,,2
+0,Any sense of where Paul Russo is?,1_0_035,1,Any sense of where Paul russo is?,introduce_topic,Paul Russo,,,,,,,male,,2
+0,"Hey, do you remember Francesca Thomas?",1_0_036,1,"Hey, do you remember Francesca thomas?",introduce_topic,Francesca Thomas,,,,,,,female,,2
+0,What's the deal with Pilar O'Brien lately?,1_0_037,1,What's the deal with Pilar o'brien lately?,introduce_topic,Pilar O'Brian,,,,,,,female,,2
+0,It's strange about Kesha O'Connor.,1_0_038,1,It's strange about Kesha o'connor.,introduce_topic,Kesha O'Connor,,,,,,,female,,2
+0,What's up with Judy Rizzo?,1_0_039,1,What's up with Judy rizzo?,introduce_topic,Judy Rizzo,,,,,,,female,,2
+0,Have you heard the what Tiffany Ricci has been doing?,1_0_040,1,Have you heard the what Tiffany ricci has been doing?,introduce_topic,Tiffany Ricci,,,,,,,female,,2
+0,Have we seen Ming Norris lately?,1_0_041,1,Have we seen Ming norris lately?,introduce_topic,Ming Norris,,,,,,,female,,2
+0,I heard from Cho Goh the other day.,1_0_042,1,I heard from Cho goh the other day.,introduce_topic,Cho Goh,,,,,,,female,,2
+0,What did Kwan Miller say the other day?,1_0_043,1,What did Kwan miller say the other day?,introduce_topic,Kwan Miller,,,,,,,female,,2
+0,Do you guys know if Gina Mueller is going to be at work tomorrow?,1_0_044,1, Do you guys know if Gina mueller is going to be at work tomorrow?,request_bool,Gina Mueller,is going to be at work tomorrow,,,,,,female,,2
+0,"Say, do you guys know if Elmer Russo ever became a ninja?",1_0_045,1,"Say, do you guys know if Elmer russo ever became a ninja?",request_bool,Elmer Russo,became a ninja,,,,,,male,,2
+0,Is Lucinda Steiner still stuck in that yoga pose?,1_0_046,1,Is Lucinda steiner still stuck in that yoga pose?,request_bool,Lucinda Steiner,is stuck in a yoga pose,,,,,,female,,2
+0,Has Stevie O'Brien stopped shaving his eyebrows yet?,1_0_047,1,Has Stevie o'brien stopped shaving his eyebrows yet?,request_bool,Stevie O'Brian,stopped shaving their eyebrows,,,,,,male,,2
+0,Does Jeremiah O'Connor really think he's a bullfrog?,1_0_048,1,Does Jeremiah o'connor really think he's a bullfrog?,request_bool,Jeremiah O'Connor,thinks he's a frog,,male,,,,male,,2
+0,"Say, do you know if Jack Howards appeared on that game show?",1_0_049,1,"Say, do you know if Jack howards appeared on that game show?",request_bool,Jack Howards,appeared on a game show,,,,,,male,,2
+0,Does Hiram Yamaguchi still have that recipe for chocolate macaroons?,1_0_050,1,Does Hiram yamaguchi still have that recipe for chocolate macaroons?,request_bool,Hiram Yamaguchi,has a recipe for chocolate macaroons,,,,,,male,,2
+0,Did Missy Sabra give her pet rock collection to her new girlfriend?,1_0_051,1,Did Missy sabra give her pet rock collection to her new girlfriend?,request_bool,Missy Sabra,gave their pet rock collection away,,,,,,female,,2
+0,Did you guys hear that Lynette Thomson finally finished her PhD?,1_0_052,1,  Did you guys hear that Lynette thomson finally finished her PhD?,specific_info,Lynette Thomson,finally finished their Ph.D.,,,,,,female,positive,2
+0,So I just saw Albert Ricci getting a speeding ticket on the way over here.,1_0_053,1,   So I just saw Albert ricci getting a speeding ticket on the way over here,specific_info,Albert Ricci,got a speeding ticket,,,,,,male,negative,2
+1,"Say, do you know if he is planning on joining our little conference call tomorrow?",1_1_001,1," Say, do you know if he is planning on joining our little conference call tomorrow?",request_bool,,is planning on joining a conference call,,,male,,,,,
+1,Is he still under investigation for that incident with the vending machines?,1_1_002,1,Is he still under investigation for that incident with the vending machines?,request_bool,,is under investigation,,,male,,,,,
+1,"Oh, say, did she end up buying that old warehouse on 3rd street?",1_1_003,1,"Oh, say, did she end up buying that old warehouse on 3rd street?",request_bool,,bought a warehouse,,,female,,,,,
+1,Is it true that he eats four buckets of chicken for dinner?,1_1_004,1,Is it true that he eats four buckets of chicken for dinner?,request_bool,,eats four buckets of chicken,,,male,,,,,
+1,Is it true that her Mom was yelling at her outside the café?,1_1_005,1,Is it true that her Mom was yelling at her outside the café?,request_bool,,was yelled at,,,female,,,,,
+1,Is it true that he wears a snow suit in August?,1_1_006,1,Is it true that he wears a snow suit in August?,request_bool,,wears a snow suit in August,,,male,,,,,
+1,Is it true that he break dances before going to sleep?,1_1_007,1,Is it true that he break dances before going to sleep?,request_bool,,is a break dancer,,,male,,,,,
+1,Did his new cat really attack the postman?,1_1_008,1,Did his new cat really attack the postman?,request_bool,,has a new cat,,,male,,,,,
+1,Do you know if he is planning to dye his hair purple?,1_1_009,1,Do you know if he is planning to dye his hair purple?,request_bool,,is planning on dyeing their hair,,,male,,,,,
+1,Is it true that he only talks to his pet hamster?,1_1_010,1,Is it true that he only talks to his pet hamster?,request_bool,,talks to their pet hamster,,,male,,,,,
+1,Is it true that she prefers pants four sizes too small?,1_1_011,1,Is it true that she prefers pants four sizes too small?,request_bool,,prefers to wear small pants,,,female,,,,,
+1,Did she really join a motorcycle gang?,1_1_012,1,Did she really join a motorcycle gang?,request_bool,,joined a motorcycle gang,,,female,,,,,
+1,Was that her new puppy waiting by the fence?,1_1_013,1,Was that her new puppy waiting by the fence?,request_bool,,has a new puppy,,,female,,,,,
+1,"Say, did her husband buy her power tools for her birthday?",1_1_014,1,"Say, did her husband buy her power tools for her birthday?",request_bool,,has new power tools,,,female,,,,,
+1,Is he still being accused of cheating on his taxes?,1_1_015,1,Is he still being accused of cheating on his taxes?,request_bool,,is being accused of cheating on their taxes,,,male,,,,,
+1,Does he really collect custom-blown glass figurines?,1_1_016,1,Does he really collect custom-blown glass figurines?,request_bool,,collects figurines,,,male,,,,,
+1,Is it true that he has finally learned to sing on-key?,1_1_017,1,Is it true that he has finally learned to sing on-key?,request_bool,,sings on-key,,,male,,,,,
+1,Did he really just have a tiki party?,1_1_018,1,Did he really just have a tiki party?,request_bool,,had a tiki party,,,male,,,,,
+1,Is it true that she yodels when she's happy?,1_1_019,1,Is it true that she yodels when she's happy?,request_bool,,yodels when she's happy,,female,female,,,,,
+1,Is it true that she got probation?,1_1_020,1,Is it true that she got probation?,request_bool,,got probation,,,female,,,,,
+1,Does she really like to feed live snakes?,1_1_021,1,Does she really like to feed live snakes?,request_bool,,likes to feed live snakes,,,female,,,,,
+1,Is it true that she used to be a commodities trader?,1_1_022,1,Is it true that she used to be a commodities trader?,request_bool,,used to be a commodities trader,,,female,,,,,
+1,Have you heard she won employee of the month?,1_1_023,1,Have you heard she won employee of the month?,request_bool,,won employee of the month,,,female,,,,,
+1,Is it true that she can drive a race car?,1_1_024,1,Is it true that she can drive a race car?,request_bool,,can drive a race car,,,female,,,,,
+1,Was it really him on the front page of the newspaper?,1_1_025,1,Was it really him on the front page of the newspaper?,request_bool,,was on the front page of the newspaper,,,male,,,,,
+1,Did he actually build his own computer?,1_1_026,1,Did he actually build his own computer?,request_bool,,built their own computer,,,male,,,,,
+1,Did you know that he lost his job?,1_1_027,1,Did you know that he lost his job.,request_bool,,lost their job,,,male,,,,,
+1,Wasn't he fined for dissing the judge?,1_1_028,1,Wasn't he fined for dissing the judge?,request_bool,,was fined for dissing the judge,,,male,,,,,
+1,Wasn't he late for court?,1_1_029,1,Wasn't he late for court?,request_bool,,was late for court,,,male,,,,,
+1,His homepage says he just had a baby girl..,1_1_030,1,"His homepage says he just had a baby girl,",specific_info,,just had a baby girl,,,male,,,,positive,
+1,I heard she just bought a small island.,1_1_031,1, I heard she just bought a small island.,specific_info,,bought a small island,,,female,,,,positive,
+1,I hear he's getting a divorce,1_1_032,1, I hear he's getting a divorce,specific_info,,is getting a divorce,,,male,,,,negative,
+1,Can you believe he actually won the lottery?,1_1_033,1,Can you believe he actually won the lottery?,specific_info,,won the lottery,,,male,,,,positive,
+1,I heard she had her library card suspended for like a year.,1_1_034,1,I heard she had her library card suspended for like a year.,specific_info,,had their library card suspended,,,female,,,,negative,
+1,I heard he broke his arm playing poker.,1_1_035,1,I heard he broke his arm playing poker.,specific_info,,broke their arm,,,male,,,,negative,
+1,Did you know he started working at the gas station?,1_1_036,1,Did you know he started working at the gas station?,specific_info,,started working at the gas station,,,male,,,,positive,
+1,I hear he finally got out of the hospital.,1_1_037,1,I hear he finally got out of the hospital.,specific_info,,just got out of the hospital,,,male,,,,positive,
+1,She dressed in army fatigues for ten days straight.,1_1_038,1,She dressed in army fatigues for ten days straight.,specific_info,,dressed in army fatigues,,,female,,,,positive,
+1,Did you hear she tried to buy a unicorn on eBay?,1_1_039,1,Did you hear she tried to buy a unicorn on eBay?,specific_info,,tried to buy a unicorn,,,female,,,,positive,
+1,Did you know she had all her mail forwarded to The White House?,1_1_040,1,Did you know she had all her mail forwarded to The White House?,specific_info,,had their mail forwarded,,,female,,,,positive,
+1,Can you believe he may be related to the Queen of England?,1_1_041,1,Can you believe he may be related to the Queen of England?,specific_info,,may be related to the Queen of England,,,male,,,,positive,
+1,Can you believe he only wears Super Hero underwear?,1_1_042,1,Can you believe he only wears Super Hero underwear?,specific_info,,only wears super hero underwear,,,male,,,,positive,
+1,"Yeah, well let's just say she wears too much eyeliner..",1_1_043,1,"Yeah, well let's just say she wears too much eyeliner..",specific_info,,wears too much eye liner,,,female,,,,negative,
+1,Can you believe that he got stuck to the toilet?,1_1_044,1,Can you believe that he got stuck to the toilet?,specific_info,,got stuck to a toilet,,,male,,,,negative,
+1,I hear he was attacked by a rabid pigeon.,1_1_045,1,I hear he was attacked by a rabid pigeon.,specific_info,,was attacked by a bird,,,male,,,,negative,
+1,I hear he left his sink running for two weeks.,1_1_046,1,I hear he left his sink running for two weeks.,specific_info,,left their sink running,,,male,,,,negative,
+1,Did her cell phone really fall in the toilet?,1_1_047,1,Did her cell phone really fall in the toilet?,request_bool,,had their cell phone fall in the toilet,,,female,,,,,
+1,Did you hear that she only eats jelly donuts?,1_1_048,1,Did you hear that she only eats jelly donuts?,specific_info,,eats only jelly donuts,,,female,,,,negative,
+1,Did you know that he owned a pet store?,1_1_049,1,Did you know that he owned a pet store?,specific_info,,owns a pet store,,,male,,,,positive,
+1,Everyone thinks he's obnoxious.,1_1_050,1,Everyone thinks he's obnoxious.,specific_info,,is obnoxious,,,male,,,,negative,
+1,I am sure that she fixed all those mistakes.,1_1_051,1,I am sure that she fixed all those mistakes.,specific_info,,fixed all those mistakes,,,female,,,,positive,
+1,Some people say that she's the nicest person around.,1_1_052,1,Some people say that she's the nicest person around.,specific_info,,is the nicest person around,,,female,,,,positive,
+1,I heard that she lost her kitten.,1_1_053,1,I heard that she lost her kitten.,specific_info,,lost their kitten,,,female,,,,negative,
+1,She was asked to help at the pet shop.,1_1_054,1,She was asked to help at the pet shop.,specific_info,,was asked to help at a pet shop,,,female,,,,positive,
+1,I heard he was first in line for those concert tickets.,1_1_055,1,I heard he was first in line for those concert tickets.,specific_info,,was first in line for tickets,,,male,,,,positive,
+1,I heard she was evicted from that messy apartment.,1_1_056,1,I heard she was evicted from that messy apartment.,specific_info,,was evicted,,,female,,,,negative,
+1,I hear that she always writes nice notes to friends.,1_1_057,1,I hear that she always writes nice notes to friends.,specific_info,,writes nice notes,,,female,,,,positive,
+1,I heard that he has a really expensive camera.,1_1_058,1,I heard that  he has a really expensive camera.,specific_info,,has an expensive camera,,,male,,,,positive,
+1,I heard that she got a cool new phone.,1_1_059,1,I heard that she got a cool new phone.,specific_info,,got a cool new phone,,,female,,,,positive,
+1,I heard that she is always nice to talk to.,1_1_060,1,I heard that she is always nice to talk to.,specific_info,,is nice to talk to,,,female,,,,positive,
+2, Hmph. Well I guess she'll be bragging about that for the next year.,1_2_001,1, Hmph. Well I guess she'll be bragging about that for the next year.,reaction,,,,,female,positive,,,,
+2, That is so unfair. I hate him!,1_2_002,1, That is so unfair. I hate him!,reaction,,,,,male,positive,,,,
+2,"Well, that's good. Finally she's catching a break.",1_2_003,1,"Well, that's good. Finally she's catching a break.",reaction,,,,,female,positive,,,,
+2,That's great - it makes me giggle.,1_2_004,1,That's great - it makes me giggle.,reaction,,,,,,positive,,,,
+2,I'm happy to know things are working out for him.,1_2_005,1,I'm happy to know things are working out for him.,reaction,,,,,male,positive,,,,
+2,I should toast to his good fortune.,1_2_006,1,I should toast to his good fortune.,reaction,,,,,male,positive,,,,
+2,She deserves three cheers!,1_2_007,1,She deserves three cheers!,reaction,,,,,female,positive,,,,
+2,There'll be no living with him now.,1_2_008,1,They'll be no living with him now.,reaction,,,,,male,positive,,,,
+2,I've gotta shake her hand for that.,1_2_009,1,I've gotta shake her hand for that.,reaction,,,,,female,positive,,,,
+2,That's simply amazing!,1_2_010,1,That's simply amazing!,reaction,,,,,,positive,,,,
+2,"Oh, that is really just too bad.",1_2_011,1,"     	Oh, that is really just too bad.",reaction,,,,,,negative,,,,
+2,That is hilarious -- I wish I could have seen her expression!,1_2_012,1,       	That is hilarious -- I wish I could have seen her expression!,reaction,,,,,female,negative,,,,
+2,"Huh. Well, serves him right, I guess.",1_2_013,1,"       	Huh. Well, serves him right, I guess.",reaction,,,,,male,negative,,,,
+2,"Ha! well, I certainly don't feel sorry for her!",1_2_014,1,"Ha! well, I certainly don't feel sorry for her!",reaction,,,,,female,negative,,,,
+2,Really?  How horrible.,1_2_015,1,Really?  How horrible.,reaction,,,,,,negative,,,,
+2,I hope he gets over his bad luck soon.,1_2_016,1,I hope he gets over his bad luck soon.,reaction,,,,,male,negative,,,,
+2,"Well, that's what you get for bragging so much.",1_2_017,1,"Well, that's what you get for bragging so much.",reaction,,,,,,negative,,,,
+2,It's almost too much to bear.,1_2_018,1,It's almost too much to bear.,reaction,,,,,,negative,,,,
+2,I hope that he doesn't whine about it.,1_2_019,1,I hope that he doesn't whine about it.,reaction,,,,,male,negative,,,,
+3,Not according to her text messages.,1_3_001,1,  Not according to her text messages.,provide_bool,,,negative,,female,,,,,
+3,"No, I think that's just a rumor.",1_3_002,1," No, I think that's just a rumor.",provide_bool,,,negative,,,,,,,
+3,"No, although she'd like you to think so!",1_3_003,1,"No, although she'd like you to think so!",provide_bool,,,negative,,female,,,,,
+3,"No, I don't think so.",1_3_004,1,"No, I don't think so.",provide_bool,,,negative,,,,,,,
+3,"Yes, someone recorded it on their cell phone.",1_3_005,1,"Yes, someone recorded it on their cell phone.",provide_bool,,,positive,,,,,,,
+3,"Yes, and please don't say anything when you see her!",1_3_006,1,"Yes, and please don't say anything when you see her!",provide_bool,,,positive,,female,,,,,
+3,"No, his mother completely denies it.",1_3_007,1,"No, his mother completely denies it.",provide_bool,,,negative,,male,,,,,
+3,"No, she wouldn't know the truth if it bit her.",1_3_008,1,"No, she wouldn't know the truth if it bit her.",provide_bool,,,negative,,female,,,,,
+3,"No, he probably won't talk about it.",1_3_009,1,"No, he probably won't talk about it.",provide_bool,,,negative,,male,,,,,
+3,"You know, there is no proof that is true.",1_3_010,1,"You know, there is no proof that is true.",provide_bool,,,negative,,,,,,,
+3,"Yes, we googled that.",1_3_011,1,"Yes, we googled that.",provide_bool,,,positive,,,,,,,
+3,"No, his wife says that is impossible.",1_3_012,1,"No, his wife says that is impossible.",provide_bool,,,negative,,male,,,,,
+3,"No, and don't bring it up around him.",1_3_013,1,"No, and don't bring it up around him.",provide_bool,,,negative,,male,,,,,
+3,"If it's true, it's not in her diary.",1_3_014,1,"If it's true, it's not on her diary.",provide_bool,,,negative,,female,,,,,
+4,I really miss seeing her around.,1_4_001,1, I really miss seeing her around.,standalone_comment,,,,,female,,,,,
+4,I was just thinking about him the other day.,1_4_002,1, I was just thinking about him the other day.,standalone_comment,,,,,male,,,,,
+4,What a terrible human being!,1_4_003,1,What a terrible human being!,standalone_comment,,,,,,,,,,
+4,I have not seen him in so long!,1_4_004,1,I have not seen him in so long!,standalone_comment,,,,,male,,,,,
+4,He is so good natured.,1_4_005,1,He is so good natured.,standalone_comment,,,,,male,,,,,
+4,That guy complains too much.,1_4_006,1,That guy complains too much.,standalone_comment,,,,,male,,,,,
+4,She is so sweet that she annoys me.,1_4_007,1,She is so sweet that she annoys me.,standalone_comment,,,,,female,,,,,
+4,He sure can make me laugh.,1_4_008,1,He sure can make me laugh.,standalone_comment,,,,,male,,,,,
+4,He can be so mean to other people!,1_4_009,1,He can be so mean to other people!,standalone_comment,,,,,male,,,,,
+4,She laughs like a hyena.,1_4_010,1,She laughs like a hyena.,standalone_comment,,,,,female,,,,,
+4,Her name hasn't crossed my lips in a month.,1_4_011,1,Her name hasn't crossed my lips in a month.,standalone_comment,,,,,female,,,,,
+4,She's just the coolest person ever.,1_4_012,1,She's just the coolest person ever.,standalone_comment,,,,,female,,,,,
+4,He's totally out of it.,1_4_013,1,He's totally out of it.,standalone_comment,,,,,male,,,,,
+4,She is totally uplifting.,1_4_014,1,She is totally uplifting.,standalone_comment,,,,,female,,,,,
+4,His opinion is worthless.,1_4_015,1,His opinion is worthless.,standalone_comment,,,,,male,,,,,
+4,It takes one to know one.,1_4_016,1,It takes one to know one.,standalone_comment,,,,,,,,,,
+0,How is Berna doing these days?,2_0_001,2, How is Berna doing these days?,introduce_topic,Berna,,,,,,,female,,1
+0,"Hey, whatever happened to Geertrui?",2_0_002,2,"Hey, whatever happened to Geertrui?",introduce_topic,Geertrui,,,,,,,female,,1
+0,So is Roy still around?,2_0_003,2,So is Roy still around?,introduce_topic,Roy,,,,,,,male,,1
+0,I bumped into Tyrone the other day.,2_0_004,2,I bumped into Tyrone the other day.,introduce_topic,Tyrone,,,,,,,male,,1
+0,Is there any news about Ernesto?,2_0_005,2,Is there any news about Ernesto?,introduce_topic,Ernesto,,,,,,,male,,1
+0,Have you heard from Alejandro?,2_0_006,2,Have you heard from Alejandro?,introduce_topic,Alejandro,,,,,,,male,,1
+0,Anyone know how Hassan is doing?,2_0_007,2,Anyone know how Hassan is doing?,introduce_topic,Hassan,,,,,,,male,,1
+0,Any news on Meer?,2_0_008,2,Any news on Meer?,introduce_topic,Meer,,,,,,,male,,1
+0,What's up with Tom these days?,2_0_009,2,What's up with Tom these days?,introduce_topic,Tom,,,,,,,male,,1
+0,Has anyone heard from Bella?,2_0_010,2,Has anyone heard from Bella?,introduce_topic,Bella,,,,,,,female,,1
+0,Has anyone seen Jada around?,2_0_011,2,Has anyone seen Jada around?,introduce_topic,Jada,,,,,,,female,,1
+0,I was trying to remember something about Jasmine.,2_0_012,2,I was trying to remember something about Jasmin.,introduce_topic,Jasmin,,,,,,,female,,1
+0,Where's Paula been keeping herself?,2_0_013,2,Where's Paula been keeping herself?,introduce_topic,Paula,,,,,,,female,,1
+0,I forget what Emma told us the other day.,2_0_014,2,I forget what Emma told us the other day.,introduce_topic,Emma,,,,,,,female,,1
+0,What has Twee been up to?,2_0_015,2,What has Twee been up to?,introduce_topic,Twee,,,,,,,female,,1
+0,Has anyone seen Chang?,2_0_016,2,Has anyone seen Chang?,introduce_topic,Chang,,,,,,,female,,1
+0,Is Guillermo supposed to be here today?,2_0_017,2,Is Guillermo supposed to be here today?,request_bool,Guillermo,is supposed to be here today,,,,,,male,,1
+0, Did Carmelita really just get a new puppy?,2_0_018,2, Did Carmelita really just get a new puppy?,request_bool,Carmelita,just got a new puppy,,,,,,female,,1
+0,So did Yoshimi ever finish those robots?,2_0_019,2,So did Yoshimi ever finish those robots?,request_bool,Yoshimi,finished the robots,,,,,,female,,1
+0,Is it true that Amber has four boyfriends?,2_0_020,2,Is it true that Amber has four boyfriends?,request_bool,Amber,has four boyfriends,,female,,,,female,,1
+0,Is it true that Tanesha took belly dancing classes?,2_0_021,2,Is it true that Tanesha took belly dancing classes?,request_bool,Tanesha,took dance classes,,,,,,female,,1
+0,Did Zachary join the French Foreign Legion?,2_0_022,2,Did Zachary join the French Foreign Legion?,request_bool,Zachary,joined a legion,,,,,,male,,1
+0,Is Rose still refusing to climb down from that tree?,2_0_023,2,Is Rose still refusing to climb down from that tree?,request_bool,Rose,refuses to climb down,,,,,,female,,1
+0,Does David still pretend to be President of the United States?,2_0_024,2,Does David still pretend to be President of the United States?,request_bool,David,pretends to be the U.S. President,,,,,,male,,1
+0,So how about Horatio taking over as VP of toaster ovens!,2_0_025,2,   So how about Horatio taking over as VP of toaster ovens!,specific_info,Horatio,is taking over as VP of Toaster Ovens,,,,,,male,positive,1
+0,I guess you guys heard Roger's doctor won't let him play badminton any more..,2_0_026,2,  I guess you guys heard Roger's doctor won't let him play badminton any more..,specific_info,Roger,can't play badminton,,,,,,male,negative,1
+0,Can you believe Cheryl didn't get accepted to Dartmouth?,2_0_027,2,   Can you believe Cheryl didn't get accepted to Dartmouth?,specific_info,Cheryl,didn't get accepted to Dartmouth,,,,,,female,negative,1
+0,What is up with Neil Thomson lately?,2_0_028,2,What is up with Neil thomson lately?,introduce_topic,Neil Thomson,,,,,,,male,,2
+0,"You know, I haven't heard from Elektra Ricci in a long time.",2_0_029,2,"You know, I haven't heard from Elektra ricci in a long time.",introduce_topic,Elektra Ricci,,,,,,,female,,2
+0,How has Joaquin O'Neill been?,2_0_030,2,How has Joaquin o'neill been?,introduce_topic,Joaquin O'Neill,,,,,,,male,,2
+0,I haven't heard much from Demetrius Howard.,2_0_031,2,I haven't heard much from Demetrius howard.,introduce_topic,Demetrius Howard,,,,,,,male,,2
+0,Has Jesus Thomson been around much?,2_0_032,2,Has Jesus thomson been around much?,introduce_topic,Jesus Thomson,,,,,,,male,,2
+0,What's the word on Carlos Morris?,2_0_033,2,What's the word on Carlos morris?,introduce_topic,Carlos Morris,,,,,,,male,,2
+0,Have you checked in with Abdul Norris recently?,2_0_034,2,Have you checked in with Abdul norris recently?,introduce_topic,Abdul Norris,,,,,,,male,,2
+0,What's up with William Miller?,2_0_035,2,What's up with William miller?,introduce_topic,William Miller,,,,,,,male,,2
+0,"Say, do you remember Maria Parker from that trip?",2_0_036,2,"Say, do you remember Maria parker from that trip?",introduce_topic,Maria Parker,,,,,,,female,,2
+0,What's up with Inez Thomas?,2_0_037,2,What's up with Inez thomas?,introduce_topic,Inez Thomas,,,,,,,female,,2
+0,I'm trying to remember the last time I saw Raven Leitner.,2_0_038,2,I'm trying to remember the last time I saw Raven leitner.,introduce_topic,Raven Leitner,,,,,,,female,,2
+0,Is Destinee Yamamoto somewhere around?,2_0_039,2,Is Destinee yamamoto somewhere around?,introduce_topic,Destinee Yamamoto,,,,,,,female,,2
+0,What's going on with Jennifer Nishimura lately?,2_0_040,2,What's going on with Jennifer nishimura lately?,introduce_topic,Jennifer Nishimura,,,,,,,female,,2
+0,Did you hear the news about Kenji Howards?,2_0_041,2,Did you hear the news about Kenji howards?,introduce_topic,Kenji Howards,,,,,,,male,,2
+0,Has Akiko Thomson shown up yet?,2_0_042,2,Has Akiko thomson shown up yet?,introduce_topic,Akiko Thomson,,,,,,,female,,2
+0,I ran into Lok Imanaka recently.,2_0_043,2,I ran to Lok imanaka recently.,introduce_topic,Lok Imanaka,,,,,,,male,,2
+0,Is it true that Max Moser is up for re-election this year?,2_0_044,2,Is it true that Max moser is up for re-election this year?,request_bool,Max Moser,is up for re-election ,,,,,,male,,2
+0,Is it true that Achim Yamamoto is building his own aquarium?,2_0_045,2,Is it true that Achim yamamoto is building his own aquarium?,request_bool,Achim Yamamoto,is building an aquarium,,,,,,male,,2
+0,Does Helen Nishimura still have that portrait of the Buddha?,2_0_046,2,Does Helen nishimura still have that portrait of the Buddha?,request_bool,Helen Nishimura,has a portrait of the Buddha,,,,,,female,,2
+0,"Hey, did they just put Gerhardt Koh's face on a postage stamp?",2_0_047,2,"Hey, did they just put Gerhardt koh's face on a postage stamp?",request_bool,Gerhardt Koh,has their face put face on stamp,,,,,,male,,2
+0,"Say, do you know if Yukiko Nakamura got hair extensions?",2_0_048,2,"Say, do you know if Yukiko nakamura got hair extensions?",request_bool,Yukiko Nakamura,got hair extensions,,,,,,female,,2
+0,Is it true that Finnegan Wright is afraid of monkeys?,2_0_049,2,Is it true that Finnegan wright is afraid of monkeys?,request_bool,Finnegan Wright,is afraid of monkeys,,,,,,male,,2
+0,Did Janet Nakamura just trade her wedding ring for a turtle?,2_0_050,2,Did Janet nakamura just trade her wedding ring for a turtle?,request_bool,Janet Nakamura,has a turtle,,,,,,female,,2
+0,Is it true that Joyti Morris got A's in all of her classes?,2_0_051,2,Is it true that Joyti morris got A's in all of her classes?,request_bool,Joyti Morris,got A's in all their classes,,,,,,female,,2
+0,So how about Horatio Xu taking over as VP of toaster ovens!,2_0_052,2,   So how about Horatio xu taking over as VP of toaster ovens!,specific_info,Horatio Xu,is taking over as VP of Toaster Ovens,,,,,,male,positive,2
+0,I guess you guys heard Roger Saba's doctor won't let him play badminton any more..,2_0_053,2,  I guess you guys heard Roger saba's doctor won't let him play badminton any more..,specific_info,Roger Saba,can't play badminton,,,,,,male,negative,2
+0,Can you believe Cheryl Yamada didn't get accepted to Dartmouth?,2_0_054,2,   Can you believe Cheryl yamada didn't get accepted to Dartmouth?,specific_info,Cheryl Yamada,didn't get accepted to Dartmouth,,,,,,female,negative,2
+1,Is he really a Scientologist now?,2_1_001,2,Is he really a Scientologist now?,request_bool,,is a Scientologist,,,male,,,,,
+1,Was that her new electric car I saw parked outside?,2_1_002,2,    Was that her new electric car I saw parked outside?,request_bool,,has a new electric car,,,female,,,,,
+1,Wasn't she just offered a position at a dot-com?,2_1_003,2,Wasn't she just offered a position at a dot-com?,request_bool,,was offered a position at a dot-com,,,female,,,,,
+1,Is he really working in a pet store?,2_1_004,2,Is he really working in a pet store?,request_bool,,is working in a pet store,,,male,,,,,
+1,Didn't he just avoid getting arrested?,2_1_005,2,Didn't he just avoid getting arrested?,request_bool,,avoided getting arrested,,,male,,,,,
+1,"Say, was she really dressed like a bunny rabbit?",2_1_006,2,"Say, was she really just dressed like a bunny rabbit?",request_bool,,dressed like a bunny rabbit,,,female,,,,,
+1,"Hey, is she really forming a rock band?",2_1_007,2,"Hey, is she really forming a rock band?",request_bool,,is forming a band,,,female,,,,,
+1,Was that the new tutu I saw her wearing?,2_1_008,2,Was that the new tutu I saw her wearing?,request_bool,,has a new tutu,,,female,,,,,
+1,Is he really a pool shark now?,2_1_009,2,Is he really a pool shark now?,request_bool,,is a pool shark,,,male,,,,,
+1,"Say, did she really learn to use a computer?",2_1_010,2,"Say, did she really learn to use a computer?",request_bool,,learned to use a computer,,,female,,,,,
+1,Didn't the dentist tell him he had too many teeth?,2_1_011,2,Didn't the dentist tell him he had too many teeth?,request_bool,,has too many teeth,,,male,,,,,
+1,Was that a goat he was herding on Main Street?,2_1_012,2,Was that a goat he was herding on Main Street?,request_bool,,is a goat herder,,,male,,,,,
+1,Is it true that she swims in the fountain outside of the courthouse?,2_1_013,2,Is it true that she swims in the fountain outside of the courthouse?,request_bool,,swims in the fountain,,,female,,,,,
+1,Did his wife tell him he could only wear green?,2_1_014,2,Did his wife tell him he could only wear green?,request_bool,,wears only green,,,male,,,,,
+1,Is it true that she is a professional ham sandwich maker?,2_1_015,2,Is it true that she is a professional ham sandwich maker?,request_bool,,is a sandwich maker,,,female,,,,,
+1,"Say, did she buy the toilet paper with pink flamingos?",2_1_016,2,"Say, did she buy the toilet paper with pink flamingos?",request_bool,,bought toilet paper,,,female,,,,,
+1,"Say, did she build a tree fort outside the convenience store?",2_1_017,2,"Say, did she build a tree fort outside the convenience store?",request_bool,,built a fort,,,female,,,,,
+1,Does she really wear a cowboy hat in the shower?,2_1_018,2,Does she really wear cowboy hat in the shower?,request_bool,,wears a cowboy hat in the shower,,,female,,,,,
+1,Do his sneakers always smell that way?,2_1_019,2,Do his sneakers always smell that way?,request_bool,,has smelly sneakers,,,male,,,,,
+1,Was she really caught stealing?,2_1_020,2,Was she really caught stealing?,request_bool,,was caught stealing,,,female,,,,,
+1,Is she wearing a wig?,2_1_021,2,Is she wearing a wig?,request_bool,,is wearing a wig,,,female,,,,,
+1,Did she win a million dollars?,2_1_022,2,Did she win a million dollars?,request_bool,,won a million dollars,,,female,,,,,
+1,"Say, did she get fired from the pet store?",2_1_023,2,"Say, did she get fired from the pet store?",request_bool,,got fired from the pet store,,,female,,,,,
+1,Was she in line for that promotion?,2_1_024,2,Was she in line for that promotion?,request_bool,,was in line for that promotion,,,female,,,,,
+1,Was that her in the police lineup?,2_1_025,2,Was that her in the police lineup?,request_bool,,was in the police lineup,,,female,,,,,
+1,Is he really trying out for the play?,2_1_026,2,Is he really trying out for the play?,request_bool,,is trying out for the play,,,male,,,,,
+1,Is it true that he fell down the stairs?,2_1_027,2,Is it true that he fell down the stairs?,request_bool,,fell down the stairs,,,male,,,,,
+1,Didn't he just get off the bus?,2_1_028,2,Didn't he just get off the bus?,request_bool,,just got off the bus,,,male,,,,,
+1,Didn't he finally leave his apartment?,2_1_029,2,Didn't he finally leave his apartment?,request_bool,,finally left their apartment,,,male,,,,,
+1,Did you hear she was just appointed ambassador to South Korea?,2_1_030,2, Did you hear she was just appointed ambassador to South Korea?,specific_info,,was just appointed ambassador to South Korea,,,female,,,,positive,
+1,I heard she was attacked by a giant ostrich on the way to work last week.,2_1_031,2, I heard she was attacked by a giant ostrich on the way to work last week.,specific_info,,was attacked by an ostrich,,,female,,,,negative,
+1,Did you know he finally managed to quit smoking?,2_1_032,2,Did you know he finally managed to quit smoking?,specific_info,,quit smoking,,,male,,,,positive,
+1,So what's this about them naming a town in Iowa after her?,2_1_033,2,So what's this about them naming a town in Iowa after her?,specific_info,,had a town named after them,,,female,,,,positive,
+1,So his wife is officially leaving him for their gardener this month.,2_1_034,2,So his wife is officially leaving him for their gardener this month.,specific_info,,has his wife leaving him,,male,male,,,,negative,
+1,Rumor has it she pierced her cheeks.,2_1_035,2,Rumor has it she pierced her cheeks.,specific_info,,pierced their cheeks,,,female,,,,positive,
+1,He was just fired for singing show tunes on the job.,2_1_036,2,He was just fired for singing show tunes on the job.,specific_info,,was fired for singing show tunes,,,male,,,,negative,
+1,"Well, some people think he's the next Jimmy Hendrix.",2_1_037,2,"Well, some people think he's the next Jimmy Hendrix.",specific_info,,is the next Jimmy Hendrix,,male,male,,,,positive,
+1,I heard his wife was furious with him.,2_1_038,2,I heard his wife was furious with him.,specific_info,,has a furious spouse,,,male,,,,negative,
+1,"Can you believe he taught his parrot to sing, ""Funky Town""?",2_1_039,2,"Can you believe he taught his parrot to sing, ""Funky Town""?",specific_info,,taught their parrot to sing,,,male,,,,positive,
+1,I heard she had 5 packs of gum stuck in her hair.,2_1_040,2,I heard she had 5 packs of gum stuck in her hair.,specific_info,,had gum stuck in their hair,,,female,,,,negative,
+1,Rumor has it that he gave a great nose flute concert.,2_1_041,2,Rumor has it that he gave a great nose flute concert.,specific_info,,gave a great concert,,,male,,,,positive,
+1,Did you hear that his pants caught on fire?,2_1_042,2,Did you hear that his pants caught on fire?,specific_info,,had their pants catch on fire,,,male,,,,negative,
+1,Did you know that he swims in a kiddie pool?,2_1_043,2,Did you know that he swims in a kiddie pool?,specific_info,,swims in a kiddie pool,,,male,,,,negative,
+1,I heard she wrote her name in a public restroom.,2_1_044,2,I heard she wrote her name in a public restroom.,specific_info,,wrote their name in a public restroom,,,female,,,,positive,
+1,Did you know that he prefers redheads?,2_1_045,2,Did you know that he prefers redheads?,specific_info,,prefers redheads,,,male,,,,positive,
+1,Is it true that he declawed his cat?,2_1_046,2,Is it true that he declawed his cat?,request_bool,,declawed their cat,,,male,,,,,
+1,He was asked to leave for talking too loudly.,2_1_047,2,He was asked to leave for talking too loudly.,specific_info,,was asked to leave for talking too loudly,,,male,,,,negative,
+1,Did you know that he assisted a magician?,2_1_048,2,Did you know that he assisted a magician?,specific_info,,assisted a magician,,,male,,,,positive,
+1,Everyone thinks she's a loudmouth.,2_1_049,2,Everyone thinks she's a loudmouth.,specific_info,,is a loudmouth,,,female,,,,negative,
+1,Is it true that her boyfriend gave her a diamond ring?,2_1_050,2,Is it true that her boyfriend gave her a diamond ring?,request_bool,,got a diamond ring,,,female,,,,,
+1,Some people say that he is really talented.,2_1_051,2,Some people say that he is really talented.,specific_info,,is really talented,,,male,,,,positive,
+1,He used to have a dog with fleas.,2_1_052,2,He used to have a dog with fleas.,specific_info,,had a dog with fleas,,,male,,,,negative,
+1,I heard that her parakeet is really sick.,2_1_053,2,I heard that her parakeet is really sick.,specific_info,,has a sick parakeet,,,female,,,,negative,
+1,She got roses when she sang at the theater.,2_1_054,2,She got roses when she sang at the theater.,specific_info,,sang and got roses,,,female,,,,positive,
+1,I heard that she lost her apartment.,2_1_055,2,I heard that she lost her apartment.,specific_info,,lost their apartment,,,female,,,,negative,
+1,It's been said that she is the smartest person around.,2_1_056,2,It's been said that she is the smartest person around.,specific_info,,is the smartest person around,,,female,,,,positive,
+1,Is it true that he has his own blog now?,2_1_057,2,Is it true that he has his own blog now?,request_bool,,has a blog,,,male,,,,,
+1,Is it true that he invented a new kind of computer?,2_1_058,2,Is it true that he invented a new kind of computer?,request_bool,,invented a new computer,,,male,,,,,
+1,Rumor has it that her roommate stole her jewelry.,2_1_059,2,Rumor has it that her roommate stole her jewelry.,specific_info,,had her jewelry stolen,,female,female,,,,negative,
+2,That's great -- I really like her!,2_2_001,2, That's great -- I really like her!,reaction,,,,,female,positive,,,,
+2,That's nice to hear. He really deserves that.,2_2_002,2, That's nice to hear. He really deserves that.,reaction,,,,,male,positive,,,,
+2,"Wow, that is really excellent news.",2_2_003,2," Wow, that is really excellent news.",reaction,,,,,,positive,,,,
+2,"Wow, well, that is a surprise.",2_2_004,2,"Wow, well, that is a surprise.",reaction,,,,,,positive,,,,
+2,She's great at making things happen!,2_2_005,2,She's great at making things happen!,reaction,,,,,female,positive,,,,
+2,I wish everyone had that kind of luck!,2_2_006,2,I wish everyone had that kind of luck!,reaction,,,,,,positive,,,,
+2,That's swell!,2_2_007,2,That's swell!,reaction,,,,,,positive,,,,
+2,People shouldn't be rewarded for being rude.,2_2_008,2,People shouldn't be rewarded for being rude.,reaction,,,,,,positive,,,,
+2,I feel like shouting my joy off the rooftops!,2_2_009,2,I feel like shouting my joy off the rooftops!,reaction,,,,,,positive,,,,
+2,Good things come to good people.,2_2_010,2,Good things come to good people.,reaction,,,,,,positive,,,,
+2,That's awful. Really sad to hear.,2_2_011,2,That's awful. Really sad to hear.,reaction,,,,,,negative,,,,
+2,That's sad -- I really like her!,2_2_012,2,That's sad -- I really like her!,reaction,,,,,female,negative,,,,
+2,That's too bad. He is really nice.,2_2_013,2,      	 That's too bad. He is really nice.,reaction,,,,,male,negative,,,,
+2,"Oh, no, not again!",2_2_014,2,"Oh, no, not again!",reaction,,,,,,negative,,,,
+2,That's just dreadful.,2_2_015,2,That's just dreadful.,reaction,,,,,,negative,,,,
+2,"Gee, I hope she can get over it.",2_2_016,2,"Gee, I hope she can get over it.",reaction,,,,,female,negative,,,,
+2,Maybe he won't be so egotistical now.,2_2_017,2,Maybe he won't be so egotistical now.,reaction,,,,,male,negative,,,,
+2,That makes me feel like crying.,2_2_018,2,That makes me feel like crying.,reaction,,,,,,negative,,,,
+2,No use crying over spilt milk.,2_2_019,2,No use crying over spilt milk.,reaction,,,,,,negative,,,,
+3,Yes -- I actually just confirmed it with her publicist,2_3_001,2,Yes -- I actually just confirmed it with her publicist,provide_bool,,,positive,,female,,,,,
+3,Yes -- I just spoke with his therapist. Apparently he's very excited about it.,2_3_002,2, Yes -- I just spoke with his therapist. Apparently he's very excited about it.,provide_bool,,,positive,,male,,,,,
+3,"Yes, she said so herself not an hour ago!",2_3_003,2,"Yes, she said so herself not an hour ago!",provide_bool,,,positive,,female,,,,,
+3,"Yes, but try not to mention it when he's around.",2_3_004,2,"Yes, but try not to mention it when he's around.",provide_bool,,,positive,,male,,,,,
+3,"Yes, and I have pictures to prove it!",2_3_005,2,"Yes, and I have pictures to prove it!",provide_bool,,,positive,,,,,,,
+3,"No, never believe what the internet says.",2_3_006,2,"No, never believe what the internet says.",provide_bool,,,negative,,,,,,,
+3,"Yes, I'm pretty sure that's the full story!",2_3_007,2,"Yes, I'm pretty sure that's the full story!",provide_bool,,,positive,,,,,,,
+3,"Yes, I don't think it's possible to make that up.",2_3_008,2,"Yes, I don't think it's possible to make that up.",provide_bool,,,positive,,,,,,,
+3,"Yes, she called and told me all about it.",2_3_009,2,"Yes, she called and told me all about it.",provide_bool,,,positive,,female,,,,,
+3,"Yes, for real ‚ how can you even make something like that up?",2_3_010,2,"Yes, for real – can you even make something like that up?",provide_bool,,,positive,,,,,,,
+3,"Yes, I saw that on Wikipedia.",2_3_011,2,"Yes, we saw that on Wikipedia.",provide_bool,,,positive,,,,,,,
+3,"Yes, someone uploaded a photo of that.",2_3_012,2,"Yes, someone uploaded a photo of that.",provide_bool,,,positive,,,,,,,
+3,Her sister thinks that's right and she should know.,2_3_013,2,Her sister thinks that's right and she should know.,provide_bool,,,positive,,female,,,,,
+3,Her boss says that's impossible.,2_3_014,2,Her boss says that is impossible.,provide_bool,,,negative,,female,,,,,
+3,That doesn't seem like it holds water.,2_3_015,2,That doesn't seem like it holds water.,provide_bool,,,negative,,,,,,,
+4, She is such a sweet person.,2_4_001,2, She is such a sweet person.,standalone_comment,,,,,female,,,,,
+4, I cannot stand that guy.,2_4_002,2, I cannot stand that guy.,standalone_comment,,,,,male,,,,,
+4,What a nice person!,2_4_003,2,What a nice person!,standalone_comment,,,,,,,,,,
+4,She's not the sharpest tack in the box.,2_4_004,2,She's not the sharpest tack in the box.,standalone_comment,,,,,female,,,,,
+4,She really gets on my nerves.,2_4_005,2,She really gets on my nerves.,standalone_comment,,,,,female,,,,,
+4,I wish more people were like him.,2_4_006,2,I wish more people were like him.,standalone_comment,,,,,male,,,,,
+4,She always makes me smile.,2_4_007,2,She always makes me smile.,standalone_comment,,,,,female,,,,,
+4,I find him a bit clingy to be around.,2_4_008,2,I find him a bit clingy to be around.,standalone_comment,,,,,male,,,,,
+4,He's a good egg.,2_4_009,2,He's a good egg.,standalone_comment,,,,,male,,,,,
+4,Some people can't be trusted.,2_4_010,2,Some people can't be trusted.,standalone_comment,,,,,,,,,,
+4,She is lazier than my 15 year-old cat.,2_4_011,2,She is lazier than my 15 year-old cat.,standalone_comment,,,,,female,,,,,
+4,He's a pretty cool dude.,2_4_012,2,He's a pretty cool dude.,standalone_comment,,,,,male,,,,,
+4,She makes my hair stand on end.,2_4_013,2,She makes my hair stand on end.,standalone_comment,,,,,female,,,,,
+4,Her take on things is always interesting.,2_4_014,2,Her take on things is always interesting.,standalone_comment,,,,,female,,,,,
+4,She is unreal.,2_4_015,2,She is unreal.,standalone_comment,,,,,female,,,,,
+4,He's just the sweetest guy ever.,2_4_016,2,He's just the sweetest guy ever.,standalone_comment,,,,,male,,,,,
+0,Have you guys heard from Frida recently?,3_0_001,3,Have you guys heard from Frida recently?,introduce_topic,Frida,,,,,,,female,,1
+0,"So, I ran into Fred the other day.",3_0_002,3,"So, I ran into Fred the other day.",introduce_topic,Fred,,,,,,,male,,1
+0,Has anyone seen Ferdinand lately?,3_0_003,3,Has anyone seen Ferdinand lately?,introduce_topic,Ferdinand,,,,,,,male,,1
+0,It's been a while since I had Deshawn over.,3_0_004,3,It's been a while since I had Deshawn over.,introduce_topic,Deshawn,,,,,,,male,,1
+0,What's the deal with Jamal?,3_0_005,3,What's the deal with Jamal?,introduce_topic,Jamal,,,,,,,male,,1
+0,Has Joaquin been showing up these days?,3_0_006,3,Has Joaquin been showing up these days?,introduce_topic,Joaquin,,,,,,,male,,1
+0,Have you heard about Diego?,3_0_007,3,Have you heard about Diego?,introduce_topic,Diego,,,,,,,male,,1
+0,Have you seen Karim around?,3_0_008,3,Have you seen Karim around?,introduce_topic,Karim,,,,,,,male,,1
+0,Any sense of where Paul is?,3_0_009,3,Any sense of where Paul is?,introduce_topic,Paul,,,,,,,male,,1
+0,"Hey, do you remember Francesca?",3_0_010,3,"Hey, do you remember Francesca?",introduce_topic,Francesca,,,,,,,female,,1
+0,What's the deal with Pilar lately?,3_0_011,3,What's the deal with Pilar lately?,introduce_topic,Pilar,,,,,,,female,,1
+0,It's strange about Kesha.,3_0_012,3,It's strange about Kesha.,introduce_topic,Kesha,,,,,,,female,,1
+0,What's up with Judy?,3_0_013,3,What's up with Judy?,introduce_topic,Judy,,,,,,,female,,1
+0,Have you heard what Tiffany has been doing?,3_0_014,3,Have you heard the what Tiffany has been doing?,introduce_topic,Tiffany,,,,,,,female,,1
+0,Have we seen Ming lately?,3_0_015,3,Have we seen Ming lately?,introduce_topic,Ming,,,,,,,female,,1
+0,I heard from Cho the other day.,3_0_016,3,I heard from Cho the other day.,introduce_topic,Cho,,,,,,,female,,1
+0,What did Kwan say the other day?,3_0_017,3,What did Kwan say the other day?,introduce_topic,Kwan,,,,,,,female,,1
+0,Do you guys know if Gina is going to be at work tomorrow?,3_0_018,3, Do you guys know if Gina is going to be at work tomorrow?,request_bool,Gina,is going to be at work tomorrow,,,,,,female,,1
+0,"Say, do you guys know if Elmer ever became a Ninja?",3_0_019,3,"Say, do you guys know if Elmer ever became a ninja?",request_bool,Elmer,became a ninja,,,,,,male,,1
+0,Is Lucinda still stuck in that yoga pose?,3_0_020,3,Is Lucinda still stuck in that yoga pose?,request_bool,Lucinda,is stuck in a yoga pose,,,,,,female,,1
+0,Has Stevie stopped shaving his eyebrows yet?,3_0_021,3,Has Stevie stopped shaving his eyebrows yet?,request_bool,Stevie,stopped shaving their eyebrows,,,,,,male,,1
+0,Does Jeremiah really think he's a bullfrog?,3_0_022,3,Does Jeremiah really think he's a bullfrog?,request_bool,Jeremiah,thinks he's a frog,,male,,,,male,,1
+0,"Say, do you know if Jack appeared on that game show?",3_0_023,3,"Say, do you know if Jack appeared on that game show?",request_bool,Jack,appeared on a game show,,,,,,male,,1
+0,Does Hiram still have that recipe for chocolate macaroons?,3_0_024,3,Does Hiram still have that recipe for chocolate macaroons?,request_bool,Hiram,has a recipe,,,,,,male,,1
+0,Did Missy give her pet rock collection to her new girlfriend?,3_0_025,3,Did Missy give her pet rock collection to her new girlfriend?,request_bool,Missy,gave their collection away,,,,,,female,,1
+0,Guess what? Sherman just got engaged to that model he was with last week.,3_0_026,3,Guess what? Sherman just got engaged to that model he was with last week,specific_info,Sherman,just got engaged to a model,,,,,,male,positive,1
+0,So I just read that Phyllis is moving to Tanzania next week.,3_0_027,3, 	So I just read that Phyllis is moving to Tanzania next week.,specific_info,Phyllis,is moving to Tanzania,,,,,,female,positive,1
+0,Have you guys seen Debbie? Her nose job turned out horribly!,3_0_028,3,  Have you guys seen Debbie? Her nose job turned out horribly!,specific_info,Debbie,got a bad nose job,,,,,,female,negative,1
+0,How is Berna Xu doing these days?,3_0_029,3, How is Berna xu doing these days?,introduce_topic,Berna Xu,,,,,,,female,,2
+0,"Hey, whatever happened to Geertrui Saba?",3_0_030,3,"Hey, whatever happened to Geertrui saba?",introduce_topic,Geertrui Saba,,,,,,,female,,2
+0,So is Roy Lark still around?,3_0_031,3,So is Roy lark still around?,introduce_topic,Roy Lark,,,,,,,male,,2
+0,I bumped into Tyrone White the other day.,3_0_032,3,I bumped into Tryone white the other day.,introduce_topic,Tyrone White,,,,,,,male,,2
+0,Is there any news about Ernesto Lark?,3_0_033,3,Is there any news about Ernesto lark?,introduce_topic,Ernesto Lark,,,,,,,male,,2
+0,Have you heard from Alejandro Wright?,3_0_034,3,Have you heard from Alejandro wright?,introduce_topic,Alejandro Wright,,,,,,,male,,2
+0,Anyone know how Hassan Howard is doing?,3_0_035,3,Anyone know how Hassan howard is doing?,introduce_topic,Hassan Howard,,,,,,,male,,2
+0,Any news on Meer Clark?,3_0_036,3,Any news on Meer clark?,introduce_topic,Meer Clark,,,,,,,male,,2
+0,What's up with Tom O' Reilly these days?,3_0_037,3,What's up with Tom o'reilly these days?,introduce_topic,Tom O'Reilly,,,,,,,male,,2
+0,Has anyone heard from Bella Rizzo?,3_0_038,3,Has anyone heard from Bella rizzo?,introduce_topic,Bella Rizzo,,,,,,,female,,2
+0,Has anyone seen Jada Imanaka around?,3_0_039,3,Has anyone seen Jada imanaka around?,introduce_topic,Jada Imanaka,,,,,,,female,,2
+0,I was trying to remember something about Jasmine Rossi.,3_0_040,3,I was trying to remember something about Jasmin rossi.,introduce_topic,Jasmin Rossi,,,,,,,female,,2
+0,Where's Paula Koh been keeping herself?,3_0_041,3,Where's Paula koh been keeping herself?,introduce_topic,Paula Koh,,,,,,,female,,2
+0,I forget what Emma White told us the other day.,3_0_042,3,I forget what Emma white told us the other day.,introduce_topic,Emma White,,,,,,,female,,2
+0,What has Twee Yamada been up to?,3_0_043,3,What has Twee yamada been up to?,introduce_topic,Twee Yamada,,,,,,,female,,2
+0,Has anyone seen Chang O'Reilly?,3_0_044,3,Has anyone seen Chang o'reilly?,introduce_topic,Chang O'Reilly,,,,,,,female,,2
+0,Is Guillermo Yamaguchi supposed to be here today?,3_0_045,3,Is Guillermo yamaguchi supposed to be here today?,request_bool,Guillermo Yamaguchi,is supposed to be here today,,,,,,male,,2
+0,Did Carmelita Wu really just get a new puppy?,3_0_046,3, Did Carmelita wu really just get a new puppy?,request_bool,Carmelita Wu,just got a new puppy,,,,,,female,,2
+0,So did Yoshimi Mueller ever finish those robots?,3_0_047,3,So did Yoshimi mueller ever finish those robots?,request_bool,Yoshimi Mueller,finished the robots,,,,,,female,,2
+0,Is it true that Amber Steiner has four boyfriends?,3_0_048,3,Is it true that Amber steiner has four boyfriends?,request_bool,Amber Steiner,has four boyfriends,,female,,,,female,,2
+0,Is it true that Tanesha Yamada took belly dancing classes?,3_0_049,3,Is it true that Tanesha yamada took belly dancing classes?,request_bool,Tanesha Yamada,took dance classes,,,,,,female,,2
+0,Did Zachary Parker join the French Foreign Legion?,3_0_050,3,Did Zachary parker join the French Foreign Legion?,request_bool,Zachary Parker,joined the French Foreign Legion,,,,,,male,,2
+0,Is Rose Wu still refusing to climb down from that tree?,3_0_051,3,Is Rose wu still refusing to climb down from that tree?,request_bool,Rose Wu,refuses to climb down from that tree,,,,,,female,,2
+0,Does David Barker still pretend to be President of the United States?,3_0_052,3,Does David barker still pretend to be President of the United States?,request_bool,David Barker,pretends to be the U.S. President,,,,,,male,,2
+0,Guess what? Sherman Rossi just got engaged to that model he was with last week.,3_0_053,3,Guess what? Sherman rossi just got engaged to that model he was with last week,specific_info,Sherman Rossi,just got engaged to a model,,,,,,male,positive,2
+0,So I just read that Phyllis Goh is moving to Tanzania next week.,3_0_054,3, 	So I just read that Phyllis goh is moving to Tanzania next week.,specific_info,Phyllis Goh,is moving to Tanzania,,,,,,female,positive,2
+0,Have you guys seen Debbie O'Neill? Her nose job turned out horribly!,3_0_055,3,  Have you guys seen Debbie o'neill? Her nose job turned out horribly!,specific_info,Debbie O'Neill,got a bad nose job,,,,,,female,negative,2
+1,Is it true that she is working for the KGB?,3_1_001,3, Is it true that she is working for the KGB?,request_bool,,works for the KGB,,,female,,,,,
+1,Isn't he going on reality TV next week?,3_1_002,3,Isn't he going on reality TV next week?,request_bool,,is going on reality TV,,,male,,,,,
+1,Is it true that she is decorating her new apartment?,3_1_003,3,Is it true that she is decorating her new apartment?,request_bool,,is decorating their new apartment,,,female,,,,,
+1,Was that his dog eating all his new clothes?,3_1_004,3,Was that his dog eating all his new clothes?,request_bool,,has new clothes,,,male,,,,,
+1,Is it true that his television was stolen?,3_1_005,3,Is it true that his television was stolen?,request_bool,,had their television stolen,,,male,,,,,
+1,Isn't he hanging out at the convenience store this week?,3_1_006,3,Isn't he hanging out at the convenience store this week?,request_bool,,is hanging out at a convenience store,,,male,,,,,
+1,Does he really carry a stuffed duck around with him?,3_1_007,3,Does he really carry a stuffed duck around with him?,request_bool,,carries a stuffed duck,,,male,,,,,
+1,It is true that she got her driver's license?,3_1_008,3,It is true that she got her driver's license?,request_bool,,got a driver's license,,,female,,,,,
+1,Is it true that she only eats breakfast cereal?,3_1_009,3,Is it true that she only eats breakfast cereal?,request_bool,,eats only breakfast cereal,,,female,,,,,
+1,Does he really spend his days in a cheese factory?,3_1_010,3,Does he really spend his days in a cheese factory?,request_bool,,spends their day in a cheese factory,,,male,,,,,
+1,"Hey, is she really expecting quadruplets?",3_1_011,3,"Hey, is she really expecting quadruplets?",request_bool,,is expecting quadruplets,,,female,,,,,
+1,Did he just return from safari in Africa?,3_1_012,3,Did he just return from safari in Africa?,request_bool,,returned from safari,,,male,,,,,
+1,"Say, are his shoes really made from recycled action figures?",3_1_013,3,"Say, are his  shoes really made from recycled action figures?",request_bool,,has new shoes,,,male,,,,,
+1,Is it true he was voted Sexiest Guy by the tabloids?,3_1_014,3,Is it true he was voted Sexiest Guy by the tabloids?,request_bool,,was voted Sexiest Guy,,male,male,,,,,
+1,"Hey, will he join in our Row, Row, Row Your Boat sing-along?",3_1_015,3,"Hey, will he join on our Row, Row, Row Your Boat sing-along?",request_bool,,will join a sing-along,,,male,,,,,
+1,Is it true that he uses steak sauce on apples?,3_1_016,3,Is it true that he uses steak sauce on apples?,request_bool,,uses steak sauce on apples,,,male,,,,,
+1,Does he really blow his nose into a sock?,3_1_017,3,Does he really blow his nose into a sock?,request_bool,,blows their nose into a sock,,,male,,,,,
+1,"Say, is it true that she looks like her basset hound?",3_1_018,3,"Say, is it true that she looks like her basset hound?",request_bool,,looks like their dog,,,female,,,,,
+1,Did she really quit that job?,3_1_019,3,Did she really quit that job?,request_bool,,quit that job,,,female,,,,,
+1,Does her hair curl naturally?,3_1_020,3,Does her hair curl naturally?,request_bool,,has naturally curly hair,,,female,,,,,
+1,Do you know if she's really a beauty queen?,3_1_021,3,Do you know if she's really a beauty queen?,request_bool,,is a beauty queen,,female,female,,,,,
+1,Does she actually think that she'll win the lottery?,3_1_022,3,Does she actually think that she'll win the lottery?,request_bool,,thinks they will win the lottery,,,female,,,,,
+1,Did she get the special parking place?,3_1_023,3,Did she get the special parking place?,request_bool,,got the special parking place,,,female,,,,,
+1,Does she really date a famous movie star?,3_1_024,3,Does she really date a famous movie star?,request_bool,,dates a famous movie star,,,female,,,,,
+1,Is it true that his eyes aren't the same color?,3_1_025,3,Is it true that his eyes aren't the same color?,request_bool,,has eyes that aren't the same color,,,male,,,,,
+1,Isn't he a well-known director?,3_1_026,3,Isn't he a well-known director?,request_bool,,is a well-known director,,,male,,,,,
+1,"Is that his race car parked in the ""no parking"" zone?",3_1_027,3,"Is that his race car parked in the ""no parking"" zone?",request_bool,,has a race car parked in the no parking zone,,,male,,,,,
+1,Isn't he the one who got mad?,3_1_028,3,Isn't he the one who got mad?,request_bool,,is the one that got mad,,,male,,,,,
+1,Is it true that he had a hundred dollars in his wallet?,3_1_049,3,Is it true that he had a hundred dollars in his wallet?,request_bool,,had a hundred dollars in their wallet,,,male,,,,,
+1,He was just promoted to head clerk.,3_1_029,3, He was just promoted to head clerk.,specific_info,,was just promoted to head clerk,,,male,,,,positive,
+1,"Yeah.. well, let's just say she'll be in a Guatemalan prison until at least 2046.",3_1_030,3," Yeah.. well, let's just say she'll be in a Guatemalan prison until at least 2046.",specific_info,,is in a Guatemalan prison,,,female,,,,negative,
+1,Did you know he was transformed into a pumpkin?,3_1_031,3, Did you know he was transformed into a pumpkin?,specific_info,,was transformed into a pumpkin,,,male,,,,negative,
+1,I just talked to her cousin and apparently she just inherited a bunch of vintage halloween costumes!,3_1_032,3,I just talked to her cousin and apparently she just inherited a bunch of vintage halloween costumes!,specific_info,,just inherited some costumes,,,female,,,,positive,
+1,Did you hear her car was stolen last week?,3_1_033,3,Did you hear her car was stolen last week?,specific_info,,had their car stolen,,,female,,,,negative,
+1,The newspaper said he was arrested for singing badly.,3_1_034,3,The newspaper said he was arrested for singing badly.,specific_info,,got arrested for singing badly,,,male,,,,negative,
+1,Can you believe she won a butter making contest?,3_1_035,3,Can you believe she won a butter making contest?,specific_info,,won a butter making contest,,,female,,,,positive,
+1,I heard she named her new dance The Backhanded Cakewalk?,3_1_036,3,I heard she named her new dance The Backhanded Cakewalk?,specific_info,,named their new dance,,,female,,,,positive,
+1,So he can open up a soda can with his nose.,3_1_037,3,So he can open up a soda can with his nose.,specific_info,,could open a soda can with their nose,,,male,,,,positive,
+1,"Yeah, well, let's just say he suffers from male pattern baldness.",3_1_038,3,"Yeah, well, let's just say he suffers from male pattern baldness.",specific_info,,suffers from baldness,,,male,,,,negative,
+1,She gained 50 pounds eating cheese puffs.,3_1_039,3,She gained 50 pounds eating cheese puffs.,specific_info,,gained 50 pounds,,,female,,,,negative,
+1,I heard she sneaked into a video game conference.,3_1_040,3,I heard she sneaked into a video game conference.,specific_info,,sneaked into a video game conference,,,female,,,,positive,
+1,Did you see that her eyeglasses are all scratched up?,3_1_041,3,Did you see that her eyeglasses are all scratched up?,specific_info,,wears scratched eyeglasses,,,female,,,,negative,
+1,He was suspended from work for forgetting to wear pants.,3_1_042,3,He was suspended from work for forgetting to wear pants.,specific_info,,suspended from work,,,male,,,,negative,
+1,Did you hear she is riding in the front of the parade?,3_1_043,3,Did you hear she is riding in the front of the parade?,specific_info,,is riding in a parade,,,female,,,,positive,
+1,"Um, let's just say he needs a good haircut.",3_1_044,3,"Um, let's just say he needs a good haircut.",specific_info,,needs a haircut,,,male,,,,negative,
+1,Did you hear that she fainted at the rock concert?,3_1_045,3,Did you hear that she fainted at the rock concert?,specific_info,,fainted at a concert,,,female,,,,negative,
+1,Rumor has it that he gets pedicures on Wednesdays.,3_1_046,3,Rumor has it that he gets pedicures on Wednesdays.,specific_info,,gets pedicures,,,male,,,,positive,
+1,Do you know that they refused to give her a job at the circus?,3_1_047,3,Do you now they refused to give her a job at the circus?,specific_info,,couldn't get a job at the circus,,,female,,,,negative,
+1,Have you heard that he fell down a flight of steps?,3_1_048,3,Have you heard that he fell down a flight of steps?,specific_info,,fell down the stairs,,,male,,,,negative,
+1,I heard that everything turned out great for her.,3_1_050,3,I heard that everything turned out great for her.,specific_info,,had things turn out well,,,female,,,,positive,
+1,I heard his friend did him a big favor.,3_1_051,3,I heard his friend did him a big favor.,specific_info,,received a favor from a friend,,,male,,,,positive,
+1,Some people think he is as ugly as his dog.,3_1_052,3,Some people think he is as ugly as his dog.,specific_info,,is as ugly as his dog,,male,male,,,,negative,
+1,He was invited to be in the management program.,3_1_053,3,He was invited to be in the management program.,specific_info,,was invited to be in the management program,,,male,,,,positive,
+1,I heard she found a lucky penny.,3_1_054,3,I heard she found a lucky penny.,specific_info,,found a lucky penny,,,female,,,,positive,
+1,Wasn't he arrested for driving drunk?,3_1_055,3,Wasn't he arrested for driving drunk?,request_bool,,was arrested for drunk driving,,,male,,,,,
+1,Didn't she get get a ticket for texting in her car?,3_1_056,3,Didn't she get get a ticket for texting in her car?,request_bool,,got a ticket for texting,,,female,,,,,
+1,So what's this about naming a star after her?,3_1_057,3,So what's this about naming a star after her?,specific_info,,has a star named after her,,female,female,,,,positive,
+1,I thought that she was mugged by somebody on the bus.,3_1_058,3,I thought that she was mugged by somebody on the bus.,specific_info,,was mugged on the bus,,,female,,,,negative,
+2,Really? Good for her!,3_2_001,3, Really? Good for her!,reaction,,,,,female,positive,,,,
+2,"Wow, that's good for him!",3_2_002,3," Wow, that's good for him!",reaction,,,,,male,positive,,,,
+2,That's fantastic. Really good to hear.,3_2_003,3, That's fantastic. Really good to hear.,reaction,,,,,,positive,,,,
+2,"Well, I'm sure his mother will be happy to hear that!",3_2_004,3,"Well, I'm sure his mother will be happy to hear that!",reaction,,,,,male,positive,,,,
+2,He deserves to be successful.,3_2_005,3,He deserves to be successful,reaction,,,,,male,positive,,,,
+2,That's just super to hear!,3_2_006,3,That's just super to hear!,reaction,,,,,,positive,,,,
+2,I hope her friends will throw her a party!,3_2_007,3,I hope her friends will throw her a party!,reaction,,,,,female,positive,,,,
+2,It's nice to hear him come out on top.,3_2_008,3,It's nice to hear him come out on top.,reaction,,,,,male,positive,,,,
+2,I hope he doesn't think he's too good to be my friend now.,3_2_009,3,I hope he doesn't think he's too good to be my friend now.,reaction,,,,,male,positive,,,,
+2,Someone should write a song about him.,3_2_010,3,Someone should write a song about him.,reaction,,,,,male,positive,,,,
+2,No one deserves that more.,3_2_011,3,No one deserves that more.,reaction,,,,,,positive,,,,
+2,Really? I feel bad for her!,3_2_012,3, Really? I feel bad for her!,reaction,,,,,female,negative,,,,
+2,"Wow, that's terrible for him!",3_2_013,3," Wow, that's terrible for him!",reaction,,,,,male,negative,,,,
+2,"Oh, I'm sorry to hear that.",3_2_014,3,"Oh, I'm sorry to hear that.",reaction,,,,,,negative,,,,
+2,"Well, that's not good!",3_2_015,3,"Well, that's not good!",reaction,,,,,,negative,,,,
+2,I can hardly believe it.,3_2_016,3,I can hardly believe it.,reaction,,,,,,negative,,,,
+2,It's sad when things like that happen.,3_2_017,3,It's sad when things like that happen.,reaction,,,,,,negative,,,,
+2,How devastating!,3_2_018,3,How devastating!,reaction,,,,,,negative,,,,
+2,I hope he learns his lesson.,3_2_019,3,I hope he learns his lesson.,reaction,,,,,male,negative,,,,
+2,I wish it hadn't of worked out that way.,3_2_020,3,I wish it hadn't of worked out that way.,reaction,,,,,,negative,,,,
+3,"Not according to his wife, and she would definitely know!",3_3_001,3," Not according to his wife, and she would definitely know!",provide_bool,,,negative,,male,,,,,
+3,"Yes, I'm afraid it's true.",3_3_002,3," Yes, I'm afraid it's true.",provide_bool,,,positive,,,,,,,
+3,"No, although I'm sure he's told you otherwise..",3_3_003,3,"No, although I'm sure he's told you you otherwise..",provide_bool,,,negative,,male,,,,,
+3,All signs point to YES.,3_3_004,3,All signs point to YES.,provide_bool,,,positive,,,,,,,
+3,"Yes, his boss said it was true.",3_3_005,3,"Yes, his boss said it was true.",provide_bool,,,positive,,male,,,,,
+3,"No, I think that's only half the truth.",3_3_006,3,"No, I think that's only half the truth.",provide_bool,,,negative,,,,,,,
+3,I'm guessing that it's true.,3_3_007,3,I'm guessing that it's true.,provide_bool,,,positive,,,,,,,
+3,"No, you can't believe everything you hear.",3_3_008,3,"No, you can't believe everything you hear.",provide_bool,,,negative,,,,,,,
+3,"No, that's unlikely to be true.",3_3_009,3,"You know, there is no proof that is true.",provide_bool,,,negative,,,,,,,
+3,"No, don't believe what you read in the paper.",3_3_010,3,"No, don't believe what you read in the paper.",provide_bool,,,negative,,,,,,,
+3,"That appears to be true, but we're sure it isn't.",3_3_011,3,"That appears to be true, but we're sure it isn't.",provide_bool,,,negative,,,,,,,
+3,"No, her friend said that isn't true.",3_3_012,3,"No, her friend said that isn't true.",provide_bool,,,negative,,female,,,,,
+3,Her boss says that it's true.,3_3_013,3,Her boss says that it's true.,provide_bool,,,positive,,female,,,,,
+3,That feels like it's probably true.,3_3_014,3,That feels like it's probably true.,provide_bool,,,positive,,,,,,,
+4,She is an utter snob.,3_4_001,3, She is an utter snob.,standalone_comment,,,,,female,,,,,
+4,He is a really nice guy.,3_4_002,3, He is a really nice guy.,standalone_comment,,,,,male,,,,,
+4,Now that is one strange bird.,3_4_003,3,Now that is one strange bird.,standalone_comment,,,,,,,,,,
+4,She is so weird!,3_4_004,3,She is so weird!,standalone_comment,,,,,female,,,,,
+4,It's hard to believe people like that have friends.,3_4_005,3,It's hard to believe that people like that have friends.,standalone_comment,,,,,,,,,,
+4,She is as cute as they come.,3_4_006,3,She is as cute as they come.,standalone_comment,,,,,female,,,,,
+4,Hanging out with him is no fun at all.,3_4_007,3,Hanging out with him is no fun at all.,standalone_comment,,,,,male,,,,,
+4,I should really send her an email.,3_4_008,3,I should really send her an email.,standalone_comment,,,,,female,,,,,
+4,She's one of a kind.,3_4_009,3,She's one of a kind.,standalone_comment,,,,,female,,,,,
+4,I really miss talking to him.,3_4_010,3,I really miss talking to him.,standalone_comment,,,,,male,,,,,
+4,He borders on scary.,3_4_011,3,He borders on scary.,standalone_comment,,,,,male,,,,,
+4,She's a total disaster.,3_4_012,3,She's a total disaster.,standalone_comment,,,,,female,,,,,
+4,He makes me want to cry.,3_4_013,3,He makes me want to cry.,standalone_comment,,,,,male,,,,,
+4,He's incredibly rude.,3_4_014,3,He's incredibly rude.,standalone_comment,,,,,male,,,,,
+4,That person is one for the books.,3_4_015,3,That person is one for the books.,standalone_comment,,,,,,,,,,
+4,She's just an awesome friend.,3_4_016,3,She's just an awesome friend.,standalone_comment,,,,,female,,,,,
