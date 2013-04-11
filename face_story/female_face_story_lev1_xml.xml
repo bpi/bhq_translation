@@ -1,0 +1,561 @@
+<faces>
+	<face51>
+		<image>female_1.jpg</image> 
+		<name>This is Quinn.</name> 
+		<name_q>Her name is Quinn.</name_q>
+		<fact_female>She lives in Minneapolis.</fact_female> 
+		<fact_female>She has two sisters who live nearby.</fact_female> 
+		<fact_female>She likes to go to the beach with her sisters.</fact_female>
+		<fact_female>Her dog is a labrador retriever.</fact_female> 
+		<fact_male>He lives in Minneapolis.</fact_male> 
+		<fact_male>He has two sisters who live nearby.</fact_male> 
+		<fact_male>He likes to go to the beach with his sisters.</fact_male>
+		<fact_male>His dog is a labrador retriever.</fact_male>
+	</face51>
+	<face52>
+		<image>female_2.jpg</image> 
+		<name>This is Zuri.</name> 
+		<name_q>Her name is Zuri.</name_q> 
+		<fact_female>She just moved to Argentina.</fact_female> 
+		<fact_female>She owns three horses.</fact_female> 
+		<fact_female>She likes to go to music concerts with her friends.</fact_female>
+		<fact_female>She loves pickles.</fact_female>
+		<fact_male>He just moved to Argentina.</fact_male> 
+		<fact_male>He owns three horses.</fact_male> 
+		<fact_male>He likes to go to music concerts with his friends.</fact_male>
+		<fact_male>He loves pickles.</fact_male>
+	</face52>
+	<face53>
+	  <image>female_3.jpg</image> 
+	  <name>This is Rebecca.</name> 
+	  <name_q>Her name is Rebecca.</name_q> 
+	  <fact_female>She works as a kindergarten teacher.</fact_female> 
+	  <fact_female>She likes to eat brownies.</fact_female> 
+	  <fact_female>She won $100,000 in the lottery last year.</fact_female> 
+	  <fact_female>She pitches for a local softball team.</fact_female>
+	  <fact_male>He works as a kindergarten teacher.</fact_male> 
+	  <fact_male>He likes to eat brownies.</fact_male> 
+	  <fact_male>He won $100,000 in the lottery last year.</fact_male> 
+	  <fact_male>He pitches for a local softball team.</fact_male>
+	</face53>
+	<face54>
+	  <image>female_4.jpg</image> 
+	  <name>This is Carol.</name> 
+	  <name_q>Her name is Carol.</name_q> 
+	  <fact_female>She lives in Fargo.</fact_female> 
+	  <fact_female>She likes to eat zucchini.</fact_female> 
+	  <fact_female>She enjoys going fishing with her husband.</fact_female> 
+	  <fact_female>She plays mah-jongg every Monday.</fact_female>
+	  <fact_male>He lives in Fargo.</fact_male> 
+	  <fact_male>He likes to eat zucchini.</fact_male> 
+	  <fact_male>He enjoys going fishing with his wife.</fact_male> 
+	  <fact_male>He plays mah-jongg every Monday.</fact_male>
+	</face54>
+	<face55>
+	  <image>female_5.jpg</image> 
+	  <name>This is Eve.</name> 
+	  <name_q>Her name is Eve.</name_q> 
+	  <fact_female>She works as a nurse at a local hospital.</fact_female> 
+	  <fact_female>She has one son and one daughter.</fact_female> 
+	  <fact_female>She likes to go on camping trips with her family every summer.</fact_female> 
+	  <fact_female>She is allergic to cats.</fact_female>
+	  <fact_male>He works as a nurse at a local hospital.</fact_male> 
+	  <fact_male>He has one son and one daughter.</fact_male> 
+	  <fact_male>He likes to go on camping trips with his family every summer.</fact_male> 
+	  <fact_male>He is allergic to cats.</fact_male>
+	</face55>
+	<face56>
+	  <image>female_6.jpg</image> 
+	  <name>This is Haley.</name> 
+	  <name_q>Her name is Haley.</name_q> 
+	  <fact_female>She is a professional soccer player.</fact_female> 
+	  <fact_female>She likes to eat chocolate cake.</fact_female> 
+	  <fact_female>She has dinner with her parents every Sunday.</fact_female> 
+	  <fact_female>She dreams of being in the Olympics.</fact_female>
+	  <fact_male>He is a professional soccer player.</fact_male> 
+	  <fact_male>He likes to eat chocolate cake.</fact_male> 
+	  <fact_male>He has dinner with his parents every Sunday.</fact_male> 
+	  <fact_male>He dreams of being in the Olympics.</fact_male>
+	</face56>
+	<face57>
+	  <image>female_7.jpg</image> 
+	  <name>This is Nicole.</name> 
+	  <name_q>Her name is Nicole.</name_q> 
+	  <fact_female>She is a district attorney.</fact_female> 
+	  <fact_female>She likes to eat lobster.</fact_female> 
+	  <fact_female>She goes to see a show on Broadway once a month.</fact_female> 
+	  <fact_female>Her favorite TV show is American Idol.</fact_female>
+	  <fact_male>He is a district attorney.</fact_male> 
+	  <fact_male>He likes to eat lobster.</fact_male> 
+	  <fact_male>He goes to see a show on Broadway once a month.</fact_male> 
+	  <fact_male>His favorite TV show is American Idol.</fact_male>
+	</face57>
+	<face58>
+	  <image>female_8.jpg</image> 
+	  <name>This is Diane.</name> 
+	  <name_q>Her name is Diane.</name_q> 
+	  <fact_female>She lives in Australia.</fact_female> 
+	  <fact_female>She works as a marine biologist.</fact_female> 
+	  <fact_female>She goes to visit her friends in China every four years.</fact_female> 
+	  <fact_female>She loves Mexican food.</fact_female>
+	  <fact_male>He lives in Australia.</fact_male> 
+	  <fact_male>He works as a marine biologist.</fact_male> 
+	  <fact_male>He goes to visit his friends in China every four years.</fact_male> 
+	  <fact_male>He loves Mexican food.</fact_male>
+	</face58>
+	<face59>
+	  <image>female_9.jpg</image> 
+	  <name>This is Wendy.</name> 
+	  <name_q>Her name is Wendy.</name_q> 
+	  <fact_female>She works as a pharmacist.</fact_female> 
+	  <fact_female>She has two cats.</fact_female> 
+	  <fact_female>She likes to go mini golfing with her friends.</fact_female> 
+	  <fact_female>She wanted to be an astronaut when she was younger.</fact_female>
+	  <fact_male>He works as a pharmacist.</fact_male> 
+	  <fact_male>He has two cats.</fact_male> 
+	  <fact_male>He likes to go mini golfing with his friends.</fact_male> 
+	  <fact_male>He wanted to be an astronaut when he was younger.</fact_male>
+	</face59>
+	<face60>
+	  <image>female_11.jpg</image> 
+	  <name>This is Rachael.</name> 
+	  <name_q>Her name is Rachael.</name_q> 
+	  <fact_female>She lives in Memphis.</fact_female> 
+	  <fact_female>She likes jazz music.</fact_female> 
+	  <fact_female>She went to a rodeo for the first time last week.</fact_female> 
+	  <fact_female>She is learning to play the trumpet.</fact_female>
+	  <fact_male>He lives in Memphis.</fact_male> 
+	  <fact_male>He likes jazz music.</fact_male> 
+	  <fact_male>He went to a rodeo for the first time last week.</fact_male> 
+	  <fact_male>He is learning to play the trumpet.</fact_male>
+	</face60>
+	<face61>
+	  <image>female_12.jpg</image> 
+	  <name>This is Kelly.</name> 
+	  <name_q>Her name is Kelly.</name_q> 
+	  <fact_female>She lives in Berkeley.</fact_female> 
+	  <fact_female>She likes to eat vegan food.</fact_female> 
+	  <fact_female>She likes to go on long walks with her best friend.</fact_female> 
+	  <fact_female>She is afraid of heights.</fact_female>
+	  <fact_male>He lives in Berkeley.</fact_male> 
+	  <fact_male>He likes to eat vegan food.</fact_male> 
+	  <fact_male>He likes to go on long walks with his best friend.</fact_male> 
+	  <fact_male>He is afraid of heights.</fact_male>
+	</face61>
+	<face62>
+	  <image>female_13.jpg</image> 
+	  <name>This is Paula.</name> 
+	  <name_q>Her name is Paula.</name_q> 
+	  <fact_female>She works as a computer software programmer.</fact_female> 
+	  <fact_female>She likes to eat grapes.</fact_female> 
+	  <fact_female>She likes to spend her free time alone.</fact_female> 
+	  <fact_female>She lost her favorite scarf yesterday.</fact_female>
+	  <fact_male>He works as a computer software programmer.</fact_male> 
+	  <fact_male>He likes to eat grapes.</fact_male> 
+	  <fact_male>He likes to spend his free time alone.</fact_male> 
+	  <fact_male>He lost his favorite scarf yesterday.</fact_male>
+	</face62>
+	<face63>
+	  <image>female_14.jpg</image> 
+	  <name>This is Brandy.</name> 
+	  <name_q>Her name is Brandy.</name_q> 
+	  <fact_female>She lives in Paris.</fact_female> 
+	  <fact_female>She works as a professional singer.</fact_female> 
+	  <fact_female>She goes dancing with her friends every Friday.</fact_female> 
+	  <fact_female>She is studying psychology at night.</fact_female>
+	  <fact_male>He lives in Paris.</fact_male> 
+	  <fact_male>He works as a professional singer.</fact_male> 
+	  <fact_male>He goes dancing with his friends every Friday.</fact_male> 
+	  <fact_male>He is studying psychology at night.</fact_male>
+	</face63>
+	<face64>
+	  <image>female_15.jpg</image> 
+	  <name>This is Fran.</name> 
+	  <name_q>Her name is Fran.</name_q> 
+	  <fact_female>She works as a T-shirt designer.</fact_female> 
+	  <fact_female>She has a cat named Shadow.</fact_female> 
+	  <fact_female>She likes to go on bike rides by herself.</fact_female> 
+	  <fact_female>Her boyfriend works with her.</fact_female>
+	  <fact_male>He works as a T-shirt designer.</fact_male> 
+	  <fact_male>He has a cat named Shadow.</fact_male> 
+	  <fact_male>He likes to go on bike rides by himself.</fact_male> 
+	  <fact_male>His boyfriend works with him.</fact_male>
+	</face64>
+	<face65>
+	  <image>female_16.jpg</image> 
+	  <name>This is Tina.</name> 
+	  <name_q>Her name is Tina.</name_q>
+	  <fact_female>She lives in Virginia.</fact_female> 
+	  <fact_female>She likes to eat steak.</fact_female> 
+	  <fact_female>She likes to go to art galleries with her close friends.</fact_female> 
+	  <fact_female>She has never been on an airplane.</fact_female>
+	  <fact_male>He lives in Virginia.</fact_male> 
+	  <fact_male>He likes to eat steak.</fact_male> 
+	  <fact_male>He likes to go to art galleries with his close friends.</fact_male> 
+	  <fact_male>He has never been on an airplane.</fact_male>
+	</face65>
+	<face66>
+	  <image>female_17.jpg</image> 
+	  <name>This is Camille.</name> 
+	  <name_q>Her name is Camille.</name_q>
+	  <fact_female>She lives in Detroit.</fact_female> 
+	  <fact_female>She likes to eat turkey sandwiches.</fact_female> 
+	  <fact_female>She went on a hike with her brother and sister yesterday.</fact_female> 
+	  <fact_female>Her father was a state senator.</fact_female>
+	  <fact_male>He lives in Detroit.</fact_male> 
+	  <fact_male>He likes to eat turkey sandwiches.</fact_male> 
+	  <fact_male>He went on a hike with his brother and sister yesterday.</fact_male> 
+	  <fact_male>His father was a state senator.</fact_male>
+	</face66>
+	<face67>
+	  <image>female_18.jpg</image> 
+	  <name>This is Valerie.</name> 
+	  <name_q>Her name is Valerie.</name_q> 
+	  <fact_female>She works as a massage therapist.</fact_female> 
+	  <fact_female>She likes to eat mashed potatoes.</fact_female> 
+	  <fact_female>She likes to play badminton.</fact_female> 
+	  <fact_female>She has a pet turtle named Shelly.</fact_female>
+	  <fact_male>He works as a massage therapist.</fact_male> 
+	  <fact_male>He likes to eat mashed potatoes.</fact_male> 
+	  <fact_male>He likes to play badminton.</fact_male> 
+	  <fact_male>He has a pet turtle named Shelly.</fact_male>
+	</face67>
+	<face68>
+	  <image>female_19.jpg</image> 
+	  <name>This is Teresa.</name> 
+	  <name_q>Her name is Teresa.</name_q>
+	  <fact_female>She works as a hostess at a restaurant.</fact_female> 
+	  <fact_female>She likes rock music.</fact_female> 
+	  <fact_female>She likes to go to the park with her family.</fact_female> 
+	  <fact_female>She never learned how to whistle.</fact_female>
+	  <fact_male>He works as a hostess at a restaurant.</fact_male> 
+	  <fact_male>He likes rock music.</fact_male> 
+	  <fact_male>He likes to go to the park with his family.</fact_male> 
+	  <fact_male>He never learned how to whistle.</fact_male>
+	</face68>
+	<face69>
+	  <image>female_20.jpg</image> 
+	  <name>This is Georgia.</name> 
+	  <name_q>Her name is Georgia.</name_q> 
+	  <fact_female>She lives in Rhode Island.</fact_female> 
+	  <fact_female>She works as a receptionist at a dental office.</fact_female> 
+	  <fact_female>She likes to ride on her family's boat on sunny days.</fact_female> 
+	  <fact_female>She is saving up for a new car.</fact_female>
+	  <fact_male>He lives in Rhode Island.</fact_male> 
+	  <fact_male>He works as a receptionist at a dental office.</fact_male> 
+	  <fact_male>He likes to ride on his family's boat on sunny days.</fact_male> 
+	  <fact_male>He is saving up for a new car.</fact_male>
+	</face69>
+	<face70>
+	  <image>female_21.jpg</image> 
+	  <name>This is Patty.</name> 
+	  <name_q>Her name is Patty.</name_q> 
+	  <fact_female>She lives in Cleveland.</fact_female> 
+	  <fact_female>She likes to eat yogurt.</fact_female> 
+	  <fact_female>She enjoys cooking with her husband.</fact_female> 
+	  <fact_female>She always walks to work.</fact_female>
+	  <fact_male>He lives in Cleveland.</fact_male> 
+	  <fact_male>He likes to eat yogurt.</fact_male> 
+	  <fact_male>He enjoys cooking with his wife.</fact_male> 
+	  <fact_male>He always walks to work.</fact_male>
+	</face70>
+	<face70>
+	  <image>female_22.jpg</image> 
+	  <name>This is Joy.</name> 
+	  <name_q>Her name is Joy.</name_q>
+	  <fact_female>She lives in Calgary.</fact_female> 
+	  <fact_female>She likes to travel to Asia.</fact_female> 
+	  <fact_female>She enjoys reading romance novels.</fact_female> 
+	  <fact_female>She is learning sign language.</fact_female>
+	  <fact_male>He lives in Calgary.</fact_male> 
+	  <fact_male>He likes to travel to Asia.</fact_male> 
+	  <fact_male>He enjoys reading romance novels.</fact_male> 
+	  <fact_male>He is learning sign language.</fact_male>
+	</face70>
+	<face70>
+	  <image>female_23.jpg</image> 
+	  <name>This is Holly.</name> 
+	  <name_q>Her name is Holly.</name_q>
+	  <fact_female>She was born in Mexico City.</fact_female> 
+	  <fact_female>She has a fear of flying.</fact_female> 
+	  <fact_female>She visited her parents last weekend.</fact_female> 
+	  <fact_female>She is getting ready for her sister's wedding.</fact_female>
+	  <fact_male>He was born in Mexico City.</fact_male> 
+	  <fact_male>He has a fear of flying.</fact_male> 
+	  <fact_male>He visited his parents last weekend.</fact_male> 
+	  <fact_male>He is getting ready for his sister's wedding.</fact_male>
+	</face70>
+	<face70>
+	  <image>female_24.jpg</image> 
+	  <name>This is Ava.</name> 
+	  <name_q>Her name is Ava.</name_q> 
+	  <fact_female>She lives in Tampa.</fact_female> 
+	  <fact_female>She used to be a fashion designer.</fact_female> 
+	  <fact_female>She is a big fan of hockey.</fact_female> 
+	  <fact_female>She would like to go to Africa one day.</fact_female>
+	  <fact_male>He lives in Tampa.</fact_male> 
+	  <fact_male>He used to be a fashion designer.</fact_male> 
+	  <fact_male>He is a big fan of hockey.</fact_male> 
+	  <fact_male>He would like to go to Africa one day.</fact_male>
+	</face70>
+	<face77>
+	  <image>female_26.jpg</image> 
+	  <name>This is Kathy.</name> 
+	  <name_q>Her name is Kathy.</name_q> 
+	  <fact_female>She lives near Boston.</fact_female> 
+	  <fact_female>She has two big dogs.</fact_female> 
+	  <fact_female>She enjoys spending time with her children every day.</fact_female> 
+	  <fact_female>She always misplaces her car keys.</fact_female>
+	  <fact_male>He lives near Boston.</fact_male> 
+	  <fact_male>He has two big dogs.</fact_male> 
+	  <fact_male>He enjoys spending time with his children every day.</fact_male> 
+	  <fact_male>He always misplaces his car keys.</fact_male>
+	</face77>
+	<face73>
+	  <image>female_28.jpg</image> 
+	  <name>This is Allison.</name> 
+	  <name_q>Her name is Allison.</name_q>
+	  <fact_female>She lives in Iowa.</fact_female> 
+	  <fact_female>She works as a professional country singer.</fact_female> 
+	  <fact_female>She is going camping with her cousins this weekend.</fact_female> 
+	  <fact_female>She likes to sleep in late.</fact_female>
+	  <fact_male>He lives in Iowa.</fact_male> 
+	  <fact_male>He works as a professional country singer.</fact_male> 
+	  <fact_male>He is going camping with his cousins this weekend.</fact_male> 
+	  <fact_male>He likes to sleep in late.</fact_male>
+	</face73>
+	<face78>
+	  <image>female_29.jpg</image> 
+	  <name>This is Nancy.</name> 
+	  <name_q>Her name is Nancy.</name_q>
+	  <fact_female>She lives near Copenhagen.</fact_female> 
+	  <fact_female>She has five children.</fact_female> 
+	  <fact_female>She is a lieutenant colonel in the army.</fact_female> 
+	  <fact_female>She does jigsaw puzzles in her spare time.</fact_female>
+	  <fact_male>He lives near Copenhagen.</fact_male> 
+	  <fact_male>He has five children.</fact_male> 
+	  <fact_male>He is a lieutenant colonel in the army.</fact_male> 
+	  <fact_male>He does jigsaw puzzles in his spare time.</fact_male>
+	</face78>
+	<face78>
+	  <image>female_30.jpg</image> 
+	  <name>This is Betty.</name> 
+	  <name_q>Her name is Betty.</name_q>
+	  <fact_female>She reads the daily horoscope.</fact_female> 
+	  <fact_female>Her favorite country she visited is Japan.</fact_female> 
+	  <fact_female>She enjoys picnics at the park on the weekends.</fact_female> 
+	  <fact_female>She is a great cook and writes a food blog.</fact_female>
+	  <fact_male>He reads the daily horoscope.</fact_male> 
+	  <fact_male>His favorite country he visited is Japan.</fact_male> 
+	  <fact_male>He enjoys picnics at the park on the weekends.</fact_male> 
+	  <fact_male>He is a great cook and writes a food blog.</fact_male>
+	</face78>
+	<face80>
+	  <image>female_31.jpg</image> 
+	  <name>This is Phyllis.</name> 
+	  <name_q>Her name is Phyllis.</name_q>
+	  <fact_female>She works as a financial consultant.</fact_female> 
+	  <fact_female>She likes to eat celery and peanut butter.</fact_female> 
+	  <fact_female>She is usually with her friends when she isn't at work.</fact_female> 
+	  <fact_female>She hopes to move to London someday.</fact_female>
+	  <fact_male>He works as a financial consultant.</fact_male> 
+	  <fact_male>He likes to eat celery and peanut butter.</fact_male> 
+	  <fact_male>He is usually with his friends when he isn't at work.</fact_male> 
+	  <fact_male>He hopes to move to London someday.</fact_male>
+	</face80>
+	<face80>
+	  <image>female_32.jpg</image> 
+	  <name>This is Farah.</name> 
+	  <name_q>Her name is Farah.</name_q> 
+	  <fact_female>She works as a real estate agent.</fact_female> 
+	  <fact_female>She likes to play social games online.</fact_female> 
+	  <fact_female>She grows her own vegetables.</fact_female> 
+	  <fact_female>She went to Mali with the Peace Corps when she was 18.</fact_female>
+	  <fact_male>He works as a real estate agent.</fact_male> 
+	  <fact_male>He likes to play social games online.</fact_male> 
+	  <fact_male>He grows his own vegetables.</fact_male> 
+	  <fact_male>He went to Mali with the Peace Corps when he was 18.</fact_male>
+	</face80>
+	<face80>
+	  <image>female_33.jpg</image> 
+	  <name>This is Karen.</name> 
+	  <name_q>Her name is Karen.</name_q>
+	  <fact_female>She lives in Dallas.</fact_female> 
+	  <fact_female>She likes to drink tea.</fact_female> 
+	  <fact_female>She likes to visit with friends on the weekends.</fact_female> 
+	  <fact_female>She often donates money to her favorite charity.</fact_female>
+	  <fact_male>He lives in Dallas.</fact_male> 
+	  <fact_male>He likes to drink tea.</fact_male> 
+	  <fact_male>He likes to visit with friends on the weekends.</fact_male> 
+	  <fact_male>He often donates money to his favorite charity.</fact_male>
+	</face80>
+	<face72>
+	  <image>female_34.jpg</image> 
+	  <name>This is Tamar.</name> 
+	  <name_q>Her name is Tamar.</name_q>
+	  <fact_female>She lives in Baltimore.</fact_female> 
+	  <fact_female>She likes to eat tomato soup.</fact_female> 
+	  <fact_female>She likes to watch NASCAR races.</fact_female> 
+	  <fact_female>She loves rainy days.</fact_female>
+	  <fact_male>He lives in Baltimore.</fact_male> 
+	  <fact_male>He likes to eat tomato soup.</fact_male> 
+	  <fact_male>He likes to watch NASCAR races.</fact_male> 
+	  <fact_male>He loves rainy days.</fact_male>
+	</face72>
+	<face71>
+	  <image>female_36.jpg</image> 
+	  <name>This is Molly.</name> 
+	  <name_q>Her name is Molly.</name_q>
+	  <fact_female>She works as a police officer.</fact_female> 
+	  <fact_female>She likes to eat cheesecake.</fact_female> 
+	  <fact_female>She went to a bar with her friends last night.</fact_female> 
+	  <fact_female>Her best friend is her cousin Johanna.</fact_female>
+	  <fact_male>He works as a police officer.</fact_male> 
+	  <fact_male>He likes to eat cheesecake.</fact_male> 
+	  <fact_male>He went to a bar with his friends last night.</fact_male> 
+	  <fact_male>His best friend is his cousin Johanna.</fact_male>
+	</face71>
+	<face74>
+	  <image>female_38.jpg</image> 
+	  <name>This is Gabby.</name> 
+	  <name_q>Her name is Gabby.</name_q> 
+	  <fact_female>She lives in Santa Cruz.</fact_female> 
+	  <fact_female>She likes to eat cheeseburgers.</fact_female> 
+	  <fact_female>She likes to go surfing with her friends every Friday afternoon.</fact_female> 
+	  <fact_female>She is afraid of bees.</fact_female>
+	  <fact_male>He lives in Santa Cruz.</fact_male> 
+	  <fact_male>He likes to eat cheeseburgers.</fact_male> 
+	  <fact_male>He likes to go surfing with his friends every Friday afternoon.</fact_male> 
+	  <fact_male>He is afraid of bees.</fact_male>
+	</face74>
+	<face79>
+	  <image>female_39.jpg</image> 
+	  <name>This is Annie.</name> 
+	  <name_q>Her name is Annie.</name_q>
+	  <fact_female>She works as a babysitter.</fact_female> 
+	  <fact_female>She likes to eat Chinese food.</fact_female> 
+	  <fact_female>She likes to spend her free time working alone on her garden.</fact_female> 
+	  <fact_female>She once saw a grizzly bear on a hike.</fact_female>
+	  <fact_male>He works as a babysitter.</fact_male> 
+	  <fact_male>He likes to eat Chinese food.</fact_male> 
+	  <fact_male>He likes to spend his free time working alone on his garden.</fact_male> 
+	  <fact_male>He once saw a grizzly bear on a hike.</fact_male>
+	</face79>
+	<face79>
+	  <image>female_40.jpg</image> 
+	  <name>This is Yolanda.</name> 
+	  <name_q>Her name is Yolanda.</name_q> 
+	  <fact_female>She goes to church every Sunday.</fact_female> 
+	  <fact_female>Her favorite dish is fettuccine alfredo.</fact_female> 
+	  <fact_female>She is a twin.</fact_female> 
+	  <fact_female>She doesn't like onions.</fact_female>
+	  <fact_male>He goes to church every Sunday.</fact_male> 
+	  <fact_male>His favorite dish is fettuccine alfredo.</fact_male> 
+	  <fact_male>He is a twin.</fact_male> 
+	  <fact_male>He doesn't like onions.</fact_male>
+	</face79>
+	<face76>
+	  <image>female_41.jpg</image> 
+	  <name>This is Sofia.</name> 
+	  <name_q>Her name is Sofia.</name_q>
+	  <fact_female>She works as a mechanical engineer.</fact_female> 
+	  <fact_female>She likes to eat shrimp.</fact_female> 
+	  <fact_female>She is going to Europe for a month with her sister.</fact_female> 
+	  <fact_female>Her favorite movie is "Breakfast at Tiffany's."</fact_female>
+	  <fact_male>He works as a mechanical engineer.</fact_male> 
+	  <fact_male>He likes to eat shrimp.</fact_male> 
+	  <fact_male>He is going to Europe for a month with his sister.</fact_male> 
+	  <fact_male>His favorite movie is "Breakfast at Tiffany's."</fact_male>
+	</face76>
+	<face76>
+	  <image>female_42.jpg</image> 
+	  <name>This is Donna.</name> 
+	  <name_q>Her name is Donna.</name_q>
+	  <fact_female>She works as a marketing associate.</fact_female> 
+	  <fact_female>She went to college at Brown University.</fact_female> 
+	  <fact_female>She lives in Key West.</fact_female> 
+	  <fact_female>She picks up books at the library every week.</fact_female>
+	  <fact_male>He works as a marketing associate.</fact_male> 
+	  <fact_male>He went to college at Brown University.</fact_male> 
+	  <fact_male>He lives in Key West.</fact_male> 
+	  <fact_male>He picks up books at the library every week.</fact_male>
+	</face76>
+	<face81>
+	  <image>female_43.jpg</image> 
+	  <name>This is Lily.</name> 
+	  <name_q>Her name is Lily.</name_q> 
+	  <fact_female>She lives in Daytona.</fact_female> 
+	  <fact_female>She likes electronic music.</fact_female> 
+	  <fact_female>She likes to make her own music for fun.</fact_female> 
+	  <fact_female>She volunteers at a homeless shelter.</fact_female>
+	  <fact_male>He lives in Daytona.</fact_male> 
+	  <fact_male>He likes electronic music.</fact_male> 
+	  <fact_male>He likes to make his own music for fun.</fact_male> 
+	  <fact_male>He volunteers at a homeless shelter.</fact_male>
+	</face81>
+	<face75>
+	  <image>female_44.jpg</image> 
+	  <name>This is Veronica.</name> 
+	  <name_q>Her name is Veronica.</name_q>
+	  <fact_female>She lives in New York.</fact_female> 
+	  <fact_female>She is a university student studying finance.</fact_female> 
+	  <fact_female>She is going hiking with the local hiking club.</fact_female> 
+	  <fact_female>She orders a pizza every Wednesday night for dinner.</fact_female>
+	  <fact_male>He lives in New York.</fact_male> 
+	  <fact_male>He is a university student studying finance.</fact_male> 
+	  <fact_male>He is going hiking with the local hiking club.</fact_male> 
+	  <fact_male>He orders a pizza every Wednesday night for dinner.</fact_male>
+	</face75>
+	<face82>
+	  <image>female_45.jpg</image> 
+	  <name>This is Stacey.</name> 
+	  <name_q>Her name is Stacey.</name_q>
+	  <fact_female>She works at the zoo.</fact_female> 
+	  <fact_female>She has two older brothers.</fact_female> 
+	  <fact_female>She likes to write poetry and has been in poetry competitions.</fact_female> 
+	  <fact_female>She accidentally took the wrong bus yesterday.</fact_female>
+	  <fact_male>He works at the zoo.</fact_male> 
+	  <fact_male>He has two older brothers.</fact_male> 
+	  <fact_male>He likes to write poetry and has been in poetry competitions.</fact_male> 
+	  <fact_male>He accidentally took the wrong bus yesterday.</fact_male>
+	</face82>
+	<face83>
+	  <image>female_46.jpg</image> 
+	  <name>This is Isabel.</name> 
+	  <name_q>Her name is Isabel.</name_q>
+	  <fact_female>She lives in South Africa.</fact_female> 
+	  <fact_female>She likes to eat calamari.</fact_female> 
+	  <fact_female>She likes to go to the midnight viewing of new movies.</fact_female> 
+	  <fact_female>She was sick with the flu last week.</fact_female>
+	  <fact_male>He lives in South Africa.</fact_male> 
+	  <fact_male>He likes to eat calamari.</fact_male> 
+	  <fact_male>He likes to go to the midnight viewing of new movies.</fact_male> 
+	  <fact_male>He was sick with the flu last week.</fact_male>
+	</face83>
+	<face84>
+	  <image>female_47.jpg</image> 
+	  <name>This is Meredith.</name> 
+	  <name_q>Her name is Meredith.</name_q>
+	  <fact_female>She lives in Los Angeles.</fact_female> 
+	  <fact_female>She works as a fashion consultant for many celebrities.</fact_female> 
+	  <fact_female>She is going to a live jazz show tonight with her boyfriend.</fact_female> 
+	  <fact_female>She likes to swim in her pool.</fact_female>
+	  <fact_male>He lives in Los Angeles.</fact_male> 
+	  <fact_male>He works as a fashion consultant for many celebrities.</fact_male> 
+	  <fact_male>He is going to a live jazz show tonight with his girlfriend.</fact_male> 
+	  <fact_male>He likes to swim in his pool.</fact_male>
+	</face84>
+	<face86>
+	  <image>female_48.jpg</image> 
+	  <name>This is Olivia.</name> 
+	  <name_q>Her name is Olivia.</name_q>
+	  <fact_female>She lives in Seattle.</fact_female> 
+	  <fact_female>She never drinks coffee.</fact_female> 
+	  <fact_female>She goes on a bike ride every Sunday with her sister.</fact_female> 
+	  <fact_female>She would like to become an opera singer.</fact_female>
+	  <fact_male>He lives in Seattle.</fact_male> 
+	  <fact_male>He never drinks coffee.</fact_male> 
+	  <fact_male>He goes on a bike ride every Sunday with his sister.</fact_male> 
+	  <fact_male>He would like to become an opera singer.</fact_male>
+	</face86>
+</faces>
