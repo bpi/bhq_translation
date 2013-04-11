@@ -109,7 +109,7 @@ text translation only
 
 ### face_story (Face Facts)
 
-text translation plus translation (text only) of [stimulus content]()
+text translation plus translation (text only) of [stimulus content](/bpi/bhq_translation/tree/master/face_story)
 
 ### nback_card (Card Shark)
 
