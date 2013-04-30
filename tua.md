@@ -1,4 +1,8 @@
 
+There are six stimulus grids with 19 total contrasts. Contrasts are chosen to target the most difficult distinctions under degraded temporal or spectral processing while covering the English phonetic space. A good practical (but usually not optimal) approach to localizing is to start from (a nearest approximation of) the English contrasts, first making obvious deletions and replacements where the target language inventory differs and then considering more general changes in areas where the target phonetic space or phonotactics differs meaningfully.
+
+Note contrasts are shown with an English-like orthography, not IPA. (for example, "dee" = [di], "toe" = [toʊ], etc.)
+
 ### set 1 (x : category)
 
  - ga-ka (f)
@@ -11,7 +15,7 @@
  - da-ga (m)
  - et-ek (m)
  - ud-ug (m)
-
+ -
  - da-ga (f)
  - et-ek (f)
  - ud-ug (f)
@@ -26,11 +30,11 @@
  - ad-ads (m)
  - ek-eks (m)
  - sa-sta (m)
-
+ -
  - ad-ads (f)
  - ek-eks (f)
  - sa-sta (f)
-
+ -
  - ad-ads (m, f)
  - ek-eks (m, f)
  - sa-sta (m, f)
@@ -39,10 +43,10 @@
 
  - shay-chay (m)
  - boe-poe (m)
-
+ -
  - shay-chay (f)
  - boe-poe (f)
-
+ -
  - shay-chay (m, f)
  - boe-poe (m, f)
 
