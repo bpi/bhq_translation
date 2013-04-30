@@ -29,7 +29,7 @@ text translation only
 
 ### dual_modes (Mixed Signals)
 
-text translation plus translating and recording [these words]()
+text translation plus translating and recording [these words](tba.md)
 
 ### categorization (Categorization)
 
@@ -117,7 +117,7 @@ text translation only
 
 ### digit_span (Juggle Factor)
 
-text translation plus translating and recording [these words]()
+text translation plus translating and recording [these words](tba.md)
 
 ### nback_card_auditory (Auditory Ace)
 
@@ -125,7 +125,7 @@ text translation only
 
 ### digit_span_auditory (Auditory Juggle Factor)
 
-text translation plus translating and recording [these words]()
+text translation plus translating and recording [these words](tba.md)
 
 ### dualnback_card (Dual N-Back)
 
