@@ -1,3 +1,10 @@
+for number stroop, need recordings for these:
+one.mp3
+two.mp3
+three.mp3
+four.mp3
+five.mp3
+
 for orientation and spatial stroop tasks, need recordings for these:
 BOTTOM.mp3
 DOWN.mp3
