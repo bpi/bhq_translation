@@ -1,3 +1,11 @@
+for color stroop, need following text:
+cross_ex-red
+cross_ex-blue
+cross_ex-yellow
+cross_ex-green
+cross_ex-purple
+cross_ex-brown
+
 for number stroop, need recordings for these:
 one.mp3
 two.mp3
