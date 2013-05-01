@@ -30,12 +30,17 @@ cross_ex-left
 cross_ex-right
 
 for flanker task,
+text:
+dm_flanker_stim (containing a string of individual alphabet to be used)
+dm_flanker_sndfile (containing a string of individual valid filename, must have same length as dm_flanker_stim and correspond to the alphabet)
 sound recordings for alphabet (or whatever to be used):
 aa.mp3
 bb.mp3
 ...
 zz.mp3
 (note: the filename for the sound must take the doubly form as demonstrated above)
-text:
-dm_flanker_stim
+ex: dm_flanker_stim = "abcdefg" -> dm_flanker_sndfile = "ABCDEFG"
+sound files will be: AA.mp3, BB.mp3, ..., GG.mp3
+
+
 
