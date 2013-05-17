@@ -29,7 +29,7 @@ text translation only
 
 ### dual_modes (Mixed Signals)
 
-text translation plus translating and recording [these words](tba.md)
+text translation plus translating and recording [these words](dual_modes.md)
 
 ### categorization (Categorization)
 
