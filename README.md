@@ -33,15 +33,11 @@ text translation plus translating and recording [these words](dual_modes.md)
 
 ### categorization (Categorization)
 
-text translation only
+currently in beta; do not translate text
 
 ### tapat (TAPAT)
 
-currently in beta; do not translate text
-
-### tapat2 (name-tapat2)
-
-currently in beta; do not translate text
+translate text only
 
 ### beep_seeker (Beep Seeker)
 
@@ -81,11 +77,11 @@ text translation only
 
 ### visual_scan (name-visual_scan)
 
-text translation only
+currently in beta; do not translate text
 
 ### gabor_memory (name-gabor_memory)
 
-text translation only
+in beta for the forseeable future; do not translate text under any circumstances
 
 ### visual_ordering (Fribble Factor)
 
@@ -117,28 +113,28 @@ text translation only
 
 ### digit_span (Juggle Factor)
 
-text translation plus translating and recording [these words](tba.md)
+text translation only
 
 ### nback_card_auditory (Auditory Ace)
 
-text translation only
+text translation plus translation of [these words](auditory_ace.md)
 
 ### digit_span_auditory (Auditory Juggle Factor)
 
-text translation plus translating and recording [these words](tba.md)
+text translation plus translating and recording [these words](digit_span_auditory.md)
 
 ### dualnback_card (Dual N-Back)
 
-text translation only
+text translation plus translation of [these words](auditory_ace.md)
 
 ### lucky_seven (name-lucky_seven)
 
-text translation only
+currently in beta; do not translate text
 
 ### rule_change (Rule Change)
 
-text translation only
+currently in beta; do not translate text
 
 ### task_switch (name-task_switch)
 
-text translation only
+currently in beta; do not translate text
