@@ -35,7 +35,7 @@ text translation plus translating and recording [these words](dual_modes.md)
 
 currently in beta; do not translate text
 
-### tapat (TAPAT)
+### tapat (Freeze Frame)
 
 translate text only
 
