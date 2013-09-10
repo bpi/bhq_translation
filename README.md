@@ -75,9 +75,9 @@ text translation only
 
 [stimulus planning and generation required](misrp.md)
 
-### visual_scan (name-visual_scan)
+### visual_scan (Scene Crasher)
 
-currently in beta; do not translate text
+text translation only
 
 ### gabor_memory (name-gabor_memory)
 
