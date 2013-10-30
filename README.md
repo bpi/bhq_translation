@@ -121,11 +121,11 @@ text translation plus translation of [these words](auditory_ace.md)
 
 ### digit_span_auditory (Auditory Juggle Factor)
 
-text translation plus translating and recording [these words](digit_span_auditory.md)
+text translation plus translating and recording [these words](digit_span_auditory.md). Currently in beta
 
 ### dualnback_card (Dual N-Back)
 
-text translation plus translation of [these words](auditory_ace.md)
+text translation plus translation of [these words](auditory_ace.md) Currently in beta.
 
 ### lucky_seven (name-lucky_seven)
 
