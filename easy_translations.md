@@ -46,6 +46,7 @@ right
 top
 up
 
-{letters A-Z or equivalent}
+### letters
+We also require recording of letters A-Z or equivalent
 
 
