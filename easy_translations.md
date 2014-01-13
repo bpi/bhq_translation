@@ -11,39 +11,39 @@ Recordings should be unprocessed and delivered in a single 16-bit, 44.1 kHz .wav
 
 
 ### words:
-red
-blue
-yellow
-green
-brown
+red,
+blue,
+yellow,
+green,
+brown,
 purple
 
-one
-two
-three
-four
-five
-six
-seven
-eight
-nine
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
 ten
 
-queen
-king
-jack
+queen,
+king,
+jack,
 ace
 
-club
-diamond
-heart
+club,
+diamond,
+heart,
 spade
 
-bottom
-down
-left
-right
-top
+bottom,
+down,
+left,
+right,
+top,
 up
 
 ### letters:
