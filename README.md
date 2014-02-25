@@ -32,6 +32,9 @@ We would like you to start with an easier set of sound stimuli to translate. The
 * nback_card (Card Shark)
 * digit_span (Juggle Factor)
 * face_story (Face Facts) -- in addition we require translation of [these files](face_story).
+* optic_flow (Optic Flow)
+* rotation (Right Turn)
+* 
 
 ## Exercises - text and auditory stimuli
 Note: the sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. Click [here](easy_translations.md) for more information. 
@@ -49,6 +52,8 @@ text translation plus translation of [these words](auditory_ace.md)
 [stimulus planning and generation required](misrp.md)
 *  aud_chatter (In the Know)
 [stimulus planning and generation required](chatter.md)
+* conveyance (True North) text 
+[translation plus translating and recording](convyance.md)
 
 
 ## Beta exercises  - do not translate yet
