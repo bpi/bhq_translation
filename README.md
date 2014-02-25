@@ -44,7 +44,7 @@ In addition to the exericse text, these exercises require sounds stimuli. The so
 *  nback_card_auditory (Auditory Ace)
  -- translate and record [these sounds](auditory_ace.md)
 * conveyance (True North)
- -- translate and record this [stimulus set](convyance.md)
+ -- translate and record this [stimulus set](conveyance.md)
 * aud_sound_discrimination (Fine Tuning)
  -- [stimulus planning and generation required](tua.md)
 * aud_instr_seq (To-Do List Training)
