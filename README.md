@@ -32,29 +32,29 @@ We would like you to start with an easier set of sound stimuli to translate. The
 * nback_card (Card Shark)
 * digit_span (Juggle Factor)
 * face_story (Face Facts) -- in addition we require translation of [these files](face_story).
-* optic_flow (Optic Flow)
 * rotation (Right Turn)
-* 
+* spatial_orientation (Mental Map)
+* optic_flow (Optic Flow)
+
 
 ## Exercises - text and auditory stimuli
-Note: the sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. Click [here](easy_translations.md) for more information. 
+In addition to the exericse text, these exercises require sounds stimuli. The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. Click [here](easy_translations.md) for more information. 
 * dual_modes (Mixed Signals)
-text translation plus translating and recording [these words](dual_modes.md)
+ -- translate and record [these sounds](dual_modes.md)
 *  nback_card_auditory (Auditory Ace)
-text translation plus translation of [these words](auditory_ace.md)
+ -- translate and record [these sounds](auditory_ace.md)
+* conveyance (True North)
+ -- translate and record this [stimulus set](convyance.md)
 * aud_sound_discrimination (Fine Tuning)
-[stimulus planning and generation required](tua.md)
+ -- [stimulus planning and generation required](tua.md)
 * aud_instr_seq (To-Do List Training)
-[stimulus planning and generation required](lad.md)
+ -- [stimulus planning and generation required](lad.md)
 * aud_spatial_match (Memory Grid)
-[stimulus planning and generation required](misrp.md)
+ -- [stimulus planning and generation required](misrp.md)
 * syl_ordering (Syllable Stacks)
-[stimulus planning and generation required](misrp.md)
+ -- [stimulus planning and generation required](misrp.md)
 *  aud_chatter (In the Know)
-[stimulus planning and generation required](chatter.md)
-* conveyance (True North) text 
-[translation plus translating and recording](convyance.md)
-
+ -- [stimulus planning and generation required](chatter.md)
 
 ## Beta exercises  - do not translate yet
 *  categorization (Categorization)
@@ -62,13 +62,13 @@ text translation plus translation of [these words](auditory_ace.md)
 *  gabor_memory (name-gabor_memory)
 *  visual_ordering (Fribble Factor)
 *  visual_spatial_match (Fribbler)
-*  digit_span_auditory (Auditory Juggle Factor)
-text translation plus translating and recording [these words](digit_span_auditory.md). 
-*  dualnback_card (Dual N-Back)
-text translation plus translation of [these words](auditory_ace.md) 
 *  lucky_seven (name-lucky_seven)
 *  rule_change (Rule Change)
 *  task_switch (name-task_switch)
+*  digit_span_auditory (Auditory Juggle Factor)
+ -- plus translating and recording [these words](digit_span_auditory.md). 
+*  dualnback_card (Dual N-Back)
+ -- plus translation of [these words](auditory_ace.md) 
 
 
 
