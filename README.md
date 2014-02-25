@@ -78,9 +78,7 @@ The final exercise is To-Do List Training. Stimulus planning and generation is r
 *  rule_change (Rule Change)
 *  task_switch (name-task_switch)
 *  digit_span_auditory (Auditory Juggle Factor)
- -- plus translating and recording [these words](digit_span_auditory.md). 
 *  dualnback_card (Dual N-Back)
- -- plus translation of [these words](auditory_ace.md) 
 
 
 
