@@ -66,7 +66,7 @@ Next is In the Know. Stimulus planning and generation is required in collaborati
 
 ###Step 6
 The final exercise is To-Do List Training. Stimulus planning and generation is required in collaboration with Posit Science.
-* aud_instr_seq (To-Do List Training). Click [here](lad.m) for more information.
+* aud_instr_seq (To-Do List Training). Click [here](lad.md) for more information.
 
 ## Beta exercises  - do not translate yet
 *  categorization (Categorization)
