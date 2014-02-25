@@ -14,7 +14,7 @@ Text is arranged in bins by content area. Once you've edited and saved some text
 Note that your locale appears twice in the url, once to specify the (pre-built) localized version and again to load the fresh text you've edited.
 
 ### Sounds translation
-We would like you work through the exercises that require sound recordings in a series of steps starting off with a relatively easy stimuli set. There is more information below. 
+We would like you work through the exercises that require sound recordings in a series of steps starting off with a relatively easy stimulus set. More information is below. 
 
 ## Exercises - text translation only
 
