@@ -9,8 +9,8 @@ The file contains list of colors, landmarks (stations), confusable stops, as wel
 You would also make a sound file corresponding to the text and name it using the file name. 
 
 ##Example
-A station in the translated doc might look something like this:
-"arco_di_travertino" : "Arco di Travertino"
+A station in the translated doc might look something like this:  
+"arco_di_travertino" : "Arco di Travertino"  
 Sound file: arco_di_travertino.wav
 
 
