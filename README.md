@@ -14,7 +14,7 @@ Text is arranged in bins by content area. Once you've edited and saved some text
 Note that your locale appears twice in the url, once to specify the (pre-built) localized version and again to load the fresh text you've edited.
 
 ### Sounds translation
-We would like you to start with an easier set of sound stimuli to translate. The sounds are for two exercises; Mixed Signals and Auditory Ace.  The instructions are [here](easy_translations.md).
+We would like you to start with an easier set of sound stimuli to translate. The sounds are for two exercises; Mixed Signals and Auditory Ace.  The instructions are [here](easy_translations.md). Once these recordings are completed, we can move on to more complex stimuli. There is more information below. 
 
 ## Exercises - text translation only
 
@@ -37,24 +37,41 @@ We would like you to start with an easier set of sound stimuli to translate. The
 * optic_flow (Optic Flow)
 
 
-## Exercises - text and auditory stimuli
-In addition to the exericse text, these exercises require sounds stimuli. The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. Click [here](easy_translations.md) for more information. 
+## Exercises - text and sound stimuli
+We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
+
+###Step 1 
+The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. These are a relatively easy set of stimuli and help us establish that the recording methods meet our requirements. The recording instructions are [here](easy_translations.md).  
 * dual_modes (Mixed Signals)
  -- translate and record [these sounds](dual_modes.md)
 *  nback_card_auditory (Auditory Ace)
  -- translate and record [these sounds](auditory_ace.md)
+
+###Step 2 
+When the above two exercises are completed we recommend working on True North. This is another relatively easy stimulus set.  
 * conveyance (True North)
  -- translate and record this [stimulus set](conveyance.md)
-* aud_sound_discrimination (Fine Tuning)
- -- [stimulus planning and generation required](tua.md)
-* aud_instr_seq (To-Do List Training)
- -- [stimulus planning and generation required](lad.md)
+
+###Step 3
+Next we recommend working on Memory Grid and Syllable Stacks. Both of these exercises use the same stimulus set. [Stimulus planning and generation is required](misrp.md)
 * aud_spatial_match (Memory Grid)
- -- [stimulus planning and generation required](misrp.md)
 * syl_ordering (Syllable Stacks)
- -- [stimulus planning and generation required](misrp.md)
+
+
+###Step 4 
+Next is Fine Tuning. [Stimulus planning and generation is required](tua.md)
+* aud_sound_discrimination (Fine Tuning)  
+
+
+###Step 5
+Next is In the Know. [Stimulus planning and generation is required](chatter.md)
 *  aud_chatter (In the Know)
- -- [stimulus planning and generation required](chatter.md)
+
+
+###Step 6
+The final exercises is To-Do List Training. [Stimulus planning and generation is required](lad.md)
+* aud_instr_seq (To-Do List Training)
+
 
 ## Beta exercises  - do not translate yet
 *  categorization (Categorization)
