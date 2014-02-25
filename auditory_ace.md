@@ -1,5 +1,5 @@
 ##Playing card information
-####Please record the tranlated versions of the following words:
+####Please record the translated versions of the following words:
 
 club    
 diamond    
