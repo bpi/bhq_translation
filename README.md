@@ -14,7 +14,7 @@ Text is arranged in bins by content area. Once you've edited and saved some text
 Note that your locale appears twice in the url, once to specify the (pre-built) localized version and again to load the fresh text you've edited.
 
 ### Sounds translation
-We would like you to start with an easier set of sound stimuli to translate. The sounds are for two exercises; Mixed Signals and Auditory Ace.  The instructions are [here](easy_translations.md). Once these recordings are completed, we can move on to more complex stimuli. There is more information below. 
+We would like you work through the exercises that require sound recordings in a series of steps starting off with a relatively easy stimuli set. There is more information below. 
 
 ## Exercises - text translation only
 
@@ -42,36 +42,29 @@ We would like you to work through these exercises in a series of steps. Only whe
 
 ###Step 1 
 The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. These are a relatively easy set of stimuli and help us establish that the recording methods meet our requirements. The recording instructions are [here](easy_translations.md).  
-* dual_modes (Mixed Signals)
- -- translate and record [these sounds](dual_modes.md)
-*  nback_card_auditory (Auditory Ace)
- -- translate and record [these sounds](auditory_ace.md)
+* dual_modes (Mixed Signals). Translate and record [these sounds](dual_modes.md).
+* nback_card_auditory (Auditory Ace). Translate and record [these sounds](auditory_ace.md).
 
 ###Step 2 
 When the above two exercises are completed we recommend working on True North. This is another relatively easy stimulus set.  
-* conveyance (True North)
- -- translate and record this [stimulus set](conveyance.md)
+* conveyance (True North). Please translate and record this [stimulus set](conveyance.md).
 
 ###Step 3
-Next we recommend working on Memory Grid and Syllable Stacks. Both of these exercises use the same stimulus set. [Stimulus planning and generation is required](misrp.md)
+Next we recommend working on Memory Grid and Syllable Stacks. Both of these exercises use the same stimulus set. Stimulus planning and generation is required in collaboration with Posit Science. Click [here](misrp.md) for more information.
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)
 
-
 ###Step 4 
-Next is Fine Tuning. [Stimulus planning and generation is required](tua.md)
-* aud_sound_discrimination (Fine Tuning)  
-
+Next is Fine Tuning. Stimulus planning and generation is required in collaboration with Posit Science. 
+* aud_sound_discrimination (Fine Tuning). Click [here](tua.md) for more information.
 
 ###Step 5
-Next is In the Know. [Stimulus planning and generation is required](chatter.md)
-*  aud_chatter (In the Know)
-
+Next is In the Know. Stimulus planning and generation is required in collaboration with Posit Science.
+*  aud_chatter (In the Know). Click [here](chatter.md) for more information.
 
 ###Step 6
-The final exercises is To-Do List Training. [Stimulus planning and generation is required](lad.md)
-* aud_instr_seq (To-Do List Training)
-
+The final exercise is To-Do List Training. Stimulus planning and generation is required in collaboration with Posit Science.
+* aud_instr_seq (To-Do List Training). Click [here](lad.m) for more information.
 
 ## Beta exercises  - do not translate yet
 *  categorization (Categorization)
