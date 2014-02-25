@@ -41,9 +41,11 @@ We would like you work through the exercises that require sound recordings in a 
 We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
 
 ###Step 1 
-The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. These are a relatively easy set of stimuli and help us establish that the recording methods meet our requirements. The recording instructions are [here](easy_translations.md).  
-* dual_modes (Mixed Signals). Translate and record [these sounds](dual_modes.md).
-* nback_card_auditory (Auditory Ace). Translate and record [these sounds](auditory_ace.md).
+The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. These are a relatively easy set of stimuli and help us establish that the recording methods meet our requirements. 
+* dual_modes (Mixed Signals). 
+* nback_card_auditory (Auditory Ace).  
+
+The recording instructions and the stimuli to record are [here](easy_translations.md).  
 
 ###Step 2 
 When the above two exercises are completed we recommend working on True North. This is another relatively easy stimulus set.  
