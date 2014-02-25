@@ -1,5 +1,18 @@
+conveyance (True North)
+________________________
+## Additional Text and Sounds
+The file contains list of colors, landmarks (stations), confusable stops, as well as transition words (e.g., first, then, next). You will need to translate the file names and corresponding text files in [this document](conv_stim.txt). 
+
+Format: 
+"file_name" : "Corresponding Text"
+
+You would also make a sound file corresponeding to the text and name it using the file name. 
+
+##Example
+A station in the translated doc might look something like this:
+"arco_di_travertino" : "Arco di Travertino"
+Sound file: arco_di_travertino.wav
 
 
-First adapt [this document](chatter.csv), translating directly where possible and making changes to the spec where necessary (for example, if it is not possible to specify gender in a confirmation).
 
-Recordings should have similar rate and intonation patterns so that they sound reasonably natural when concatenated. A good approach is to have each speaker listen to a few appropriate productions of a model speaker and produce sentences as if in response to these sounds.
+
