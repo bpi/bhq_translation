@@ -1,7 +1,7 @@
 Text database
 =============
 
-###Text Translation
+###Instructions
 * Go to http://text.brainhq.com/txt (please use Chrome or Firefox - this web site does not work with Internet Explorer)
 * Log in using your credentials - you should have already received your credentials from us by email. They will look something like login: “jp” and password “ABC123”
 * On the left, you will see a set of bar graphs, with blue/red/and green regions. On the right, you will see a pair of buttons labeled “build test” (blue) and “build prod” (red).
