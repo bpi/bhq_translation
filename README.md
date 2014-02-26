@@ -43,11 +43,11 @@ In addition to the text tranlations, the following exercises require sound stimu
 
 ###Exercises with easy stimulus sets
 ####Step 1 
-The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. These are a relatively easy set of stimuli and help us establish that the recording methods meet our requirements. 
+The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. This is a relatively easy set of stimuli and will help us establish that the recording methods meet our requirements. 
 * dual_modes (Mixed Signals). 
 * nback_card_auditory (Auditory Ace).  
 
-Please tranlate and record [this](easy_translations.md) stimulus set.  
+Please translate and record [this](easy_translations.md) stimulus set.  
 
 ####Step 2 
 When the previous step is completed you can start workig on True North. This is another relatively easy stimulus set.  
