@@ -1,7 +1,15 @@
 BrainHQ Translation
 ===================
 
-## Introduction
+###Overview
+There are two types of context to translate:  
+* Text: The text content is translated through a text database, then making the content live in BrainHQ. You should regularly (every week) check on the text database to ensure that you rapidly translate new text as we continue to improve and expand BrainHQ. Staying up-to-date in your translation is important, to ensure that your version of BrainHQ stays in sync with ours.
+* Audio: The audio content is translated by recording a specific set of audio content, and sending the files to Posit for processing and incorporation into BrainHQ. In general, you should have to do this only once per exercise.  
+
+What does not need to be translated: all bins starting with the below prefixes
+* ads-XX, except for ads you have specifically opted into by contacting Posit.
+* exercise-XX where exercise is the name of an exercise that you have not opted into. Typically you will not have opted into exercises that require audio translations, or are very new on the Posit side.
+
 Many exercises can be localized completely by editing the text for your locale; others need translated sound stimuli. We can disable selected exercises for your locale until they have been fully localized.
 
 ### Text translation
