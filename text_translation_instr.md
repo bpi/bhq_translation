@@ -30,8 +30,8 @@ All bins starting with the below prefixes
 * ads-XX, except for ads you have specifically opted into by contacting Posit.
 * exercise-XX where exercise is the name of an exercise that you have not opted into. Typically you will not have opted into exercises that require sound translations, or are very new on the Posit side.
 
-###General Notes on Translating Text
+###General notes on translating text
 If you build prod, and you have blue or red sections in your bar, your version of BrainHQ will display English text 
 
-###Specific Notes on Translating Individual Keys
+###Specific notes on translating individual keys
 gift-example-email-msg: The mixed text and html in this key are very difficult to translate correctly. Please simply delete all of the text and html in this key. Your users will not see an example of the email their gift recipient will see when they receive a gift.
