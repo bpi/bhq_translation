@@ -21,7 +21,8 @@ Text database
     * On the left of the “val” row is the English text. On the right, in an edit box, you should translate in English text into your language.
     * Click on “submit” to save your translation.
 * After you have completed the translations, click the blue “build test” button. This incorporates your translations into BrainHQ running on a test server.
-    * It takes ~15 minutes for the test server to build. You will get an email acknowledging that the test server has built. If you do not get the email (please check your spam folder), please let us know right away - either there is a problem with the build process (which is unlikely, but possible), we have the wrong email address for you (which we can fix).
+    * It takes ~15 minutes for the test server to build. You will get an email acknowledging that the test server has built. If you do not get the email (please check your spam folder), please let us know right away - either there is a problem with the build process (which is unlikely, but possible), we have the wrong email address for you (which we can fix). Once built you can view it live on our test server:
+	https://bhq-play-test.herokuapp.com/default/start?chlocale={YOUR_LOCALE}
     * After you receive the confirmation email, you can view BrainHQ on your test server at [XX]
 * After you have confirmed the translation, click the red “build prod” button. This incorporates your translations into BrainHQ running on your production server. You can view BrainHQ on the production server at [your locale].brainhq.com (e.g., ko.brainhq.com for Korean)
 
