@@ -1,4 +1,5 @@
-### Easy auditory translations
+Easy auditory translations
+==========================
 
 Translation and recording of the following words will allow us to enable these exercises for your locale:
 
