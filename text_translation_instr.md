@@ -1,4 +1,7 @@
-##Text Translation
+Text database
+=============
+
+###Text Translation
 * Go to http://text.brainhq.com/txt (please use Chrome or Firefox - this web site does not work with Internet Explorer)
 * Log in using your credentials - you should have already received your credentials from us by email. They will look something like login: “jp” and password “ABC123”
 * On the left, you will see a set of bar graphs, with blue/red/and green regions. On the right, you will see a pair of buttons labeled “build test” (blue) and “build prod” (red).
@@ -22,8 +25,13 @@
     * After you receive the confirmation email, you can view BrainHQ on your test server at [XX]
 * After you have confirmed the translation, click the red “build prod” button. This incorporates your translations into BrainHQ running on your production server. You can view BrainHQ on the production server at [your locale].brainhq.com (e.g., ko.brainhq.com for Korean)
 
-##General Notes on Translating Text
+### What does not need to be translated
+All bins starting with the below prefixes
+* ads-XX, except for ads you have specifically opted into by contacting Posit.
+* exercise-XX where exercise is the name of an exercise that you have not opted into. Typically you will not have opted into exercises that require sound translations, or are very new on the Posit side.
+
+###General Notes on Translating Text
 If you build prod, and you have blue or red sections in your bar, your version of BrainHQ will display English text 
 
-##Specific Notes on Translating Individual Keys
+###Specific Notes on Translating Individual Keys
 gift-example-email-msg: The mixed text and html in this key are very difficult to translate correctly. Please simply delete all of the text and html in this key. Your users will not see an example of the email their gift recipient will see when they receive a gift.
