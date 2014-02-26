@@ -54,7 +54,7 @@ When the previous step is completed you can start working on True North. This is
 ###Complex sound stimuli
 Stimulus planning and generation is required for exercises with complex sound stimuli. Please contact us when you are ready to proceed with the next step so that we can start working together to produce a stimulus list. 
 
-Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, the conveyance (True North) exercise is a similar task. 
+Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, note that the conveyance (True North) exercise is a very similar task. 
 
 ####Step 3
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for these exercise. Note that both of these exercises use the same stimulus set.
