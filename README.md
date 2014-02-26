@@ -5,6 +5,8 @@ BrainHQ Translation
 Many exercises can be localized completely by editing the text for your locale; others need translated sound stimuli. We can disable selected exercises for your locale until they have been fully localized.
 
 ### Text translation
+Instructions on how to use the text database is [here](text_translation_instr.md).
+
 To translate text, go to our [text database](https://tra:vame4uFA@tra.cloudant.com/rfm_loc/_design/rfm_loc/index.html#) and select your locale.
 
 Text is arranged in bins by content area. Once you've edited and saved some text you can view it live on our test server:
