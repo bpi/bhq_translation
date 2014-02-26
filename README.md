@@ -54,24 +54,22 @@ When the previous step is completed you can start workig on True North. This is 
 * conveyance (True North). Please translate and record [this] (conveyance.md) stimulus set.
 
 ###Exercises with complex stimulus sets
-Stimulus planning and generation is required for exercises with complex sound stimulis. Please contact us when you are ready to proceed with the next Step so that we can start working together to produce a stimulus list. 
+Stimulus planning and generation is required for exercises with complex sound stimulis. Please contact us when you are ready to proceed with the next step so that we can start working together to produce a stimulus list. 
 
 Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, the conveyance (True North) exercise is a similar task. 
 
 ####Step 3
-Both of these exercises use the same stimulus set.
+When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for these exercise. Note that both of these exercises use the same stimulus set.
 * aud_spatial_match (Memory Grid)
-* syl_ordering (Syllable Stacks)
-Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
-
+* syl_ordering (Syllable Stacks)  
 
 ####Step 4 
-* aud_sound_discrimination (Fine Tuning). 
-Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
+When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
+* aud_sound_discrimination (Fine Tuning).  
 
 ####Step 5
-*  aud_chatter (In the Know). 
-Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
+When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
+*  aud_chatter (In the Know).  
 
 ## Beta exercises  - do not translate
 *  categorization (Categorization)
