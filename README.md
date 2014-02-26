@@ -39,7 +39,7 @@ Recording instructions are [here](recording_instr.md).
 * optic_flow (Optic Flow)
 
 ## Exercises requiring sound stimuli 
-In addition to the text tranlations, the following exercises also require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
+In addition to the text tranlations, the following exercises require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
 
 ###Exercises with easy stimulus sets
 ####Step 1 
@@ -47,27 +47,31 @@ The sounds for the first two exercises (Mixed Signals and Auditory Ace) should b
 * dual_modes (Mixed Signals). 
 * nback_card_auditory (Auditory Ace).  
 
-The recording instructions and the stimuli to record are [here](easy_translations.md).  
+Please tranlate and record [this](easy_translations.md) stimulus set.  
 
 ####Step 2 
-When the above two exercises are completed we recommend working on True North. This is another relatively easy stimulus set.  
-* conveyance (True North). Please translate and record this [stimulus set](conveyance.md).
+When the previous step is completed you can start workig on True North. This is another relatively easy stimulus set.  
+* conveyance (True North). Please translate and record [this] (conveyance.md) stimulus set.
 
 ###Exercises with complex stimulus sets
-Stimulus planning and generation is required for exercises with complex sound exercises. Please contact us when you are ready to proceed with the next Step so that we can start working together to produce a stimulus list. 
+Stimulus planning and generation is required for exercises with complex sound stimulis. Please contact us when you are ready to proceed with the next Step so that we can start working together to produce a stimulus list. 
 
 Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, the conveyance (True North) exercise is a similar task. 
 
 ####Step 3
-Both of these exercises use the same stimulus set.  
+Both of these exercises use the same stimulus set.
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)
+Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
+
 
 ####Step 4 
 * aud_sound_discrimination (Fine Tuning). 
+Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
 
 ####Step 5
 *  aud_chatter (In the Know). 
+Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
 
 ## Beta exercises  - do not translate yet
 *  categorization (Categorization)
