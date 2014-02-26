@@ -73,7 +73,7 @@ Once the previous step has been completed you can contact us when you are ready 
 *  aud_chatter (In the Know). 
 Once the previous step has been completed you can contact us when you are ready to start stimulus planning and generation. 
 
-## Beta exercises  - do not translate yet
+## Beta exercises  - do not translate
 *  categorization (Categorization)
 *  beep_seeker (Beep Seeker)
 *  gabor_memory (name-gabor_memory)
