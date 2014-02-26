@@ -2,7 +2,7 @@ BrainHQ Translation
 ===================
 
 ## Introduction
-Many exercises can be localized completely by editing the text for your locale; others need tranlated sound stimuli. We can disable selected exercises for your locale until they have been fully localized.
+Many exercises can be localized completely by editing the text for your locale; others need translated sound stimuli. We can disable selected exercises for your locale until they have been fully localized.
 
 ### Text translation
 To translate text, go to our [text database](https://tra:vame4uFA@tra.cloudant.com/rfm_loc/_design/rfm_loc/index.html#) and select your locale.
