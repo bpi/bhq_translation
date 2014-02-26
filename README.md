@@ -16,6 +16,8 @@ Note that your locale appears twice in the url, once to specify the (pre-built) 
 ### Sounds translation
 We would like you work through the exercises that require sound recordings in a series of steps starting off with a relatively easy stimulus set. More information is below. 
 
+Recording instructions are [here](recording_instr.md).
+
 ## Exercises - text translation only
 
 * divided_attention (Divided Attention)
@@ -52,7 +54,8 @@ When the above two exercises are completed we recommend working on True North. T
 * conveyance (True North). Please translate and record this [stimulus set](conveyance.md).
 
 ###Step 3
-Next we recommend working on Memory Grid and Syllable Stacks. Both of these exercises use the same stimulus set. Stimulus planning and generation is required in collaboration with Posit Science. Click [here](misrp.md) for more information.
+Next we recommend working on Memory Grid and Syllable Stacks. Both of these exercises use the same stimulus set.  
+Click [here](misrp.md) for more information.
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)
 

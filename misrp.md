@@ -1,10 +1,20 @@
-### 2 Easy lists 
-do these last (mix in words from the hard lists)
+Memory Grid & Syllable Stacks 
+=============================
+The same stimulus set is used for both of these exercises. 
+
+### Stimulus planning
+The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. Once accepted by Posit recordings can then be made. 
+
+###Two sets of recordings required. 
+We need two different voices to record the stimuli, preferable a male and female voice.
+
+### Two  easy sound lists 
+Do these last (mix in words from the hard lists)
 
  - bash bill can chuck dish dust fig gash gum kiss lab mat nag nut pun rib rug sit
  - boon crags fake gone kegs lash let pab peg poke roff roop shay shob taint toe tone tube
 
-### 4 hard lists
+### Four hard sound lists
 In English, chosen to maximize total frequency of words in resulting phonological neighborhoods. About
 half words, half non-words; avoid very frequent words. Each list should contain about 20 words.
 
