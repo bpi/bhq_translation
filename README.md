@@ -18,7 +18,7 @@ We would like you work through the exercises that require sound recordings in a 
 
 Recording instructions are [here](recording_instr.md).
 
-## Exercises - text translation only
+## Exercises using text only
 
 * divided_attention (Divided Attention)
 * mot (Target Tracker)
@@ -38,38 +38,36 @@ Recording instructions are [here](recording_instr.md).
 * spatial_orientation (Mental Map)
 * optic_flow (Optic Flow)
 
+## Exercises requiring sound stimuli 
+In addition to the text tranlations, the following exercises also require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
 
-## Exercises - text and sound stimuli
-We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
-
-###Step 1 
+###Exercises with easy stimulus sets
+####Step 1 
 The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. These are a relatively easy set of stimuli and help us establish that the recording methods meet our requirements. 
 * dual_modes (Mixed Signals). 
 * nback_card_auditory (Auditory Ace).  
 
 The recording instructions and the stimuli to record are [here](easy_translations.md).  
 
-###Step 2 
+####Step 2 
 When the above two exercises are completed we recommend working on True North. This is another relatively easy stimulus set.  
 * conveyance (True North). Please translate and record this [stimulus set](conveyance.md).
 
-###Step 3
-Next we recommend working on Memory Grid and Syllable Stacks. Both of these exercises use the same stimulus set.  
-Click [here](misrp.md) for more information.
+###Exercises with complex stimulus sets
+Stimulus planning and generation is required for exercises with complex sound exercises. Please contact us when you are ready to proceed with the next Step so that we can start working together to produce a stimulus list. 
+
+Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, the conveyance (True North) exercise is a similar task. 
+
+####Step 3
+Both of these exercises use the same stimulus set.  
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)
 
-###Step 4 
-Next is Fine Tuning. Stimulus planning and generation is required in collaboration with Posit Science. 
-* aud_sound_discrimination (Fine Tuning). Click [here](tua.md) for more information.
+####Step 4 
+* aud_sound_discrimination (Fine Tuning). 
 
-###Step 5
-Next is In the Know. Stimulus planning and generation is required in collaboration with Posit Science.
-*  aud_chatter (In the Know). Click [here](chatter.md) for more information.
-
-###Step 6
-The final exercise is To-Do List Training. Stimulus planning and generation is required in collaboration with Posit Science.
-* aud_instr_seq (To-Do List Training). Click [here](lad.md) for more information.
+####Step 5
+*  aud_chatter (In the Know). 
 
 ## Beta exercises  - do not translate yet
 *  categorization (Categorization)
