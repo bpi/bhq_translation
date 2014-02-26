@@ -9,15 +9,7 @@ There are two types of content to translate:
 Many exercises can be localized completely by editing the text for your locale; others need translated sound stimuli. We can disable selected exercises for your locale until they have been fully localized.
 
 ### Text translation
-Instructions on how to use the text database is [here](text_translation_instr.md).
-
-To translate text, go to our [text database](https://tra:vame4uFA@tra.cloudant.com/rfm_loc/_design/rfm_loc/index.html#) and select your locale.
-
-Text is arranged in bins by content area. Once you've edited and saved some text you can view it live on our test server:
-
-	https://bhq-play-test.herokuapp.com/default/start?locale={YOUR_LOCALE}&override_locale={YOUR_LOCALE}
-	
-Note that your locale appears twice in the url, once to specify the (pre-built) localized version and again to load the fresh text you've edited.
+All text to be translated is stored in our text database. Instructions on how to use the text database is [here](text_translation_instr.md).
 
 ### Sound translation
 We would like you work through the exercises that require sound recordings in a series of steps starting off with a relatively easy stimulus set. More information is below. 
