@@ -6,8 +6,8 @@ Recordings should be unprocessed and delivered in a single 16-bit, 44.1 kHz .wav
 
 Here is an example of a wav file containing 5 sounds and the corresponding TextGrid with the labels. You can open both together in Praat. 
 
-[SCRIPT 01.wav]
-[SCRIPT_01.TextGrid]
+[SCRIPT 01.wav](SCRIPT 01.wav)
+[SCRIPT_01.TextGrid](SCRIPT_01.TextGrid)
 
 [id]: SCRIPT_01.TextGrid "Title"
 
