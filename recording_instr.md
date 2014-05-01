@@ -9,6 +9,8 @@ Here is an example of a wav file containing 5 sounds and the corresponding TextG
 [SCRIPT 01.wav]
 [SCRIPT_01.TextGrid]
 
+[id]: SCRIPT_01.TextGrid "Title"
+
 I found this section of the Praat tutorial particularly useful:
 http://www.fon.hum.uva.nl/praat/manual/Intro_7__Annotation.html
 
