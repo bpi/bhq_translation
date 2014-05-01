@@ -4,13 +4,6 @@ The words should all be recorded at the same careful (but not overly slow) rate 
 
 Recordings should be unprocessed and delivered in a single 16-bit, 44.1 kHz .wav file along with a text file annotating the contents of the waveform (including native orthography). If possible, a Praat (http://www.fon.hum.uva.nl/praat/) TextGrid annotation containing three tiers (English translation, rough phonetic gloss, native orthography) would be preferable.
 
-Here is an example of a wav file containing 5 sounds and the corresponding TextGrid with the labels. You can open both together in Praat. 
-
-[SCRIPT 01.wav](SCRIPT 01.wav)
-
-[SCRIPT_01.TextGrid](SCRIPT_01.TextGrid)
-
-
 I found this section of the Praat tutorial particularly useful:
 http://www.fon.hum.uva.nl/praat/manual/Intro_7__Annotation.html
 
