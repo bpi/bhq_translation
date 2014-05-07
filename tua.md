@@ -7,7 +7,7 @@ Fine Tuning
 The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. 
 
 **Important**
-* You should use as much of the existing stimulus comparsions used in the English version of BrainHQ. Only suggest new stimulus pairs if exising pairs are not applicable in your languagge. 
+* You should make use of as much of the existing English language stimulus constrasts as possible. Only suggest new stimulus pairs if exising pairs are not applicable in your languagge. 
 
 * Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. You should not start recording until the list has been reviewed by Posit. Please DO NOT start recording until we have reviewed the list. 
 
