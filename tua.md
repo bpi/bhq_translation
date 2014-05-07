@@ -1,11 +1,25 @@
 Fine Tuning
 =============================
+## Stimulus planning
+This can be a time consuming exercise to translate because we need pairs of sound stimuli that are closely matched and recorded correctly. It is important that you follow the instructions below to help us reduce the workload. 
 
 ### Stimulus planning
-The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. Once accepted by Posit recordings can then be made. 
+The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. 
 
-###Two sets of recordings required. 
+**Important**
+* You should use as much of the existing stimulus comparsions used in the English version of BrainHQ. Only suggest new stimulus pairs if exising pairs are not applicable in your languagge. 
+
+* Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. You should not start recording until the list has been reviewed by Posit. Please DO NOT start recording until we have reviewed the list. 
+
+* We need two different voices to record the stimuli, preferable a male and female voice.
+
+###Recordings
+It is very important that the two stimui in a contrast pair are as similar as possible in intonation and length. To help us get a good match we need mutliple recordings (we recommend five) of the same stimuli.. For example, if a sound pair e.g. 'gee-kee' is used, you should record the following sequecne.
+gee gee gee gee gee kee kee kee kee kee
+
+To avoid "list effects" where pairs of stimuli are 
 We need two different voices to record the stimuli, preferable a male and female voice.
+
 
 ### Stimuli
 There are six stimulus grids with 19 total contrasts. Contrasts are chosen to target the most difficult distinctions under degraded temporal or spectral processing while covering the English phonetic space. A good practical (but usually not optimal) approach to localizing is to start from (a nearest approximation of) the English contrasts, first making obvious deletions and replacements where the target language inventory differs and then considering more general changes in areas where the target phonetic space or phonotactics differs meaningfully.
