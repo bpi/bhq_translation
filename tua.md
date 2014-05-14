@@ -7,6 +7,7 @@ Most of these exercise offer sound contrasts that are useful in most European la
 
 ### Customize the text label list
 Labels: The lists below are the sounds used in the English version of BrainHQ. These are the labels used for the reponse text. You may cusomize the labels if you think different text better represents these sounds in your language. 
+
 #### Set 1
 ga-ka  
 dee-tee  
@@ -37,3 +38,8 @@ bu-du
 di-gi  
 bi-di  
 aff-ath    
+
+### Customtize the tutorial text
+You can also customize the tutorial text key label to include information about some of the sounds. You might want to add some text regarding unfamiliarity of the sounds. E.g., 
+
+	"aud_sound_discrimination_tut_01-0" : "You will hear one of two increasingly similar syllables and then identify which one you heard. Some of the sounds might seem unfamiliar but they are important for auditory processing.  Click on START to begin."
