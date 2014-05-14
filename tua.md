@@ -6,7 +6,7 @@ Fine Tuning
 This exercise uses sound contrasts that are useful in most European languages. Even if the sounds are not common in your language they are still useful for improving temporal processing speed and accuracy. 
 
 ### Customize the text label list
-Labels: The lists below are the sounds used in the English version of BrainHQ. These are the labels used for the response text. You may customize the labels if you think different text better represents these sounds in your language. 
+The lists below are the sound labels used in the English version of BrainHQ. These are used for the text on the response boxes. You can customize the labels if you think different text better represents these sounds in your language. 
 
 #### Set 1
 ga-ka  
