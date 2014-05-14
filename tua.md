@@ -39,7 +39,7 @@ di-gi
 bi-di  
 aff-ath    
 
-### Customtize the tutorial text
+### Customize the tutorial text
 You can also customize the tutorial text to include information about some of the sounds. You might want to add some text regarding unfamiliarity of the sounds. E.g., 
 
 __Text key: aud_sound_discrimination_tut_01-0__  
