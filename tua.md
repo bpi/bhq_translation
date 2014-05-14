@@ -10,8 +10,8 @@ Labels: The lists below are the sounds used in the English version of BrainHQ. T
 
 ### Set 1 (x : category)
 
- - ga-ka 
- - dee-tee 
+ - ga-ka
+ - dee-tee
  - doe-toe
  - gee-kee
 
@@ -20,10 +20,10 @@ Labels: The lists below are the sounds used in the English version of BrainHQ. T
  - da-ga
  - et-ek
  - ud-ug
- -
- - da-ga 
- - et-ek 
- - ud-ug 
+ 
+ - da-ga
+ - et-ek
+ - ud-ug
 
  - da-ga 
  - et-ek 
@@ -46,14 +46,14 @@ Labels: The lists below are the sounds used in the English version of BrainHQ. T
 
 ### Set 4 (x : category, y : speaker)
 
- - shay-chay 
- - boe-poe 
+ - shay-chay
+ - boe-poe
  
  - shay-chay
  - boe-poe
  
  - shay-chay
- - boe-poe 
+ - boe-poe
 
 ### Set 5 (x : category, y : speaker)
 
