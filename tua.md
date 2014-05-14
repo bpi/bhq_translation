@@ -18,21 +18,21 @@ da-ga
 et-ek  
 ud-ug  
   
-### Set 3
+#### Set 3
 ad-ads  
 ek-eks  
 sa-sta  
   
-### Set 4 (x : category, y : speaker)
+#### Set 4 
 shay-chay  
 boe-poe  
   
-### Set 5 (x : category, y : speaker)
+#### Set 5
 boe-doe  
 ab-ad  
 vo-tho   
   
-### Set 6 (x : category)
+#### Set 6 
 bu-du  
 di-gi  
 bi-di  
