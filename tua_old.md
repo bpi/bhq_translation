@@ -1,10 +1,9 @@
 Fine Tuning
 =============================
 
-**This can be a time consuming exercise to translate because we need pairs of sound stimuli that are closely matched and recorded correctly. We are therefore not using any new sound stimuli. 
-However, we offer customization of the sound labels and you also have the option to omit some sound pairs.**
+**This can be a time consuming exercise to translate because we need pairs of sound stimuli that are closely matched and recorded correctly. It is important that you follow the instructions below to help us reduce the workload.**
 
-### Customize the list
+### Stimulus planning
 The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. 
 
 **Important**
