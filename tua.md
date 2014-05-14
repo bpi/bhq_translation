@@ -1,7 +1,7 @@
 Fine Tuning
 =============================
 
-**We do not offer customization of sounds due to the complexity of selecting, correctly recording and processing sounds pairs. However, we offer customization of the sound text labels.**
+**We do not offer customization of the auditory stimuli due to the complexity of selecting, correctly recording and processing sounds pairs. However, we do offer customization of the sound text labels.**
 
 This exercise uses sound contrasts that are useful in most European languages. Even if the sounds are not common in your language they are still useful for improving temporal processing speed and accuracy. 
 
