@@ -7,36 +7,18 @@ Most of these exercise offer sound contrasts that are useful in most European la
 
 # Customize the text label list
 Labels: The lists below are the sounds used in the English version of BrainHQ. These are the labels used for the reponse text. You may cusomize the labels if you think different text better represents these sounds in your language. 
-
-
-### Set 1 (x : category)
+### Set 1
 ga-ka  
 dee-tee  
 doe-toe  
 gee-kee  
 
-### Set 2 (x : category, y : speaker)
+### Set 2 
 da-ga  
 et-ek  
 ud-ug  
   
-da-ga  
-et-ek  
-ud-ug  
-  
-da-ga  
-et-ek  
-ud-ug  
-  
-### Set 3 (x : category, y : speakers)
-ad-ads  
-ek-eks  
-sa-sta  
-   
-ad-ads  
-ek-eks  
-sa-sta  
-  
+### Set 3
 ad-ads  
 ek-eks  
 sa-sta  
@@ -45,21 +27,7 @@ sa-sta
 shay-chay  
 boe-poe  
   
-shay-chay  
-boe-poe  
-  
-shay-chay  
-boe-poe  
-  
 ### Set 5 (x : category, y : speaker)
-boe-doe  
-ab-ad  
-vo-tho   
-  
-boe-doe  
-ab-ad  
-vo-tho   
-  
 boe-doe  
 ab-ad  
 vo-tho   
