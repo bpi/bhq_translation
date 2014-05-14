@@ -40,6 +40,7 @@ bi-di
 aff-ath    
 
 ### Customtize the tutorial text
-You can also customize the tutorial text key label to include information about some of the sounds. You might want to add some text regarding unfamiliarity of the sounds. E.g., 
+You can also customize the tutorial text to include information about some of the sounds. You might want to add some text regarding unfamiliarity of the sounds. E.g., 
 
-	"aud_sound_discrimination_tut_01-0" : "You will hear one of two increasingly similar syllables and then identify which one you heard. Some of the sounds might seem unfamiliar but they are important for auditory processing.  Click on START to begin."
+Text key: aud_sound_discrimination_tut_01-0 
+"You will hear one of two increasingly similar syllables and then identify which one you heard. Some of the sounds might seem unfamiliar but they are important for auditory processing.  Click on START to begin."
