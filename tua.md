@@ -39,7 +39,7 @@ di gi
 bi di  
 aff ath    
 
-### Remmoval of sounds-pairs
+### Removal of sounds-pairs
 If you feel that a sound pair will not work with your language we can offer the option to remove this pair from the stimulus set. 
 
 ### Customize the tutorial text
