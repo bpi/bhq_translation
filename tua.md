@@ -3,7 +3,7 @@ Fine Tuning
 
 **We do not offer customization of the auditory stimuli due to the complexity of selecting, correctly recording and processing sounds pairs. However, we do offer customization of the sound text labels.**
 
-This exercise uses sound contrasts that are useful in most European languages. Even if the sounds are not common in your language they are still useful for improving temporal processing speed and accuracy. As a last resort we are willing to remove a sounds pair if you feel it is no applicable in your language. 
+This exercise uses sound contrasts that are useful in most languages. Even if the sounds are not common in your language they are still useful for improving temporal processing speed and accuracy. As a last resort we are willing to remove a sounds pair if you feel it is no applicable in your language. 
 
 ### Customize text label list
 The lists below are the sound labels used in the English version of BrainHQ. These are used for the text on the response boxes. You can customize the labels if you think different text better represents these sounds in your language. 
