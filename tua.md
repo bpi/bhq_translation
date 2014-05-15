@@ -40,10 +40,10 @@ bi di
 aff ath    
 
 ### Removal of sounds-pairs
-If you feel that a sound pair will not work with your language we can offer the option to remove this pair from the stimulus set. 
+If you strongly feel that a sound pair will not work in your language we offer the option to remove this pair from the stimulus set. 
 
 ### Customize the tutorial text
 You can also customize the tutorial text to include information about some of the sounds. You might want to add some text regarding unfamiliarity of the sounds. E.g., 
 
 __Text key: aud_sound_discrimination_tut_01-0__  
-You will hear one of two increasingly similar syllables and then identify which one you heard. Some of the sounds might seem unfamiliar but they are important for auditory processing.  Click on START to begin.
+You will hear one of two increasingly similar syllables and then identify which one you heard. Some of the sounds might sound unfamiliar but they are important for improving auditory processing.  Click on START to begin.
