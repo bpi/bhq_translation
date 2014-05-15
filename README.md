@@ -16,8 +16,7 @@ We would like you work through the exercises that require sound recordings in a 
 
 Recording instructions are [here](recording_instr.md).
 
-## Exercises with option to tranlate text
-
+## Exercises requiring text translation
 * divided_attention (Divided Attention)
 * mot (Target Tracker)
 * ufov (Double Decision)
