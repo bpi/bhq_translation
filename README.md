@@ -16,7 +16,7 @@ We would like you work through the exercises that require sound recordings in a 
 
 Recording instructions are [here](recording_instr.md).
 
-## Exercises using text only
+## Exercises with option to tranlate text
 
 * divided_attention (Divided Attention)
 * mot (Target Tracker)
@@ -35,7 +35,7 @@ Recording instructions are [here](recording_instr.md).
 * rotation (Right Turn)
 * spatial_orientation (Mental Map)
 * optic_flow (Optic Flow)
-
+* aud_sound_discrimination (Fine Tuning) - more information [here] (tua.md)  
 
 ## Exercises requiring sound recordings 
 In addition to the text translations, the following exercises require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
@@ -65,11 +65,6 @@ When the previous step has been completed please contact us when you are ready t
 ####Step 4
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
 *  aud_chatter (In the Know).  
-  
-####Fine Tuning (aud_sound_discrimination)
-We are not offering customization of sounds for this exercises due to complexity of choosing and processing the correct stimuli. However, we do offer customization of the text for the response labels. We also offer the option to omit certain sounds pairs if they do not work in your language. More information is [here] (tua.md): 
-
-
 
 ## Beta exercises  - do not translate
 *  categorization (Categorization)
