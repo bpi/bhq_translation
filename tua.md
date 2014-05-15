@@ -8,32 +8,32 @@ This exercise uses sound contrasts that are useful in most European languages. E
 ### Customize text label list
 The lists below are the sound labels used in the English version of BrainHQ. These are used for the text on the response boxes. You can customize the labels if you think different text better represents these sounds in your language. 
 
-#### Set 1
+__Set 1__  
 ga ka  
 dee tee  
 doe toe  
 gee kee  
 
-#### Set 2 
+__Set 2__  
 da ga  
 et ek  
 ud ug  
   
-#### Set 3
+__Set 3__  
 ad ads  
 ek eks  
 sa sta  
   
-#### Set 4 
+__Set 4__  
 shay chay  
 boe poe  
   
-#### Set 5
+__Set 5__  
 boe doe  
 ab ad  
 vo tho   
   
-#### Set 6 
+__Set 6__  
 bu du  
 di gi  
 bi di  
