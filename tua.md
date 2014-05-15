@@ -8,7 +8,7 @@ Fine Tuning
 This exercise uses sound contrasts that are useful in most languages. Even if the sounds are not common in your language they are still useful for improving temporal processing speed and accuracy. 
 
 ### Customize text label list
-The lists below are the sound labels used in the English version of BrainHQ. These are used for the text on the response boxes. You can customize the labels if you think different text better represents these sounds in your language. 
+The lists below are the sound labels used in the English version of BrainHQ. These are used for the text on the response boxes. You can customize the labels if you think different text better represents these sounds in your language. Please send us a list of alternative labels. 
 
 __Set 1__  
 ga ka  
@@ -42,7 +42,7 @@ bi di
 aff ath    
 
 ### Removal of sounds-pairs
-If you strongly feel that a sound pair will not work in your language we offer the option to remove this pair from the stimulus set. 
+If you strongly feel that a sound pair will not work in your language we offer the option to remove this pair from the stimulus set. Please advise which pairs you want removed. 
 
 ### Customize the tutorial text
 You can also customize the tutorial text to include information about some of the sounds. You might want to add some text regarding unfamiliarity of the sounds. E.g., 
