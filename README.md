@@ -48,8 +48,9 @@ The sounds for the first two exercises (Mixed Signals and Auditory Ace) should b
 Please translate and record [this](easy_translations.md) stimulus set.  
 
 ####Step 2 
-We are not offering customization of sounds for this exercises due to complexity of choosing and processing the correct stimuli. However, we do offer customization of the text for the response labels. We also offer the option to omit certain sounds pairs if they do not work in your language. More information is [here] (tua.md): 
 * aud_sound_discrimination (Fine Tuning).  
+We are not offering customization of sounds for this exercises due to complexity of choosing and processing the correct stimuli. However, we do offer customization of the text for the response labels. We also offer the option to omit certain sounds pairs if they do not work in your language. More information is [here] (tua.md): 
+
 
 ####Step 3 
 When the previous step is completed you can start working on True North. This is another relatively easy stimulus set.  
