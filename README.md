@@ -48,6 +48,10 @@ The sounds for the first two exercises (Mixed Signals and Auditory Ace) should b
 Please translate and record [this](easy_translations.md) stimulus set.  
 
 ####Step 2 
+We are not offering customization of sounds for this exercises due to complexity of choosing and processing the correct stimuli. However, we do offer customization of the text for the response labels. We also offer the option to omit certain sounds pairs if they do not work in your language. More information is [here] (tua.md): 
+* aud_sound_discrimination (Fine Tuning).  
+
+####Step 3 
 When the previous step is completed you can start working on True North. This is another relatively easy stimulus set.  
 * conveyance (True North). Please translate and record [this] (conveyance.md) stimulus set.
 
@@ -56,14 +60,10 @@ Stimulus planning and generation is required for exercises with complex sound st
 
 Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, note that the conveyance (True North) exercise is a very similar task. 
 
-####Step 3
+####Step 4
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for these exercise. Note that both of these exercises use the same stimulus set.
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)  
-
-####Step 4 
-When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
-* aud_sound_discrimination (Fine Tuning).  
 
 ####Step 5
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
