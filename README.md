@@ -36,10 +36,16 @@ Recording instructions are [here](recording_instr.md).
 * spatial_orientation (Mental Map)
 * optic_flow (Optic Flow)
 
-## Exercises requiring sound stimuli 
+
+## Exercise using existing sound stimuli but option to customize text labels
+###Fine Tuning (aud_sound_discrimination)
+We are not offering customization of sounds for this exercises due to complexity of choosing and processing the correct stimuli. However, we do offer customization of the text for the response labels. We also offer the option to omit certain sounds pairs if they do not work in your language. More information is [here] (tua.md): 
+
+
+## Exercises requiring sound recordings 
 In addition to the text translations, the following exercises require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
 
-###Easy sound stimuli
+###Sound recording - easy stimuli
 ####Step 1 
 The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. This is a relatively easy set of stimuli and will help us establish that the recording methods meet our requirements. 
 * dual_modes (Mixed Signals). 
@@ -47,26 +53,21 @@ The sounds for the first two exercises (Mixed Signals and Auditory Ace) should b
 
 Please translate and record [this](easy_translations.md) stimulus set.  
 
-####Step 2 
-* aud_sound_discrimination (Fine Tuning).  
-We are not offering customization of sounds for this exercises due to complexity of choosing and processing the correct stimuli. However, we do offer customization of the text for the response labels. We also offer the option to omit certain sounds pairs if they do not work in your language. More information is [here] (tua.md): 
-
-
-####Step 3 
+####Step 2  
 When the previous step is completed you can start working on True North. This is another relatively easy stimulus set.  
 * conveyance (True North). Please translate and record [this] (conveyance.md) stimulus set.
 
-###Complex sound stimuli
+###Sound recording - complex stimuli
 Stimulus planning and generation is required for exercises with complex sound stimuli. Please contact us when you are ready to proceed with the next step so that we can start working together to produce a stimulus list. 
 
 Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, note that the conveyance (True North) exercise is a very similar task. 
 
-####Step 4
+####Step 3
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for these exercise. Note that both of these exercises use the same stimulus set.
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)  
 
-####Step 5
+####Step 4
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
 *  aud_chatter (In the Know).  
 
