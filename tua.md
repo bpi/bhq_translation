@@ -41,7 +41,7 @@ di gi
 bi di  
 aff ath    
 
-### Removal of sounds-pairs
+### Removal of contrast pairs
 If you strongly feel that a sound pair will not work in your language we offer the option to remove this pair from the stimulus set. Please advise which pairs you want removed. 
 
 ### Customize the tutorial text
