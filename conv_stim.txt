@@ -12,13 +12,6 @@
 			"trans1" : ". then, ",
 			"trans2" : ". after that",
 			"trans3" : ". next",
-			
-			"red" : "Red Line",
-			"yellow" : "Yellow Line",
-			"green" : "Green Line",
-			"blue" : "Blue Line",
-			"purple" : "Purple Line",
-
             
 			"wellwood_pk" : "Wellwood Park",
 			"southsea_plz" : "Southsea Plaza",
