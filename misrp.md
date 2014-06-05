@@ -15,7 +15,7 @@ Do these last (mix in words from the hard lists)
  - boon crags fake gone kegs lash let pab peg poke roff roop shay shob taint toe tone tube
 
 ### Four hard sound lists
-In English, chosen to maximize total frequency of words in resulting phonological neighborhoods. About
+Chosen to maximize total frequency of words in resulting phonological neighborhoods. About
 half words, half non-words; avoid very frequent words. Each list should contain about 20 words.
 
  - bake dane day nane pake pakes pape pate pay plake sane tabe tade take tame tane taned tape tave tay thay
