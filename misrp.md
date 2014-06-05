@@ -5,7 +5,7 @@ The same stimulus set is used for both of these exercises.
 ### Stimulus planning
 The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. Only after the lists are approved by Posit should the recordings be made. 
 
---It is recommended that a person with experitise in linguistics produce the lists.-- 
+__It is recommended that a person with experitise in linguistics produce these lists.__
 
 ###Male and female sets of recordings required. 
 We require the total set of stimuli to be recorded twice -- one using a male voice and the other using a female voice. 
