@@ -6,7 +6,7 @@ The same stimulus set is used for both of these exercises.
 The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. Once accepted by Posit recordings can then be made. 
 
 ###Male and female sets of recordings required. 
-We require the stimuli to be recorded using both a male and female voice. 
+We require the total set of stimuli to be recorded twice -- one using a male voice and the other using a female voice. 
 
 ### Two  easy sound lists 
 Do these last (mix in words from the hard lists). Here are the lists from the English version. You should create equivalent lists in your language. 
