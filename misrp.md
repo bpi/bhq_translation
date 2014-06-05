@@ -9,14 +9,14 @@ The lists below are the sounds used in the English version of BrainHQ. You will 
 We need two different voices to record the stimuli, preferable a male and female voice.
 
 ### Two  easy sound lists 
-Do these last (mix in words from the hard lists). Here are the lists from the English version. You create equivalent lists in your language. 
+Do these last (mix in words from the hard lists). Here are the lists from the English version. You should create equivalent lists in your language. 
 
  - bash bill can chuck dish dust fig gash gum kiss lab mat nag nut pun rib rug sit
  - boon crags fake gone kegs lash let pab peg poke roff roop shay shob taint toe tone tube
 
 ### Four hard sound lists
 Chosen to maximize total frequency of words in resulting phonological neighborhoods. About
-half words, half non-words; avoid very frequent words. Each list should contain about 20 words. Here are the lists from the English version. You create equivalent lists in your language. 
+half words, half non-words; avoid very frequent words. Each list should contain about 20 words. Here are the lists from the English version. You should create equivalent lists in your language. 
 
  - bake dane day nane pake pakes pape pate pay plake sane tabe tade take tame tane taned tape tave tay thay
  - bod bomb bon bons cob don dop lop nop on rob rock rop rot sob tob tom top tov trob von
