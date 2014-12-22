@@ -30,12 +30,14 @@ Recording instructions are [here](recording_instr.md).
 * emotion_match (Face to Face)
 * nback_card (Card Shark)
 * digit_span (Juggle Factor)
-* face_story (Face Facts) -- in addition we require translation of [these files](face_story).
 * rotation (Right Turn)
 * spatial_orientation (Mental Map)
 * optic_flow (Optic Flow)
 * task_switch (Mind Bender)
-* aud_sound_discrimination (Fine Tuning) - more information [here] (tua.md)  
+
+#### Text translation plus additional requirements
+* face_story (Face Facts) -- also require translation of [4 xml files](face_story).
+* aud_sound_discrimination (Fine Tuning) - can also customize [button labels and omit syllable pairs] (tua.md)  
 
 ## Exercises requiring sound recordings 
 In addition to the text translations, the following exercises require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
