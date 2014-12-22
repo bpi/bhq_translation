@@ -16,7 +16,7 @@ We would like you work through the exercises that require sound recordings in a 
 
 Recording instructions are [here](recording_instr.md).
 
-## Exercises requiring text translation
+## Exercises requiring text key translations
 * divided_attention (Divided Attention)
 * mot (Target Tracker)
 * ufov (Double Decision)
@@ -35,7 +35,7 @@ Recording instructions are [here](recording_instr.md).
 * optic_flow (Optic Flow)
 * task_switch (Mind Bender)
 
-#### Text translation plus additional requirements
+#### Text key translations plus additional requirements
 * face_story (Face Facts) -- also require translation of [4 xml files](face_story).
 * aud_sound_discrimination (Fine Tuning) - can also customize [button labels and omit syllable pairs] (tua.md)  
 
