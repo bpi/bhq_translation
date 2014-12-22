@@ -34,6 +34,7 @@ Recording instructions are [here](recording_instr.md).
 * rotation (Right Turn)
 * spatial_orientation (Mental Map)
 * optic_flow (Optic Flow)
+* task_switch (Mind Bender)
 * aud_sound_discrimination (Fine Tuning) - more information [here] (tua.md)  
 
 ## Exercises requiring sound recordings 
@@ -73,7 +74,6 @@ When the previous step has been completed please contact us when you are ready t
 *  visual_spatial_match (Fribbler)
 *  lucky_seven (name-lucky_seven)
 *  rule_change (Rule Change)
-*  task_switch (name-task_switch)
 *  digit_span_auditory (Auditory Juggle Factor)
 *  dualnback_card (Dual N-Back)
 
