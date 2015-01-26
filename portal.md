@@ -6,6 +6,6 @@ We need you translate a set of text keys that are currently kept outside of our 
 
 ####Portal URL
 For each locale we will set up a new portal URL to pull in the translated text. We will use the following format:
-'''
+```
 portal-[locale-name].brainhq.com
-'''
+```
