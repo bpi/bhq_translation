@@ -1,5 +1,10 @@
 
-NOTE: Do NOT translate any text inside HTML tags or inside curly braces. 
+NOTES:
+The format for each key is:
+	"text-key" : "Text to translate"
+Only translate the text on the right side of the colon. 
+	
+Do NOT translate any text inside HTML tags or inside curly braces. 
 
 {
 	"group-buy-licenses-header" : "BUY LICENSES",
