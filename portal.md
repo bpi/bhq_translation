@@ -11,7 +11,7 @@ You will also need to translate these two keys directly in the text database (ht
 ```
 
 ####Portal URL
-When we recieve the translated keys we will set up a new portal URL to pull in the translated text. We will use the following format:
+When we recieve the translated keys we will set up a new portal URL for your locale to pull in the translated text. We will use the following format:
 ```
 portal-[locale-name].brainhq.com
 ```
