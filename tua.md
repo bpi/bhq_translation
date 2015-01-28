@@ -37,8 +37,8 @@ vo tho
   
 __Set 6__  
 bu du  
-di gi  
-bi di  
+dee gee  
+bee dee  
 aff ath    
 
 ### Removal of contrast pairs
