@@ -5,7 +5,8 @@ The format for each key is:
 Do NOT translate any text inside HTML tags or inside curly braces. 
 
 {
-	"group-buy-licenses-header" : "BUY LICENSES",
+	"group-group-header" : "GROUPS ",
+	"group-buy-licenses-header" : "BUY LICENSES ",
 	"group-add-licenses" : "Add Licenses",
 	"group-new-name" : "Renaming group <code>{{name}}</code>. Now what do you want to call it?",
 	"group-add-CC-info" : "Add a credit card to get started, or select the invoice option to pay by check.",
@@ -26,7 +27,7 @@ Do NOT translate any text inside HTML tags or inside curly braces.
 	"group-create-usr-problem" : "Problem creating account. It may be that the email you've selected is already in use.",
 	"group-num-lics-avail" : "{{tot_lic}} / {{num_open_lic}} Available",
 	"group-including-free-lic" : "including {{free_lic}} complimentary",
-	"group-admin-to-add-lic " : "Contact {{owner_email}} to add licenses to this group.",
+	"group-admin-to-add-lic" : "Contact {{owner_email}} to add licenses to this group.",
 	"group-welcome" : "Welcome to the BrainHQ Group Portal",
 	"group-intro-txt" : "Create a group account for multiple BrainHQ users. You can then add users to your group, purchase and manage user licenses and monitor user progress.",
 	"group-create" : "Create a Group",
@@ -39,6 +40,8 @@ Do NOT translate any text inside HTML tags or inside curly braces.
 	"group-licensed-header" : "LICENSED",
 	"group-admin-access-info" : "Admins can view user data and assign licenses and admin privileges.",
 	"group-admin-header" : "ADMIN",
+	"group-show-legend" : "Show legend",
+	"group-hide-legend" : "Hide legend",
 	"group-click-to-impersonate" : "Click to impersonate user in a new tab.",
 	"group-click-to-download-perf" : "Click to download detailed performance data.",
 	"group-click-to-download-assess" : "Click to download assessment summaries.",
@@ -84,6 +87,7 @@ Do NOT translate any text inside HTML tags or inside curly braces.
 	"group-usr-type-ctrl" : "Control (0)",
 	"group-usr-type-active" : "Active (1)",
 	"group-usr-type-screening" : "Screening (2)",
+	"group-lastvisit-never" : "Never",
 	"group-changes-persist-info" : "Changes may take several minutes to persist"
 }
 
