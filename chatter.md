@@ -2,12 +2,24 @@ Auditory Chatter
 ==================
 
 ### Stimulus planning
-The lists below are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. Once accepted by Posit recordings can then be made. 
+First adapt [this document](chatter.csv). These are the sounds used in the English version of BrainHQ. You will need to produce an equivalent set in your language. Once you have generated a potential list of stimuli to record, please send it to Posit Science for review. Once accepted by Posit recordings can then be made. 
 
-### Four sets of recordings required. 
-We require four different voices, preferably 2 male and 2 female .
+Feel free to make the change the names to ones more appropriate for your local.
 
-### Stimuli
-First adapt [this document](chatter.csv), translating directly where possible and making changes to the spec where necessary (for example, if it is not possible to specify gender in a confirmation).
+You can ignore the column ‘base Type’ -- it is a key used in the software and does not need to be translated. 
 
-Recordings should have similar rate and intonation patterns so that they sound reasonably natural when concatenated. A good approach is to have each speaker listen to a few appropriate productions of a model speaker and produce sentences as if in response to these sounds.
+### Three sets of recordings required - two femails, one male. 
+Voice actor 1 [FEMALE]-- do all lines for speaker 1
+Voice actor 2 [MALE] -- do all lines for speaker 2
+Voice actor 3 [FEMALE-- do all lines for speaker 3
+
+### Text keys
+These two text keys are also needed. You have already translated them. 
+
+    aud_chatter_who_blank
+    aud_chatter_which_is_true_of_blank
+
+
+### Recordings
+The sentences should be able to be joined together with the other speakers to sound like a natural conversation. You might want to show your voice actors the English version first so they get an idea of the tone they should use when recording the sentences. 
+
