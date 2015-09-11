@@ -18,7 +18,7 @@ Three sets of recordings required - two female, one male.
 The sentences should be able to be joined together with the other speakers to sound like a natural conversation. You might want to show your voice actors the English version first so they get an idea of the tone they should use when recording the sentences. 
 
 ### Text keys
-These two text keys are also needed. You have already translated them. 
+These two text keys are also needed. 
 
     aud_chatter_who_blank
     aud_chatter_which_is_true_of_blank
