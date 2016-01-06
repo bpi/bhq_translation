@@ -41,6 +41,8 @@
 			"heatherton_rd" : "Heatherton Rd.",
 			"capitol_sq" : "Capitol Sq.",
 			"fisher_lib" : "Fisher Library",
+			"grand_central" : "Grand Central",
+
 			
 			"b_st" : "B Street",
 			"c_st" : "C Street",
