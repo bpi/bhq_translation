@@ -2,7 +2,7 @@ Text database
 =============
 
 ###Instructions
-* Go to brainhq.com/adm (please use Chrome or Firefox - this web site does not work with Internet Explorer).
+* Go to https://adm.brainhq.com/adm (please use Chrome or Firefox - this web site does not work with Internet Explorer).
 * Log in using your credentials - you should have already received your credentials from us by email. We use a two-step authentication -- when you first attempt to log in you will be send an authentication code to your cell phone. This code also needs to be entered.
 * Click on the blue 'bhq.admin' button and select 'edit text'. Click on your locale.
 * The color bar represents the total number of text items (or “keys”) in BrainHQ
