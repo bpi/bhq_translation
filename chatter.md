@@ -1,4 +1,4 @@
-Auditory Chatter
+In the Know (auditory chatter)
 ==================
 
 ### Stimulus planning
