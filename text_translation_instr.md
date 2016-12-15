@@ -13,7 +13,7 @@ Text database
     * 'all ok': keys that have been translated
     * 'all skip': keys that you don't want to appear in your locale
     * 'all outdated': keys that have been updated and that might need an updated translation
-    * 'all missing': keys that have not yet been trasnlated.  
+    * 'all missing': keys that have not yet been translated.  
 * Click on the 'all missing' link to see all keys that have not yet been translated.
 * Click on a key you wish to translate.
     * Replace the English text with your translated text.
