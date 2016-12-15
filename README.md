@@ -69,6 +69,7 @@ When the previous step has been completed please contact us when you are ready t
 *  aud_chatter (In the Know).  
 
 ## Beta exercises  - do not translate
+Do not tranlslate beta exerciises. Beta exercises include the following:
 *  categorization (Categorization)
 *  beep_seeker (Beep Seeker)
 *  gabor_memory (name-gabor_memory)
