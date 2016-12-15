@@ -27,6 +27,6 @@ All bins starting with the below prefixes
 * exercise-XX where exercise is the name of an exercise that you have not opted into. Typically you will not have opted into exercises that require sound translations, or are very new on the Posit side.
 
 ### Finding a text key for specific text
-You can use the search function misc.search_txt('') in the browser javascript console to find a text key. In this example, I searched for key that contains the text 'COMPARE IMAGES' using misc.search_txt('COMPARE IMAGES'). 
+You can use the search function misc.search_txt('') in the browser javascript console to find a text key. In the example below, I searched for key that contains the text 'COMPARE IMAGES' using misc.search_txt('COMPARE IMAGES'). The result shows the text key 'rotation_compare_images'. 
 
 ![alt text](searchtextexample.png "Search text example")
