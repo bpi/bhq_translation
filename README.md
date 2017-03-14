@@ -1,7 +1,7 @@
 BrainHQ Translation
 ===================
 
-###Overview
+### Overview
 There are two types of content to translate:  
 * Text: The text content is translated through a text database, then making the content live in BrainHQ. You should regularly (every week) check on the text database to ensure that you rapidly translate new text as we continue to improve and expand BrainHQ. Staying up-to-date in your translation is important, to ensure that your version of BrainHQ stays in sync with ours.
 * Sound: The sound content is translated by recording a specific set of sound stimuli, and sending the files to Posit for processing and incorporation into BrainHQ. In general, you should have to do this only once per exercise.  
@@ -42,15 +42,15 @@ Recording instructions are [here](recording_instr.md).
 ## Exercises requiring sound recordings 
 In addition to the text translations, the following exercises require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
 
-###Sound recording - easy stimuli
-####Step 1 
+### Sound recording - easy stimuli
+#### Step 1 
 The sounds for the first two exercises (Mixed Signals and Auditory Ace) should be translated first. This is a relatively easy set of stimuli and will help us establish that the recording methods meet our requirements. 
 * dual_modes (Mixed Signals). 
 * nback_card_auditory (Auditory Ace).  
 
 Please translate and record [this](easy_translations.md) stimulus set.  
 
-####Step 2  
+#### Step 2  
 When the previous step is completed you can start working on True North. This is another relatively easy stimulus set.  
 * conveyance (True North). Please translate and record [this] (conveyance.md) stimulus set.
 
@@ -59,12 +59,12 @@ Stimulus planning and generation is required for exercises with complex sound st
 
 Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, note that the conveyance (True North) exercise is a very similar task. 
 
-####Step 3
+#### Step 3
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for these exercise. Note that both of these exercises use the same stimulus set.
 * aud_spatial_match (Memory Grid)
 * syl_ordering (Syllable Stacks)  
 
-####Step 4
+#### Step 4
 When the previous step has been completed please contact us when you are ready to start stimulus planning and generation for this exercise:
 *  aud_chatter (In the Know).  
 
