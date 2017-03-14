@@ -54,7 +54,7 @@ Please translate and record [this](easy_translations.md) stimulus set.
 When the previous step is completed you can start working on True North. This is another relatively easy stimulus set.  
 * conveyance (True North). Please translate and record [this] (conveyance.md) stimulus set.
 
-###Sound recording - complex stimuli
+### Sound recording - complex stimuli
 Stimulus planning and generation is required for exercises with complex sound stimuli. Please contact us when you are ready to proceed with the next step so that we can start working together to produce a stimulus list. 
 
 Note: Due to the complexity of the stimuli in aud_instr_seq (To-Do List Training) we do not plan to offer this exercise for translation. However, note that the conveyance (True North) exercise is a very similar task. 
