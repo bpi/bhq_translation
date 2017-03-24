@@ -37,7 +37,7 @@ Recording instructions are [here](recording_instr.md).
 
 #### Text key translations plus additional requirements
 * face_story (Face Facts) -- also require translation of [4 xml files](face_story).
-* aud_sound_discrimination (Fine Tuning) - can also customize [button labels and omit syllable pairs](tua.md)  
+* aud_sound_discrimination (Fine Tuning) - can also customize button labels and omit syllable pairs. More information [here](tua.md).
 
 ## Exercises requiring sound recordings 
 In addition to the text translations, the following exercises require sound stimuli. We would like you to work through these exercises in a series of steps. Only when one step is fully completed should you move to the next step. A step is completed when the exercise it is ready to go live on our production server. 
