@@ -7,7 +7,7 @@ The lists below are the sounds used in the English version of BrainHQ. You will 
 
 __It is recommended that a person with experitise in linguistics produce these lists.__
 
-###Male and female sets of recordings required. 
+### Male and female sets of recordings required. 
 We require the total set of stimuli to be recorded twice -- one using a male voice and the other using a female voice. 
 
 ### Two  easy sound lists 
