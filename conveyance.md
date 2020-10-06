@@ -64,7 +64,7 @@ Each value must be translated. You can also update the key names but you must al
 ```
 
 ### Confusable stop keys
-The following keys are confusable stops. These values for these keys should all sound similar. If you update the key entry names make sure also updat the dictionary keys to match.
+The following keys are confusable stops. The values for these keys should all sound similar. The keys should match the corresponding key names in the dictionary.
 ```
 "confusable_stops":[
  "b_st",
@@ -79,7 +79,8 @@ The following keys are confusable stops. These values for these keys should all 
 ],
 ```
 ### Landmark keys
-If you update the key entry names make sure also update the dictionary keys to match.
+The keys should match the corresponding key names in the dictionary.
+
 ```
   "landmarks":[
    "wellwood_pk",
