@@ -116,4 +116,4 @@ The keys should match the corresponding key names in the dictionary.
 ## Sound recordings
   A recording should be made for each transated value. The sound file name should match the key.
   E.g., "fisher_lib" must have a wav file called fisher_lib.wav.
-  Further information on recording is [here] (recording_instr.md).
+  Further information on recording is [here](recording_instr.md).
