@@ -1,8 +1,8 @@
-# conveyance (True North)
+# True North (conveyance)
 We need translated dictionary entries and matching recordings.
 
 ## Dictionary translation
-We need a translated entry for each value in the dictionary. You can also update the key names but that is optional. 
+We need a translated entry for each value in the dictionary. You can also update the key names but that is optional. Note that sounds recording file names should match the key names (see Sound Recordings section below). 
 
 Format:
 ```"key":"value"```
@@ -10,7 +10,7 @@ Format:
 The key is the text before the colon. The value is the text after the colon.
 
 
-### Instructions
+#### Instructions
 ```   
    "first":"first",
    "trans":". then, ",
@@ -20,7 +20,7 @@ The key is the text before the colon. The value is the text after the colon.
    "to":"to",
   ```  
   
-### Directions
+#### Directions
   ```   
    "w":"westbound",
    "s":"southbound",
@@ -28,7 +28,7 @@ The key is the text before the colon. The value is the text after the colon.
    "e":"eastbound",
   ```  
  
-### Confusable stops. 
+#### Confusable stops. 
 These keys refer to stops that sounds similar and are easy to confuse. Example: P Street, D Street, G Street in English. You should create values in the dictiornary above sound similar in the tranlsated language. 
 ```
    "b_st":"B St.",
@@ -43,7 +43,7 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
    
 ```
 
-### Landmarks
+#### Landmarks
   ```   
    "fisher_lib":"Fisher Library",
    "sixth_ave":"6th Ave.",
