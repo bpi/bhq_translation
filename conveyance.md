@@ -29,7 +29,7 @@ The key is the text before the colon. The value is the text after the colon.
   ```  
  
 #### Confusable stops. 
-These keys refer to stops that sounds similar and are easy to confuse. Example: P Street, D Street, G Street in English. You should create values in the dictiornary above sound similar in the tranlsated language. 
+These keys refer to stops that sounds similar and are easy to confuse. Example: P Street, D Street, G Street in English. You should create values that sound similar in the tranlsated language. 
 ```
    "b_st":"B St.",
    "c_st":"C St.",
