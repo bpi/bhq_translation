@@ -2,15 +2,18 @@
 We need translated dictionary entries and matching recordings.
 
 ## Dictionary translation
+We need a translated entry for each value in the dictionary
+
 Format:
 ```"key":"value"```
 
 The key is the text before the colon. The value is the text after the colon.
 
-Each value must be translated. You can also update the key names but you must also update the entries in the confusable stop and landmark sections below.
+You can also update the key names but if you do so you must also update the entries in the confusable stop and landmark key sections below.
 
+### Dictionary:
 ```
-  "dict":{
+
    "first":"first",
    "fisher_lib":"Fisher Library",
    "sixth_ave":"6th Ave.",
@@ -60,13 +63,13 @@ Each value must be translated. You can also update the key names but you must al
    "hollinwood_bay":"Hollinwood Bay",
    "sanctuary_pk":"Sanctuary Park",
    "heatherton_rd":"Heatherton Rd."
-  },
+
 ```
 
 ### Confusable stop keys
-The following keys are confusable stops keys. The values for these keys should all sound similar. The keys should match the corresponding key names in the dictionary.
+No translation is required here. But if you made any changes in the key values in the dictionary you should also update this list. 
 
-Confusable stops are names that sounds very similar and are trickier to remember -- e.g, P Street, D Street, G Street in English. You should create sounds that sound similar in the tranlsated language. 
+These keys refer to stops that sounds similar and are easy to confuse. Example: P Street, D Street, G Street in English. You should create values in the dictiornary above sound similar in the tranlsated language. 
 ```
 "confusable_stops":[
  "b_st",
@@ -81,7 +84,7 @@ Confusable stops are names that sounds very similar and are trickier to remember
 ],
 ```
 ### Landmark keys
-The keys should match the corresponding key names in the dictionary.
+No translation is required here. But if you made any changes in the key values in the dictionary you should also update this list. 
 
 ```
   "landmarks":[
