@@ -12,12 +12,14 @@ The key is the text before the colon. The value is the text after the colon.
 
 #### Instructions
 ```   
-   "first":"first",
-   "trans":". then, ",
-   "trans2":". after that",
    "take_the":"Take the",
    "train":"train",
    "to":"to",
+   "first":"first",
+   "trans":". then, ",
+   "trans2":". after that",
+   "trans3":". next",
+
   ```  
   
 #### Directions
@@ -55,7 +57,6 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
    "atkinson_ave":"Atkinson Ave.",
    "millbury_st":"Millbury St.",
    "icebutter_c":"Icebutter Circle",
-   "trans3":". next",
    "southsea_plz":"Southsea Plaza",
    "grand_central":"Grand Central Terminal",
    "n_logan_hosp":"N. Logan Hospital",
