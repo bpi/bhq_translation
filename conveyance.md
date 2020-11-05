@@ -64,7 +64,9 @@ Each value must be translated. You can also update the key names but you must al
 ```
 
 ### Confusable stop keys
-The following keys are confusable stops. The values for these keys should all sound similar. The keys should match the corresponding key names in the dictionary.
+The following keys are confusable stops keys. The values for these keys should all sound similar. The keys should match the corresponding key names in the dictionary.
+
+The confusable stops are the names that sounds very similar and are trickier to remember -- e.g, P Street, D Street, G Street in English. You should create sounds that sound similar in the tranlsated language. 
 ```
 "confusable_stops":[
  "b_st",
