@@ -102,5 +102,5 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
  Note that the type of task changes across the Stages. 
  - Stage 1 and 2: Compass directions only
  - Stage 3: Compass and stops
- - Stage 4: Compass and confusable stops (sounds simlar to each other)
+ - Stage 4: Compass and confusable stops (sound similar)
  
