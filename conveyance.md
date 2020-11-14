@@ -95,4 +95,9 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
   Further information on recording is [here](recording_instr.md).
   
  ## Example instructions 
- [HERE](conveyanceExampleInstructions.csv) are examples of the instructions for each stage and for various difficulty levels. 
+ [HERE](conveyanceExampleInstructions.csv) are examples of the instructions for each stage and for various difficulty levels. Note that the type of task changes across the Stages. 
+ - Stage 1 and 2: Compass directions only
+ - Stage 3: Compass and stops
+ - Stage 4: Compass and confusable stops (sounds simlar to each other)
+ 
+ When the user gets responses correct more directions are added to the next set of instructions. The examples show instructions for levels 2 to 5.
