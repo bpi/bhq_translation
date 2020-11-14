@@ -88,7 +88,7 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
   - French (female) 
   - German (male)
   
-  The voice can be male or female. The instructions are read out in a style that is typical of transit instructions that you might hear at a train terminal. 
+  The voice can be male or female. The instructions should be voiced in a style that is typical of transit instructions that you might hear at a train terminal. 
   
   A recording should be made for each transated value. The sound file name should match the key.
   E.g., "fisher_lib" must have a wav file called fisher_lib.wav.
