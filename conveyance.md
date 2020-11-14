@@ -1,5 +1,5 @@
 # True North (conveyance)
-This is a train travelling task where user must remember compass and stop instructions. We need translated dictionary entries and matching recordings. The stops should be culturally appropriate for the translated language. 
+In this exercise the task is to remember instructions for travelling on a train. Users must remember compass and stop directions. We need translated dictionary entries and matching recordings. The stops should be culturally appropriate for the translated language. 
 
 ## Dictionary translation
 We need a translated entry for each value in the dictionary. You can also update the key names but that is optional. Note that sound recording file names should match the key names (see Sound Recordings section below). 
