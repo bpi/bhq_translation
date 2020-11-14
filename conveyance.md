@@ -95,7 +95,7 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
   Further information on recording is [here](recording_instr.md).
   
  ## Example instructions 
- [HERE](conveyanceExampleInstructions.csv) are examples of the instructions for each stage and for various difficulty levels. 
+ [Here](conveyanceExampleInstructions.csv) are examples of the instructions for each stage and for various difficulty levels. 
  
  When the user gets responses correct more directions are added to the next set of instructions. The examples show instructions for levels 2 to 5.
 
