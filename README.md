@@ -20,7 +20,7 @@ Recording instructions are [here](recording_instr.md).
 * divided_attention (Divided Attention)
 * mot (Target Tracker)
 * ufov (Double Decision)
-* tapat (TAPAT)
+* tapat (Freeze Frame)
 * visual_search (Hawk Eye)
 * vis_sweeps (Visual Sweeps)
 * aud_sweeps (Sound Sweeps)

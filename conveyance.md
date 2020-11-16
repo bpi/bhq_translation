@@ -1,8 +1,8 @@
 # True North (conveyance)
-We need translated dictionary entries and matching recordings.
+In this exercise the task is to remember instructions for travelling on a train. Users must remember compass and stop directions. We need translated dictionary entries and matching recordings. The stops should be culturally appropriate for the translated language. 
 
 ## Dictionary translation
-We need a translated entry for each value in the dictionary. You can also update the key names but that is optional. Note that sounds recording file names should match the key names (see Sound Recordings section below). 
+We need a translated entry for each value in the dictionary. You can also update the key names but that is optional. Note that sound recording file names should match the key names (see Sound Recordings section below). 
 
 Format:
 ```"key":"value"```
@@ -76,7 +76,31 @@ These keys refer to stops that sounds similar and are easy to confuse. Example: 
    "sanctuary_pk":"Sanctuary Park",
    "heatherton_rd":"Heatherton Rd."
 ```
+
 ## Sound recordings
+  
+  You should familiarize yourself with the existing English version of the exercise on www.brainhq.com. Once in the web app you can switch locales in the Profile section. The current translations for True North include:
+  
+  - English (female)
+  - Portuguese (female) 
+  - Italian (male) 
+  - Greek (female) 
+  - French (female) 
+  - German (male)
+  
+  The voice can be male or female. The instructions should be voiced in a style that is typical of transit instructions that you might hear at a train terminal. 
+  
   A recording should be made for each transated value. The sound file name should match the key.
   E.g., "fisher_lib" must have a wav file called fisher_lib.wav.
   Further information on recording is [here](recording_instr.md).
+  
+ ## Example instructions 
+ [Here](conveyanceExampleInstructions.csv) are examples of the instructions for each stage and for various difficulty levels. 
+ 
+ When the user gets responses correct more directions are added to the next set of instructions. The examples show instructions for levels 2 to 5.
+
+ Note that the type of task changes across the Stages. 
+ - Stage 1 and 2: Compass directions only
+ - Stage 3: Compass and stops
+ - Stage 4: Compass and confusable stops (sound similar)
+ 
