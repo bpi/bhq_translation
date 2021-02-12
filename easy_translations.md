@@ -12,17 +12,17 @@ Recordings should be unprocessed and delivered in 16-bit, 44.1 kHz .wav files al
 | blue | azul   | blue.wav |
 | yellow | amarilla | yellow.wav |
 | ... |  ... |  ... |
-| yellow | amarilla | yellow.wav |
+| Z | Z | Z.wav |
 
 ### Stimuli to translate and record
-#### Colors
+#### Colors:
 red,
 blue,
 yellow,
 green,
 brown,
 purple  
-#### Numbers
+#### Numbers:
 one,
 two,
 three,
@@ -33,23 +33,23 @@ seven,
 eight,
 nine,
 ten  
-#### Playing card info
+#### Playing card info:
 queen,
 king,
 jack,
-ace  
+ace, 
 club,
 diamond,
 heart,
 spade  
-#### Directions
+#### Directions:
 bottom,
 down,
 left,
 right,
 top,
 up  
-#### Letters
+#### Letters:
 Letters A to Z or equivalent
 
 
