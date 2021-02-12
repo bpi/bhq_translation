@@ -2,7 +2,7 @@ Mixed Signals & Auditory Ace
 ==========================
 
 ### Recording instructions
-The words should all be recorded at the same careful (but not overly slow) rate with a neutral/declarative intonation. Recording should be done in a quiet, non-resonant room using a microphone of reasonable quality.
+The words should all be recorded at the same careful (but not overly slow) rate with a neutral/declarative intonation. Recording should be done in a quiet, non-resonant room using a good quality microphone.
 
 Recordings should be unprocessed and delivered in 16-bit, 44.1 kHz .wav files along with a spreadsheet setting out the English text, Locale text and Sound file names. The sounds file name should correspond with the English text so that the exercise code can play the correct sounds.  Here is an example for three sample sounds in Spanish:
 
