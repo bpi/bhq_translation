@@ -1,11 +1,11 @@
 Mixed Signals & Auditory Ace
 ==========================
 
-###Recording instructions
+### Recording instructions
 The instructions are [here](recording_instr.md).
 
 ### Stimuli to translate and record
-####Words
+#### Words
 red,
 blue,
 yellow,
